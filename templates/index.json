@@ -15,8 +15,8 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Un visage éclatant, doux, sans défauts, confiance assurée",
-            "heading_tag": "h2"
+            "text": "Rides visibles ? Effacez-les définitivement !",
+            "heading_tag": "h1"
           }
         }
       },
@@ -28,13 +28,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_3200_x_1600_px_1.png",
-        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_6.png",
-        "mobile_text_position": "place-self-end-center text-center",
-        "desktop_text_position": "sm:place-self-end-center sm:text-center",
+        "image": "shopify://shop_images/banner_site_TB_HD.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 10
+        "overlay_opacity": 30
       }
     },
     "logo_list_4BjWGF": {
@@ -43,7 +42,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,7 +50,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Grazia-Logo_svg.webp",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -59,7 +58,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Emblem.png",
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +66,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -91,7 +90,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Élu must-have beauté 2024",
+        "title": "Vu sur:",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -110,7 +109,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la solution Pureliss ?",
+            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -136,8 +135,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/En-tete_3_afeba0b5-86bc-43d9-a642-2947682f1e06.png",
-        "mobile_image": "shopify://shop_images/En-tete_3_afeba0b5-86bc-43d9-a642-2947682f1e06.png",
+        "image": "shopify://shop_images/image_benefice3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -157,16 +155,23 @@
         "heading_gcwVkK": {
           "type": "heading",
           "settings": {
-            "text": "Épilation Pure Glide : Indolore, un visage rayonnant, une confiance décuplée",
-            "heading_tag": "h4",
+            "text": "Un mode d'infusion innovant et indolore",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "richtext_kzMpxh": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
           }
         }
       },
       "block_order": [
         "subheading_dCqXRR",
-        "heading_gcwVkK"
+        "heading_gcwVkK",
+        "richtext_kzMpxh"
       ],
       "settings": {
         "full_width": true,
@@ -175,30 +180,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_9CKhXR": {
-      "type": "video",
-      "blocks": {
-        "play_nYEtKQ": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_nYEtKQ"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/ad2cd09aa775469894a334f1a07e926f.HD-1080p-2.5Mbps-36305217.mp4",
-        "mobile_video": "shopify://files/videos/ad2cd09aa775469894a334f1a07e926f.HD-1080p-2.5Mbps-36305217.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -223,13 +204,14 @@
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
-        "rating": 4.5,
+        "rating": 4.7,
         "rating_hide": false,
         "rating_text_hide": false,
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text_right_image": "shopify://shop_images/Trustpilot_logo_1.png",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -319,7 +301,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#ffffff",
+        "background_color": "#f0f0f0",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -337,14 +319,27 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "Laura",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/AVANT.png",
             "column_size": "3",
-            "title": "Julie",
+            "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>Fini les poils indésirables et les séances chez l’esthéticienne ! Ce bijou offre une épilation efficace, indolore et durable.\"</p>",
+            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -353,11 +348,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/AVANTLAST.png",
             "column_size": "3",
-            "title": "Manon",
+            "title": "Agathe",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>J’avais peur des irritations, mais cet épilateur respecte parfaitement ma peau. Testé par des dermatologues, il est ultra efficace et doux !<em>\"</em></p>",
+            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -366,11 +361,11 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>Un gain de temps incroyable ! Plus besoin de me raser tous les jours, ma peau reste lisse et impeccable bien plus longtemps.<em>\"</em></p>",
+            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -379,11 +374,11 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
+            "image": "shopify://shop_images/AVANT2.png",
             "column_size": "3",
-            "title": "Amandine",
+            "title": "Sylvie",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>Adieu les rasoirs jetables et les poils rebelles ! Cet appareil change la donne avec une épilation rapide, économique et sans douleur<em>\"</em></p>",
+            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -392,24 +387,11 @@
         "item_4yzaE8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6.png",
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
-            "title": "Françoise",
+            "title": "Brigitte",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>J’adore ce produit ! Il élimine les poils à la racine et laisse une sensation de douceur incroyable, sans rougeurs ni boutons.<em>\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "column_size": "3",
-            "title": "Ibtissam",
-            "heading_tag": "h4",
-            "content": "<p><em>\"</em>Cet épilateur est une révolution ! Ma peau reste douce et soyeuse pendant des semaines, sans irritation. Un vrai bonheur !<em>\"</em></p>",
+            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -418,11 +400,11 @@
         "item_EwNkYx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/7.png",
+            "image": "shopify://shop_images/4.png",
             "column_size": "3",
-            "title": "Denise",
+            "title": "Estelle",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>L’épilation devient un vrai plaisir ! Simple à utiliser, hyper efficace et surtout, je profite d’une peau impeccable sans effort.<em>\"</em></p>",
+            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -431,11 +413,11 @@
         "item_yViHK3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/8.png",
+            "image": "shopify://shop_images/5.png",
             "column_size": "3",
-            "title": "Béatrice",
+            "title": "Tiphaine",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>Je suis conquise ! Facile d’utilisation, résultats bluffants et peau ultra lisse pendant des semaines. Je ne peux plus m’en passer !<em>\"</em></p>",
+            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -444,11 +426,11 @@
         "item_JUW7xR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/9.png",
+            "image": "shopify://shop_images/6.png",
             "column_size": "3",
             "title": "Christelle",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>Un must-have ! J’ai testé plein de méthodes, mais celle-ci est de loin la meilleure : rapide, indolore et hyper efficace<em>\"</em></p>",
+            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -456,12 +438,12 @@
         }
       },
       "block_order": [
+        "item_7BdeiK",
         "item_JJLm4U",
         "item_GECyWQ",
         "item_MwJML3",
         "item_p6MkDp",
         "item_4yzaE8",
-        "item_7BdeiK",
         "item_EwNkYx",
         "item_yViHK3",
         "item_JUW7xR"
@@ -477,38 +459,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "press_JEKmUH": {
-      "type": "press",
-      "blocks": {
-        "quote_R6FT3G": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Valentine.C cliente vérifiée",
-            "content": "\"Indolore et efficace, peau lisse et éclatante !\"",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_R6FT3G"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "small",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "text_color": ""
       }
     },
     "featured-product": {
@@ -522,7 +475,7 @@
         "liquid_UqCNKi": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #00B67A; /* Couleur officielle des étoiles Trustpilot */\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path fill=\"#00B67A\" d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path fill=\"#00B67A\" d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path fill=\"#00B67A\" d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path fill=\"#00B67A\" d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path fill=\"#00B67A\" d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 par +1000 clientes !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2E4147;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title": {
@@ -545,6 +498,7 @@
           "type": "image",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/Winter_Sale_FR.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -552,12 +506,13 @@
         "liquid_jnATdX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Pureliss</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Kits</div>\n</div>"
           }
         },
         "image_h9L7gC": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/offert_serum_4e1202a9-0bd8-410a-9d6b-e190e5a30a31.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -593,7 +548,6 @@
         },
         "quantity-selector": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "buy-buttons": {
@@ -601,16 +555,18 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#00b67a",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#00b67a",
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "#f0c417",
             "payment_button_text_color": ""
           }
         },
-        "liquid_pGatbB": {
-          "type": "liquid",
+        "image_NnVtjL": {
+          "type": "image",
           "settings": {
-            "liquid": "<ul style=\"display: flex; align-items: center; justify-content: center; flex-wrap: nowrap; gap: 8px; overflow-x: auto; max-width: 100%; margin-top: -15px; position: relative; z-index: 10;\" class=\"list list-payment\" role=\"list\">\n  {%- for type in shop.enabled_payment_types -%}\n    <li class=\"list-payment__item\" style=\"display: inline-flex;\">\n      {{ type | payment_type_svg_tag: class: 'icon icon--full-color', size: '32x32' }}\n    </li>\n  {%- endfor -%}\n</ul>"
+            "image": "shopify://shop_images/icon_trust_atc4.png",
+            "alignment": "center",
+            "max_width": 500
           }
         }
       },
@@ -629,20 +585,20 @@
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
-        "liquid_pGatbB"
+        "image_NnVtjL"
       ],
       "settings": {
         "full_width": false,
-        "product": "sinuslicht2",
+        "product": "systeme-micro-infusion-ceralyne",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -655,24 +611,24 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu de votre Pureliss",
-            "content": "<p><strong>contenu du pack : Tout le nécessaire pour une épilation parfaite !</strong></p><p>✔ <strong>Pureliss</strong> – Votre épilateur haute performance pour une peau lisse et douce.<br/>✔ <strong>Couvercle de protection</strong> – Pour préserver l’appareil et garantir une hygiène optimale.<br/>✔ <strong>Brosse de nettoyage</strong> – Pour entretenir facilement votre épilateur et assurer son efficacité.<br/>✔ <strong>Câble USB-C</strong> – Recharge rapide et pratique, où que vous soyez.</p><p>Tout ce dont vous avez besoin pour une expérience d’épilation simple, efficace et durable ! ✨</p>",
+            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
+            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
             "page": ""
           }
         },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Technologie Pure Glide",
-            "content": "<p>Découvrez <strong>Pure GlIde™</strong>, une technologie brevetée qui transforme l’expérience de l’épilation. Conçue pour offrir <strong>une performance inégalée</strong>, elle assure une <strong>épilation ultra-efficace</strong>, tout en respectant les peaux les plus sensibles.</p><p>✅ <strong>Arrachage des poils à la racine</strong> pour une douceur longue durée<br/>✅ <strong>Jusqu'à 10X plus performant</strong> que les méthodes classiques<br/>✅ <strong>Convient à tous les types de peau</strong>, même les plus délicates<br/>✅ <strong>Réduction de la repousse</strong> pour une peau nette jusqu'à <strong>4 semaines</strong><br/>✅ <strong>Technologie approuvée dermatologiquement</strong> pour un confort absolu</p><p>Grâce à <strong>Pure Glide™</strong>, dites adieu aux irritations et aux poils incarnés. Profitez d’une peau <strong>lisse, douce et éclatante</strong> en toute simplicité. </p><p><strong>Passez à l’épilation nouvelle génération avec Pure Glide™ !</strong> </p>",
+            "title": "Composition Sérum Peptide Ceralyne",
+            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
             "page": ""
           }
         },
         "tab_GUd9zE": {
           "type": "tab",
           "settings": {
-            "title": "Design et autonomie",
-            "content": "<p>📏 <strong>Design compact et matériaux de qualité !</strong></p><p>✔ <strong>Dimensions</strong> : 2,55 x 2,55 x 13,9 cm – Léger et facile à transporter.<br/>✔ <strong>Poids</strong> : Seulement <strong>66 g</strong> – Idéal pour une prise en main confortable.<br/>✔ <strong>Matériaux</strong> : Conçu en <strong>plastique et acier inoxydable</strong> pour une durabilité optimale.<br/>✔ <strong>Tête lavable à l’eau</strong> 💦 – Hygiène assurée pour une utilisation toujours propre et efficace.</p><p>Un épilateur pratique, élégant et performant, parfait pour un usage quotidien ! ✨</p><p></p><p><strong>Performance et autonomie optimales !</strong></p><p>✔ <strong>60 minutes d’autonomie</strong> 🔋 – Profitez d’une séance d’épilation complète sans interruption.<br/>✔ <strong>Recharge rapide en 2 heures</strong> ⚡ – Pratique et efficace, toujours prêt à l’emploi.</p><p>Un épilateur conçu pour s’adapter à votre rythme et vous offrir une peau douce sans contrainte ! ✨</p>",
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
             "page": ""
           }
         },
@@ -680,7 +636,7 @@
           "type": "tab",
           "settings": {
             "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le Pureliss sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
+            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
             "page": ""
           }
         },
@@ -688,7 +644,7 @@
           "type": "tab",
           "settings": {
             "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@pureliss.fr</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
             "page": ""
           }
         }
@@ -714,33 +670,17 @@
         "heading_gradient": ""
       }
     },
-    "image_with_text_overlay_6VCe6E": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_3200_x_1600_px_3.png",
-        "mobile_image": "shopify://shop_images/Des_nouvelles_tendances_beautes_2025_1300_x_1500_px_7.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/68cd9536edd14bd9b5002f4d1d1cab30.HD-1080p-7.2Mbps-36307484.mp4",
+            "image": "shopify://shop_images/image_3_2.webp",
             "column_size": "3",
-            "title": "Efficacité prouvée",
+            "title": "Peptides de collagène",
             "heading_tag": "h4",
-            "content": "<p>Testé et approuvé par des dermatologues, cet épilateur élimine les poils directement à la racine pour une douceur longue durée.</p>",
+            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -749,11 +689,11 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_0b1130f5-09a0-4cb5-a2a5-bd65408ac3bc.png",
+            "image": "shopify://shop_images/elastyn.png",
             "column_size": "3",
-            "title": "Respect de la peau",
+            "title": "Élastine",
             "heading_tag": "h4",
-            "content": "<p>Conçu pour minimiser les irritations, il convient même aux peaux sensibles. Adieu rougeurs et inconfort !</p>",
+            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -762,11 +702,37 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_05cd5191-10e6-4686-967b-5df650446db1.png",
+            "image": "shopify://shop_images/image_3_4.webp",
             "column_size": "3",
-            "title": "Résultats longue durée",
+            "title": "Acide hyaluronique",
             "heading_tag": "h4",
-            "content": "<p>Fini les repousses rapides ! Profitez de plusieurs semaines de tranquillité sans aucun poil.</p>",
+            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LV4cm8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_1.webp",
+            "column_size": "3",
+            "title": "Glycérine",
+            "heading_tag": "h4",
+            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6nijje": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/squalane.png",
+            "column_size": "3",
+            "title": "Squalane",
+            "heading_tag": "h4",
+            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -776,7 +742,9 @@
       "block_order": [
         "item_xiaYUR",
         "item_QdbeiM",
-        "item_dPL9Rr"
+        "item_dPL9Rr",
+        "item_LV4cm8",
+        "item_6nijje"
       ],
       "settings": {
         "full_width": true,
@@ -784,104 +752,248 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Testé par des dermatologues",
+        "title": "Ingrédients testés cliniquement",
         "content": "",
-        "background": "#d9cde5",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
     },
+    "rich_text_JEkECK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_t6DjJt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2><strong>U</strong>ne peau rajeunie<strong> en seulement 4 étapes</strong></h2>"
+          }
+        },
+        "richtext_x7NCKi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_t6DjJt",
+        "richtext_x7NCKi"
+      ],
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "how_to_use_sambal_mtLn7y": {
+      "type": "how-to-use-sambal",
+      "blocks": {
+        "step_7q9JWB": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "",
+            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
+            "alignment": "left"
+          }
+        },
+        "step_VCbrVx": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "",
+            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
+            "alignment": "left"
+          }
+        },
+        "step_QxA9A8": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "",
+            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
+            "alignment": "left"
+          }
+        },
+        "step_rTyP7G": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "",
+            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
+            "alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "step_7q9JWB",
+        "step_VCbrVx",
+        "step_QxA9A8",
+        "step_rTyP7G"
+      ],
+      "custom_css": [],
+      "settings": {}
+    },
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
-        "item_yDiwY9": {
-          "type": "item",
-          "settings": {
-            "title": "Comment fonctionne PureLiss ?",
-            "content": "<p>PureLiss élimine les poils <strong>directement à la racine</strong>, offrant une peau douce et nette <strong>pendant plusieurs semaines</strong>, contrairement au rasoir qui coupe le poil en surface.</p>"
-          }
-        },
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "PureLiss est-il sûr pour ma peau ?",
-            "content": "<p>Oui, <strong>testé et approuvé par des dermatologues</strong>, il est conçu pour respecter <strong>tous types de peaux</strong>, y compris les plus sensibles, sans irritation.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
+          }
+        },
+        "item_yDiwY9": {
+          "type": "item",
+          "settings": {
+            "title": "Comment fonctionne la micro-infusion?",
+            "content": "<p>Notre <strong>système de micro-infusion</strong> révolutionnaire utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer des micro-canaux à la surface de la peau.</p><p>Grâce à cette technologie, un sérum concentré en <strong>acide hyaluronique et peptides de collagène</strong> pénètre en <strong>profondeur</strong>, là où les soins anti-âge classiques n’atteignent pas.</p><p><strong>Résultat : votre collagène est stimulé</strong>, réduisant rides, ridules et relâchement cutané, pour une peau plus ferme et éclatante.</p><p>Utilisez-le <strong>toutes les deux semaines</strong> et retrouvez une peau plus lisse et tonifiée depuis le confort de votre maison, en seulement quelques séances !</p><p>1️⃣ <strong>Préparation</strong> : Remplissez l’applicateur avec le sérum et fixez une tête de micro-aiguilles stérile à usage unique.</p><p>2️⃣ <strong>Activation</strong> : Retournez l’appareil et laissez le sérum s’imprégner pendant 1 à 2 minutes.</p><p>3️⃣ <strong>Application</strong> : Tapotez délicatement la peau (visage, cou, lèvres), en effectuant <strong>2 à 3 passages</strong> pour une absorption optimale.</p><p>4️⃣ <strong>Soin après application</strong> : Massez l’excédent de sérum sur la peau et laissez agir toute la nuit. <strong>Évitez le maquillage et l’exposition au soleil pendant 24h</strong>. Vous pouvez compléter avec votre routine de soins habituelle.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "La tête de l’épilateur est-elle lavable ?",
-            "content": "<p>Oui, <strong>la tête est lavable à l’eau</strong>, garantissant une hygiène optimale après chaque utilisation.</p>"
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps dure l’autonomie de PureLiss ?",
-            "content": "<p>L’épilateur <strong>offre jusqu’à 60 minutes d’autonomie</strong>, permettant plusieurs séances d’épilation sans recharge.</p>"
+            "title": "Les têtes d'aiguille sont-elles réutilisables?",
+            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps faut-il pour recharger l’appareil ?",
-            "content": "<p>Il se <strong>recharge complètement en 2 heures</strong> grâce à son <strong>câble USB-C</strong> pour une utilisation rapide et efficace.</p>"
+            "title": "Où puis-je l'utiliser ?",
+            "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à <strong>la perte de collagène</strong>.<br/>Utilisez-le <strong>toutes les deux semaines</strong> pour stimuler <strong>la production naturelle de collagène</strong>.</p><p>✔ <strong>Rides du front</strong><br/>✔ <strong>Rides du lion</strong> (entre les sourcils)<br/>✔ <strong>Pattes d’oie</strong><br/>✔ <strong>Rides autour des yeux</strong><br/>✔ <strong>Rides du nez (\"bunny lines\")</strong><br/>✔ <strong>Menton irrégulier (\"strawberry chin\")</strong><br/>✔ <strong>Sillons nasogéniens</strong><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/>✔ <strong>Plis d’amertume</strong> (aux coins des lèvres)<br/>✔ <strong>Relâchement du cou (\"turkey neck\")</strong></p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Peut-on l’utiliser pendant la charge ?",
-            "content": "<p>Non, pour des raisons de sécurité, l’épilateur doit être utilisé <strong>sans fil</strong>, après une recharge complète.</p>"
+            "title": "À quelle vitesse verrai-je les résultats?",
+            "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Que contient le pack ?",
-            "content": "<p>Chaque pack comprend :<br/>✔ <strong>PureLiss</strong>, l’épilateur haute performance<br/>✔ <strong>Un couvercle de protection</strong> pour une meilleure hygiène<br/>✔ <strong>Une brosse de nettoyage</strong> pour un entretien facile<br/>✔ <strong>Un câble USB-C</strong> pour une recharge rapide</p>"
+            "title": "Est-ce efficace pour les hommes ?",
+            "content": "<p>Absolument !<br/><br/>Le Micro Infusion Kit est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.<br/><br/>Il cible efficacement les problèmes de peau courants tels que les ridules, les rides, les taches sombres et les textures irrégulières, quel que soit le genre. Les hommes peuvent bénéficier des mêmes avantages de régénération et d'amélioration de la peau que les femmes.</p>"
           }
         },
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "Quelles sont les dimensions de l’appareil ?",
-            "content": "<p>PureLiss est <strong>compact et ergonomique</strong>, avec des dimensions de <strong>2,55 x 2,55 x 13,9 cm</strong> et un poids de <strong>66 g</strong>.</p>"
+            "title": "Est-ce sûr pour tous les types de peau?",
+            "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si vous avez une affection cutanée sérieuse, il est recommandé de consulter votre médecin avant d'utiliser le produit.</p>"
           }
         },
         "item_6cJAWF": {
           "type": "item",
           "settings": {
-            "title": "De quels matériaux est-il composé ?",
-            "content": "<p>Il est conçu en <strong>plastique et acier inoxydable</strong>, garantissant <strong>durabilité et légèreté</strong>.</p>"
+            "title": "Est-ce efficace autour des yeux, des paupières et sur le cou?",
+            "content": "<p>Oui, il fonctionne pratiquement partout, car le vieillissement de la peau sur tout le corps est causé par la perte de collagène, ce que notre système traite en seulement quelques séances !<br/><br/>Cependant, évitez d'appliquer le dispositif trop près de la zone délicate des yeux, notamment directement sur les paupières ou la ligne des cils. Maintenez une distance d'au moins 3 cm (1,5 pouce) des yeux.<br/><br/>Pour les lèvres, appliquez délicatement l'appareil directement sur les lèvres pour de meilleurs résultats.<br/><br/>Vous pouvez également suivre notre guide vidéo étape par étape que vous recevrez avec votre commande.</p>"
           }
         },
         "item_3ydTfx": {
           "type": "item",
           "settings": {
-            "title": "Y a-t-il une garantie sur l’appareil ?",
-            "content": "<p>Oui, PureLiss est garanti <strong> 1 an</strong> contre tout défaut de fabrication.</p>"
+            "title": "Y a-t-il un temps de pause nécessaire entre chaque utilisation ?",
+            "content": "<p>Il n'y a pratiquement pas de temps de pause après l'utilisation du Micro Infusion Kit.<br/><br/>Vous pourriez observer une légère rougeur ou une sensibilité discrète immédiatement après le soin, mais ces effets disparaissent généralement en quelques heures à un jour.<br/><br/>Il est conseillé d'éviter le maquillage, l'exposition directe au soleil et les produits de soin trop agressifs pendant au moins 24 heures après le traitement, afin de permettre à la peau de se régénérer correctement.</p>"
           }
         },
         "item_QbyjD9": {
           "type": "item",
           "settings": {
-            "title": "Puis-je retourner l’appareil si je ne suis pas satisfait(e) ?",
-            "content": "<p>Oui, nous proposons un <strong>retour sous (indiquer politique de retour, ex : 14 jours)</strong> si l’appareil ne vous convient pas.</p>"
+            "title": "Puis-je utiliser de l’acide hyaluronique ou du rétinol après avoir utilisé le Micro Infusion Kit ?",
+            "content": "<p>Vous pouvez appliquer vos soins habituels, tels que des crèmes à base d'acide hyaluronique, la nuit suivant l'utilisation du Micro Infusion Kit. Cela aidera à hydrater et apaiser la peau, tout en renforçant les bienfaits du traitement (l'absorption des produits sera également améliorée jusqu'à 300%, conduisant à des résultats encore plus visibles).<br/><br/>Cependant, évitez d'utiliser du rétinol ou d'autres ingrédients actifs puissants comme les acides (par exemple, l'acide glycolique ou salicylique) immédiatement après le soin. Ces produits peuvent irriter la peau fraîchement traitée.<br/><br/>Attendez au moins 24 à 48 heures avant de réintroduire le rétinol ou d'autres actifs puissants dans votre routine de soins pour permettre à votre peau de se rétablir complètement. Suivez toujours les instructions de soins après traitement pour obtenir les meilleurs résultats.<br/><br/>En dehors de cela, veillez à ne pas appliquer de maquillage et à garder votre peau propre pendant environ 12 heures après le traitement.</p>"
           }
         },
         "item_RKyzeA": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je recevoir mon épilateur ?",
-            "content": "<p>Les délais de livraison varient selon votre localisation, généralement entre <strong>8 à 15 jours ouvrés. Nous utilisons des moyens de livraison éco responsable </strong></p>"
+            "title": "Ce produit est-il automatiquement renouvelé et expédié chaque mois ?",
+            "content": "<p><strong>Non</strong>, le Micro Infusion Kit ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
+          }
+        },
+        "item_MihJ8p": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ce produit aide à atténuer les rides très profondes ?",
+            "content": "<p>Oui, le Micro Infusion Kit peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 3 à 6 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
+          }
+        },
+        "item_GWJTCQ": {
+          "type": "item",
+          "settings": {
+            "title": "Ce produit aide-t-il également à atténuer les cicatrices ?",
+            "content": "<p><strong>Oui</strong>, le Micro Infusion Kit peut améliorer l'apparence de certains types de cicatrices, comme les cicatrices d'acné ou les cicatrices superficielles mineures.<br/><br/>Le processus de microneedling stimule la production de collagène, ce qui peut aider à lisser et à estomper les cicatrices au fil du temps.<br/><br/>Cependant, pour les cicatrices profondes ou sévères, les résultats peuvent varier. Toutefois, soyez assuré que notre garantie de remboursement de 90 jours reste valable pour toutes les commandes.</p>"
+          }
+        },
+        "item_DAfyn3": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce facile à utiliser ? Y a-t-il de bonnes instructions ?",
+            "content": "<p>Oui, le Micro Infusion Kit est simple et facile à utiliser, et chaque traitement ne prend que 5 à 10 minutes.<br/><br/>Chaque commande est accompagnée d'instructions vidéo claires et d'un manuel détaillé pour vous guider tout au long du processus, afin de vous assurer d'obtenir les meilleurs résultats.<br/><br/>Les instructions couvrent tout, de la préparation du dispositif à l'application du sérum et aux soins après traitement.<br/><br/>Même si vous êtes novice en matière de ce type de soin, vous trouverez les étapes faciles à suivre.</p>"
+          }
+        },
+        "item_VnHdN7": {
+          "type": "item",
+          "settings": {
+            "title": "Qui devrait utiliser le Micro Infusion Kit ?",
+            "content": "<p>La production de collagène commence à diminuer dès la vingtaine, rendant les traitements de régénération de la peau plus bénéfiques au fil des années.</p><p>Le Micro Infusion Kit est idéal pour les adultes de 25 à 80 ans qui souhaitent améliorer l'apparence de leur peau.</p><p>Il aide à réduire les ridules, les rides, les taches sombres et les irrégularités de texture, et convient à tous les types de peau.</p><p>Cependant, il n'est pas recommandé aux personnes ayant des affections cutanées graves, comme la rosacée, l'eczéma ou l'acné agressive, car ces conditions pourraient être aggravées. Si vous avez des préoccupations spécifiques ou des conditions médicales, il est conseillé de consulter un dermatologue avant utilisation.</p>"
+          }
+        },
+        "item_3EBPbR": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser le Micro Infusion Kit si j'ai déjà eu des injections cosmétiques?",
+            "content": "<p>Oui, vous pouvez utiliser le Micro Infusion Kit même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
+          }
+        },
+        "item_D3yQPm": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les ingrédients ?",
+            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>"
+          }
+        },
+        "item_8eKwAt": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser avec mon propre sérum ?",
+            "content": "<p>Nous ne recommandons pas d'utiliser le Micro Infusion Kit avec des sérums autres que celui fourni.</p><p>Le sérum inclus est spécialement formulé pour fonctionner en harmonie avec la technologie de microneedling du dispositif, garantissant une absorption et une efficacité optimales.</p>"
+          }
+        },
+        "item_V4HbrJ": {
+          "type": "item",
+          "settings": {
+            "title": "La Micro-infusion ceralyne peut-elle être utilisée en combinaison avec la thérapie par lumière rouge et les lasers RF ?",
+            "content": "<p>Oui, la Micro-Infusion ceralyne peut être combinée en toute sécurité avec des traitements comme la thérapie par lumière rouge ou la thérapie au laser RF.<br/><br/>Cependant, il est important de prévoir une période de récupération d’au moins deux nuits après l’utilisation de la Mincro-infusion ceralyne avant d’introduire ces thérapies. Cela permet à votre peau de se régénérer et optimise les bienfaits de tous les traitements.</p>"
+          }
+        },
+        "item_Bme77T": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
+            "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
           }
         }
       },
       "block_order": [
-        "item_yDiwY9",
         "item_qfyPPE",
+        "item_yDiwY9",
         "item_8yPykD",
         "item_Qt9h7g",
         "item_mrg8b4",
@@ -891,7 +1003,16 @@
         "item_6cJAWF",
         "item_3ydTfx",
         "item_QbyjD9",
-        "item_RKyzeA"
+        "item_RKyzeA",
+        "item_MihJ8p",
+        "item_GWJTCQ",
+        "item_DAfyn3",
+        "item_VnHdN7",
+        "item_3EBPbR",
+        "item_D3yQPm",
+        "item_8eKwAt",
+        "item_V4HbrJ",
+        "item_Bme77T"
       ],
       "settings": {
         "full_width": true,
@@ -917,23 +1038,6 @@
     },
     "17359565654f612dcd": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_F4JVdm": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_F4JVdm"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -950,14 +1054,13 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_QXqMJ7",
-    "video_9CKhXR",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
-    "press_JEKmUH",
     "featured-product",
     "tabs_Waa9zt",
-    "image_with_text_overlay_6VCe6E",
     "multi_column_wTJTNc",
+    "rich_text_JEkECK",
+    "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
