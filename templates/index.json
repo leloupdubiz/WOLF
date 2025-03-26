@@ -28,7 +28,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banner_site_TB_HD.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -42,7 +41,6 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -50,7 +48,6 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -58,7 +55,6 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -66,7 +62,6 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -135,7 +130,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_benefice3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -182,6 +176,37 @@
         "text_color": ""
       }
     },
+    "video_aTziap": {
+      "type": "video",
+      "blocks": {
+        "play_nTaAh3": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_LA6RHK": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_nTaAh3",
+        "heading_LA6RHK"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "poster": "shopify://shop_images/25.225__3.gif",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -211,7 +236,6 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
-        "text_right_image": "shopify://shop_images/Trustpilot_logo_1.png",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -322,7 +346,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
@@ -335,7 +358,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT.png",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
@@ -348,7 +370,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANTLAST.png",
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
@@ -361,7 +382,6 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
@@ -374,7 +394,6 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT2.png",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
@@ -387,7 +406,6 @@
         "item_4yzaE8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
@@ -400,7 +418,6 @@
         "item_EwNkYx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "Estelle",
             "heading_tag": "h4",
@@ -413,7 +430,6 @@
         "item_yViHK3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
             "column_size": "3",
             "title": "Tiphaine",
             "heading_tag": "h4",
@@ -426,7 +442,6 @@
         "item_JUW7xR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6.png",
             "column_size": "3",
             "title": "Christelle",
             "heading_tag": "h4",
@@ -498,7 +513,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Winter_Sale_FR.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -512,7 +526,6 @@
         "image_h9L7gC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/offert_serum_4e1202a9-0bd8-410a-9d6b-e190e5a30a31.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -564,7 +577,6 @@
         "image_NnVtjL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/icon_trust_atc4.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -676,7 +688,6 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_2.webp",
             "column_size": "3",
             "title": "Peptides de collagène",
             "heading_tag": "h4",
@@ -689,7 +700,6 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/elastyn.png",
             "column_size": "3",
             "title": "Élastine",
             "heading_tag": "h4",
@@ -702,7 +712,6 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_4.webp",
             "column_size": "3",
             "title": "Acide hyaluronique",
             "heading_tag": "h4",
@@ -715,7 +724,6 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_1.webp",
             "column_size": "3",
             "title": "Glycérine",
             "heading_tag": "h4",
@@ -728,7 +736,6 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/squalane.png",
             "column_size": "3",
             "title": "Squalane",
             "heading_tag": "h4",
@@ -1054,6 +1061,7 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_QXqMJ7",
+    "video_aTziap",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
