@@ -18,12 +18,13 @@
     "background": "#ffffff",
     "text_color": "#1a1a1a",
     "success_color": "#00a341",
-    "header_background": "#000000",
-    "header_text_color": "#ffffff",
-    "footer_background": "#000000",
-    "footer_text_color": "#ffffff",
-    "primary_button_background": "#1a1a1a",
-    "primary_button_text_color": "#ffffff",
+    "header_background": "#f0f0f0",
+    "header_text_color": "#2e4147",
+    "footer_background": "#f0f0f0",
+    "footer_text_color": "#2e4147",
+    "dialog_background": "#f0f0f0",
+    "primary_button_background": "#2e4147",
+    "primary_button_text_color": "#f0f0f0",
     "secondary_button_background": "#f0c417",
     "secondary_button_text_color": "#1a1a1a",
     "product_card_text_color": "#1a1a1a",
@@ -41,29 +42,7 @@
     "favicon": "shopify://shop_images/SOLECONNECT_7.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "17198465164502963513": {
-        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
-        "disabled": false,
-        "settings": {}
-      },
-      "7147999719060634790": {
-        "type": "shopify://apps/gsc-countdown-timer/blocks/countdown-bar/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-        "disabled": false,
-        "settings": {}
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
-      },
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {

@@ -48,9 +48,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#faadc2",
+        "background": "#2e4147",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#f0f0f0"
       }
     },
     "header": {
@@ -58,7 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/SOLECONNECT_1.png",
+        "logo": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
