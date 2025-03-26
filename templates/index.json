@@ -11,18 +11,6 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Perte de Graisse Révolutionnaire : 3 cm en 21 Jours Sans Régime (Prouvé en Labo)",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -33,7 +21,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_4BjWGF": {
