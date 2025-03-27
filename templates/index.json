@@ -716,7 +716,7 @@
           "type": "tab",
           "settings": {
             "title": "Que contient un paquet ?",
-            "content": "<p>Chaque paquet SlimFuze est conçu pour un nombre précis de traitements.<br/><br/><strong>Durée & Fréquence</strong> </p><ul><li><strong>Phase intensive</strong> : 1 patch/jour pendant <strong>10-15 jours</strong>.</li><li><strong>Phase d'entretien</strong> : 2-3 patchs/semaine pendant <strong>1 mois</strong>.</li><li><strong>Résultats visibles</strong> : À partir de <strong>J21</strong> (selon métabolisme).</li></ul>",
+            "content": "<p>Chaque paquet SlimFuze contient 10 patchs<br/><br/>Prenez en 3 pour 1 mois.<br/><br/><strong>Durée & Fréquence</strong> </p><ul><li><strong>Phase intensive</strong> : 1 patch/jour pendant <strong>10-15 jours</strong>.</li><li><strong>Phase d'entretien</strong> : 2-3 patchs/semaine pendant <strong>1 mois</strong>.</li><li><strong>Résultats visibles</strong> : À partir de <strong>J21</strong> (selon métabolisme).</li></ul>",
             "page": ""
           }
         },
