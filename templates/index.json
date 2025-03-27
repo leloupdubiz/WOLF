@@ -710,6 +710,40 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_wb9Dzz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iG4mB4": {
+          "type": "heading",
+          "settings": {
+            "text": "Questions Fréquentes",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_fHeVqX": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "FAQ"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iG4mB4",
+        "subheading_fHeVqX"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_Waa9zt": {
       "type": "tabs",
       "blocks": {
@@ -770,7 +804,7 @@
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#263e46",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -1205,17 +1239,18 @@
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
     "featured-product",
+    "tabs_Waa9zt",
     "rich_text_wLB3E3",
     "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_pjaxby",
     "image_with_text_overlay_3HJ7Vn",
     "image_with_text_overlay_hL6Yn8",
-    "tabs_Waa9zt",
+    "rich_text_wb9Dzz",
+    "image_with_text_overlay_6iEEje",
     "image_with_text_overlay_hKmC9C",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
     "image_with_text_overlay_CNBBG9",
-    "image_with_text_overlay_6iEEje",
     "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
