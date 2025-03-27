@@ -463,24 +463,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#f1ebe4",
+        "background": "#263e46",
         "background_gradient": "",
-        "text_color": "#2e4147"
-      }
-    },
-    "image_with_text_overlay_jWkzej": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_07.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "text_color": "#f1ebe4"
       }
     },
     "rich_text_wLB3E3": {
@@ -513,6 +498,21 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_jWkzej": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_07.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_3HJ7Vn": {
@@ -715,8 +715,8 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu de la boite",
-            "content": "<p>Chaque boite SlimFuze est conçu pour un nombre précis de traitements. <strong> Durée & Fréquence</strong> (疗程建议)</p><ul><li><strong>Phase intensive</strong> : 1 patch/jour pendant <strong>10-15 jours</strong>.</li><li><strong>Phase d'entretien</strong> : 2-3 patchs/semaine pendant <strong>1 mois</strong>.</li><li><strong>Résultats visibles</strong> : À partir de <strong>J21</strong> (selon métabolisme).</li></ul><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
+            "title": "Que contient un paquet ?",
+            "content": "<p>Chaque paquet SlimFuze est conçu pour un nombre précis de traitements. <strong> Durée & Fréquence</strong> </p><ul><li><strong>Phase intensive</strong> : 1 patch/jour pendant <strong>10-15 jours</strong>.</li><li><strong>Phase d'entretien</strong> : 2-3 patchs/semaine pendant <strong>1 mois</strong>.</li><li><strong>Résultats visibles</strong> : À partir de <strong>J21</strong> (selon métabolisme).</li></ul>",
             "page": ""
           }
         },
@@ -1203,8 +1203,8 @@
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
-    "image_with_text_overlay_jWkzej",
     "rich_text_wLB3E3",
+    "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_3HJ7Vn",
     "image_with_text_overlay_hL6Yn8",
     "rich_text_AccAfb",
