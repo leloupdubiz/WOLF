@@ -124,7 +124,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_15_56_33.png",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_21_22_02.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -906,21 +906,6 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_6iEEje": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_58.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_with_text_overlay_CNBBG9": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -929,6 +914,21 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_13.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_6iEEje": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_58.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1198,8 +1198,8 @@
     "image-with-text-overlay",
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
-    "image_with_text_overlay_pjaxby",
     "image_with_text_overlay_9Wwxkw",
+    "image_with_text_overlay_pjaxby",
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
