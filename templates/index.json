@@ -483,7 +483,7 @@
         "richtext_UgTcXg": {
           "type": "richtext",
           "settings": {
-            "content": "<h3><em><strong>Le SMGT-GLP-1, grâce à son mécanisme d'action unique, a déjà démontré des résultats significatifs dans le traitement du diabète et la gestion du poids !<br/><br/></strong></em><strong>LeSMGT-GLP-1est une solution thérapeutique multifonctionnelle qui aide principalement à la perte de poids en supprimant l'appétit, en retardant la vidange gastrique et en favorisant la combustion des graisses. Dans le traitement du diabète de type 2, il stimule la sécrétion d'insuline et inhibe la libération de glucagon, permettant ainsi de contrôler efficacement la glycémie et d'améliorer la sensibilité à l'insuline. De plus, leSMGT-GLP-1offre une protection cardiovasculaire en réduisant le risque de maladies cardiaques, en améliorant le profil lipidique et en procurant des effets anti-inflammatoires, protégeant ainsi davantage la santé vasculaire. Par conséquent, il démontre une efficacité significative pour la perte de poids, le contrôle glycémique et la protection cardiovasculaire, faisant de lui une option thérapeutique importante pour les patients atteints de diabète de type 2 et les personnes souhaitant gérer leur poids.</strong></h3>"
+            "content": "<h3><em>Le SMGT-GLP-1, grâce à son mécanisme d'action unique, a déjà démontré des résultats significatifs dans le traitement du diabète et la gestion du poids !<br/><br/></em></h3>"
           }
         }
       },
@@ -513,6 +513,31 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "rich_text_AccAfb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_k4pXxf": {
+          "type": "heading",
+          "settings": {
+            "text": "N'attendez plus ! ",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_k4pXxf"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured-product": {
@@ -810,7 +835,7 @@
         "richtext_t6DjJt": {
           "type": "richtext",
           "settings": {
-            "content": "<h2><strong>U</strong>ne peau rajeunie<strong> en seulement 4 étapes</strong></h2>"
+            "content": "<h2>Patch à nano-microaiguilles nouvelle génération, injection indolore.</h2>"
           }
         },
         "richtext_x7NCKi": {
@@ -834,6 +859,21 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_CNBBG9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/08_12d2a5a2-bdac-4d45-8983-0da7f240bae6_1.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "how_to_use_sambal_mtLn7y": {
@@ -1105,10 +1145,12 @@
     "multi_column_BKPLPt",
     "rich_text_wLB3E3",
     "image_with_text_overlay_jWkzej",
+    "rich_text_AccAfb",
     "featured-product",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "rich_text_JEkECK",
+    "image_with_text_overlay_CNBBG9",
     "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
