@@ -117,21 +117,6 @@
         "text_color": "#2e4147"
       }
     },
-    "image_with_text_overlay_pjaxby": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_21_22_02.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_with_text_overlay_9Wwxkw": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -140,6 +125,21 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_15_56_25.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_pjaxby": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_21_22_02.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -530,31 +530,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_AccAfb": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_k4pXxf": {
-          "type": "heading",
-          "settings": {
-            "text": "N'attendez plus ! ",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_k4pXxf"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_hL6Yn8": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -568,6 +543,31 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_AccAfb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_k4pXxf": {
+          "type": "heading",
+          "settings": {
+            "text": "N'attendez plus et profitez de nos offres IRRÉSISTIBLES avant qu'il ne soit trop tard !",
+            "heading_tag": "h1",
+            "text_color": "#f1ebe4",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_k4pXxf"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#263e46",
+        "background_gradient": "",
+        "text_color": "#f1ebe4"
       }
     },
     "featured-product": {
@@ -1206,8 +1206,8 @@
     "image_with_text_overlay_jWkzej",
     "rich_text_wLB3E3",
     "image_with_text_overlay_3HJ7Vn",
-    "rich_text_AccAfb",
     "image_with_text_overlay_hL6Yn8",
+    "rich_text_AccAfb",
     "featured-product",
     "tabs_Waa9zt",
     "image_with_text_overlay_hKmC9C",
