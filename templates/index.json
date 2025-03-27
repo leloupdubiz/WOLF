@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/file_0000000040c85230a6cb363761c1ef2f_conversation_id67e431ec-687c-800e-ab32-577b7e94e481message_id56d86109-04a1-45b8-8bfd-0b5a17379156.png",
+        "image": "shopify://shop_images/file_00000000ee44523099f97b081d3f8c2f_conversation_id67e431ec-687c-800e-ab32-577b7e94e481message_idce32343a-55a5-4b47-87cc-ab5c470fa40c.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -82,7 +82,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -107,13 +107,14 @@
       "block_order": [
         "heading_JGUWbW"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#2e4147"
       }
     },
     "image_with_text_overlay_pjaxby": {
@@ -123,6 +124,22 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/file_0000000040c85230a6cb363761c1ef2f_conversation_id67e431ec-687c-800e-ab32-577b7e94e481message_id56d86109-04a1-45b8-8bfd-0b5a17379156.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_9Wwxkw": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/file_0000000021185230b03f9c744529aaf6_conversation_id67e431ec-687c-800e-ab32-577b7e94e481message_id2fa1f510-215d-455e-94fe-ef7541b39aa0.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -160,6 +177,7 @@
         "heading_gcwVkK",
         "richtext_kzMpxh"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -167,47 +185,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_EPLnGx": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_YFCD79": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_87AETj": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_8ybQfm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_YFCD79",
-        "heading_87AETj",
-        "richtext_8ybQfm"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "lg",
-        "image": "shopify://shop_images/25.225__3.gif",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -218,7 +195,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clientes en parlent le mieux",
+        "heading": "Les images valent mille mots...",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -349,6 +326,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_38_21.png",
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
@@ -361,6 +339,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_46_11.png",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
@@ -373,6 +352,7 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_38_25.png",
             "column_size": "3",
             "title": "Agathe",
             "heading_tag": "h4",
@@ -385,6 +365,7 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_46_05.png",
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
@@ -396,6 +377,7 @@
         },
         "item_p6MkDp": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Sylvie",
@@ -408,6 +390,7 @@
         },
         "item_4yzaE8": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Brigitte",
@@ -420,6 +403,7 @@
         },
         "item_EwNkYx": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Estelle",
@@ -432,6 +416,7 @@
         },
         "item_yViHK3": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Tiphaine",
@@ -444,6 +429,7 @@
         },
         "item_JUW7xR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Christelle",
@@ -477,9 +463,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#2e4147"
       }
     },
     "featured-product": {
@@ -1063,8 +1049,8 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
+    "image_with_text_overlay_9Wwxkw",
     "rich_text_QXqMJ7",
-    "image_with_text_overlay_EPLnGx",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
