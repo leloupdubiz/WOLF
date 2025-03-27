@@ -30,7 +30,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/LOGO_-_FAVICON_500_x_500_px_3.png",
+            "logo": "shopify://shop_images/LOGO_-_FAVICON_500_x_500_px_5.png",
             "logo_width": 300,
             "link": ""
           }
@@ -54,7 +54,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/LOGO_-_FAVICON_500_x_500_px_1.png",
+            "logo": "shopify://shop_images/LOGO_-_FAVICON_500_x_500_px_7.png",
             "logo_width": 300,
             "link": ""
           }
@@ -197,7 +197,7 @@
         "content_align_mobile": "center",
         "heading": "Les images valent mille mots...",
         "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
+        "heading_font": "din_next_n4",
         "heading_size": 40,
         "heading_size_mobile": 24,
         "heading_height": 130,
