@@ -724,7 +724,7 @@
           "type": "tab",
           "settings": {
             "title": "Comment ça marche ?",
-            "content": "<p>Le patch à nano-microaiguilles contient du SMGT-GLP-1 dans chaque patch. Il agit en imitant l'action du peptide-1 de type glucagon (GLP-1), en favorisant la sécrétion d'insuline, en inhibant la sécrétion de glucagon et en retardant la vidange gastrique, aidant ainsi à contrôler la glycémie et favorisant la perte de poids.</p><p>Habituellement, le SMGT-GLP-1 est administré par injection, offrant des résultats rapides en peu de temps. Cependant, les effets ne durent pas longtemps, et cela peut provoquer des réactions de stress, nécessitant plusieurs injections rapprochées, ce qui est chronophage et coûteux.</p><p>Le patch à nano-microaiguilles SlimFuze SMGT-GLP-1 permet une libération lente et prolongée du médicament, assurant un effet stable sur 24 heures sans causer d'inconfort. À dosage et coût identiques, il peut maintenir jusqu'à 20 fois plus longtemps ses effets (similaire à la différence entre une perfusion intraveineuse et une injection unique).</p>",
+            "content": "<h3><strong>Modalités d'Utilisation</strong></h3><ol><li><strong>Nettoyer</strong> la peau (eau tiède + savon doux).</li><li><strong>Appliquer</strong> le patch sur zone cible (ventre, cuisses).</li><li><strong>Laisser agir</strong> au moins 4h (nuit recommandée).</li><li><strong>Retirer</strong> délicatement (pas de douleur, aiguilles biodégradables).<br/><br/>Le patch à nano-microaiguilles contient du SMGT-GLP-1 dans chaque patch. Il agit en imitant l'action du peptide-1 de type glucagon (GLP-1), en favorisant la sécrétion d'insuline, en inhibant la sécrétion de glucagon et en retardant la vidange gastrique, aidant ainsi à contrôler la glycémie et favorisant la perte de poids.</li></ol><p>Habituellement, le SMGT-GLP-1 est administré par injection, offrant des résultats rapides en peu de temps. Cependant, les effets ne durent pas longtemps, et cela peut provoquer des réactions de stress, nécessitant plusieurs injections rapprochées, ce qui est chronophage et coûteux.</p><p>Le patch à nano-microaiguilles SlimFuze SMGT-GLP-1 permet une libération lente et prolongée du produit, assurant un effet stable sur 24 heures sans causer d'inconfort. À dosage et coût identiques, il peut maintenir jusqu'à 20 fois plus longtemps ses effets (similaire à la différence entre une perfusion intraveineuse et une injection unique).</p>",
             "page": ""
           }
         },
@@ -772,21 +772,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "image_with_text_overlay_6iEEje": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_09_16.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_hKmC9C": {
@@ -919,6 +904,21 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_6iEEje": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_09_16.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_CNBBG9": {
