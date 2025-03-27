@@ -323,14 +323,14 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_7BdeiK": {
+        "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_38_21.png",
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_46_05.png",
             "column_size": "3",
-            "title": "Laura",
+            "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement 2 mois, j’ai l’impression d’avoir retrouvé le corps de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. <br/>Je suis ravie, MERCI !!!\"</em></p>",
+            "content": "<p>Je souffre d’obésité et de diabète, et j’ai été traité à l’hôpital avec le SMGT-GLP-1 (sémaglutide). C’est un traitement très efficace : dès les premières injections, j’ai vu mon appétit baisser, mon poids diminuer et ma glycémie s’améliorer. Mais dans la réalité, suivre ce traitement n’était pas si simple. Entre les injections à faire à l’hôpital, les imprévus du quotidien, le coût, ou même juste un jour de pluie… je repoussais souvent le moment. Résultat : ça devenait difficile d’être régulier.</p><p>C’est pour ça que je suis passé au patch à microaiguilles SlimFuze. Il m’aide à garder le contrôle sans la contrainte des rendez-vous. Je peux l’appliquer chez moi, c’est discret, simple, et les effets durent longtemps : mon appétit reste régulé, et ma glycémie aussi. En plus, c’est bien plus abordable. Pour moi, SlimFuze rend enfin ce traitement accessible et facile à suivre.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -362,14 +362,14 @@
             "link_style": "link"
           }
         },
-        "item_MwJML3": {
+        "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_46_05.png",
+            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_38_21.png",
             "column_size": "3",
-            "title": "Mélanie",
+            "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Je souffre d’obésité et de diabète, et j’ai été traité à l’hôpital avec le SMGT-GLP-1 (sémaglutide). C’est un traitement très efficace : dès les premières injections, j’ai vu mon appétit baisser, mon poids diminuer et ma glycémie s’améliorer. Mais dans la réalité, suivre ce traitement n’était pas si simple. Entre les injections à faire à l’hôpital, les imprévus du quotidien, le coût, ou même juste un jour de pluie… je repoussais souvent le moment. Résultat : ça devenait difficile d’être régulier.</p><p>C’est pour ça que je suis passé au patch à microaiguilles SlimFuze. Il m’aide à garder le contrôle sans la contrainte des rendez-vous. Je peux l’appliquer chez moi, c’est discret, simple, et les effets durent longtemps : mon appétit reste régulé, et ma glycémie aussi. En plus, c’est bien plus abordable. Pour moi, SlimFuze rend enfin ce traitement accessible et facile à suivre.</p>",
+            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement 2 mois, j’ai l’impression d’avoir retrouvé le corps de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. <br/>Je suis ravie, MERCI !!!\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -442,10 +442,10 @@
         }
       },
       "block_order": [
-        "item_7BdeiK",
+        "item_MwJML3",
         "item_JJLm4U",
         "item_GECyWQ",
-        "item_MwJML3",
+        "item_7BdeiK",
         "item_p6MkDp",
         "item_4yzaE8",
         "item_EwNkYx",
@@ -466,6 +466,53 @@
         "background": "#f1ebe4",
         "background_gradient": "",
         "text_color": "#2e4147"
+      }
+    },
+    "rich_text_wLB3E3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eyGnN4": {
+          "type": "heading",
+          "settings": {
+            "text": "Oui, vous avez bien lu ces témoignages! ",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_UgTcXg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3><em><strong>Le SMGT-GLP-1, grâce à son mécanisme d'action unique, a déjà démontré des résultats significatifs dans le traitement du diabète et la gestion du poids !<br/><br/></strong></em><strong>LeSMGT-GLP-1est une solution thérapeutique multifonctionnelle qui aide principalement à la perte de poids en supprimant l'appétit, en retardant la vidange gastrique et en favorisant la combustion des graisses. Dans le traitement du diabète de type 2, il stimule la sécrétion d'insuline et inhibe la libération de glucagon, permettant ainsi de contrôler efficacement la glycémie et d'améliorer la sensibilité à l'insuline. De plus, leSMGT-GLP-1offre une protection cardiovasculaire en réduisant le risque de maladies cardiaques, en améliorant le profil lipidique et en procurant des effets anti-inflammatoires, protégeant ainsi davantage la santé vasculaire. Par conséquent, il démontre une efficacité significative pour la perte de poids, le contrôle glycémique et la protection cardiovasculaire, faisant de lui une option thérapeutique importante pour les patients atteints de diabète de type 2 et les personnes souhaitant gérer leur poids.</strong></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eyGnN4",
+        "richtext_UgTcXg"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_jWkzej": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/17_f31248c0-fc8b-49a1-84cf-e2ba4052062c.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "featured-product": {
@@ -600,9 +647,9 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#f1ebe4",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#263e46",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
@@ -835,6 +882,7 @@
         "step_QxA9A8",
         "step_rTyP7G"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {}
     },
@@ -1055,6 +1103,8 @@
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
+    "rich_text_wLB3E3",
+    "image_with_text_overlay_jWkzej",
     "featured-product",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
