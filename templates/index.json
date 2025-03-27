@@ -453,98 +453,6 @@
         "text_color": "#263e46"
       }
     },
-    "rich_text_wLB3E3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eyGnN4": {
-          "type": "heading",
-          "settings": {
-            "text": "Oui, vous avez bien lu ces témoignages! ",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_UgTcXg": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h3><em>Le SMGT-GLP-1, grâce à son mécanisme d'action unique, a déjà démontré des résultats significatifs dans le traitement du diabète et la gestion du poids !<br/><br/></em></h3>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eyGnN4",
-        "richtext_UgTcXg"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_jWkzej": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_07.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_pjaxby": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_21_22_02.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_3HJ7Vn": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_19.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_hL6Yn8": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_07_59.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_AccAfb": {
       "type": "rich-text",
       "blocks": {
@@ -702,11 +610,104 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f1ebe4",
+        "background": "#f5e9d2",
         "background_gradient": "",
         "text_color": "#263e46",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_wLB3E3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eyGnN4": {
+          "type": "heading",
+          "settings": {
+            "text": "Mais qu'est ce que ce produit incroyable ?!",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_UgTcXg": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<h3><em>Le SMGT-GLP-1, grâce à son mécanisme d'action unique, a déjà démontré des résultats significatifs dans le traitement du diabète et la gestion du poids !<br/><br/></em></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eyGnN4",
+        "richtext_UgTcXg"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_jWkzej": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_07.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_pjaxby": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_21_22_02.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_3HJ7Vn": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_19.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_hL6Yn8": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_07_59.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "tabs_Waa9zt": {
@@ -1202,13 +1203,13 @@
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
+    "rich_text_AccAfb",
+    "featured-product",
     "rich_text_wLB3E3",
     "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_pjaxby",
     "image_with_text_overlay_3HJ7Vn",
     "image_with_text_overlay_hL6Yn8",
-    "rich_text_AccAfb",
-    "featured-product",
     "tabs_Waa9zt",
     "image_with_text_overlay_hKmC9C",
     "multi_column_wTJTNc",
