@@ -180,7 +180,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Les images valent mille mots...",
+        "heading": "Efficacité phénoménale !",
         "heading_custom": false,
         "heading_font": "din_next_n4",
         "heading_size": 40,
@@ -285,12 +285,12 @@
         "card_text_color": "#f1ebe4",
         "card_author_date_text_color": "#000000",
         "view_color": "#000000",
-        "heading_color": "#f1ebe4",
-        "rating_text_color": "#f1ebe4",
+        "heading_color": "#263e46",
+        "rating_text_color": "#263e46",
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
-        "text_color": "#f1ebe4",
-        "background_color": "#263e46",
+        "text_color": "#263e46",
+        "background_color": "#f5e9d2",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -448,9 +448,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#263e46",
+        "background": "#f5e9d2",
         "background_gradient": "",
-        "text_color": "#f1ebe4"
+        "text_color": "#263e46"
       }
     },
     "rich_text_wLB3E3": {
@@ -552,8 +552,8 @@
           "type": "heading",
           "settings": {
             "text": "N'attendez plus et profitez de nos offres IRRÉSISTIBLES avant qu'il ne soit trop tard !",
-            "heading_tag": "h1",
-            "text_color": "#f1ebe4",
+            "heading_tag": "h3",
+            "text_color": "#f5e9d2",
             "gradient": ""
           }
         }
