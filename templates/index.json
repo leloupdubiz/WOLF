@@ -459,9 +459,9 @@
         "heading_k4pXxf": {
           "type": "heading",
           "settings": {
-            "text": "Devenez actrices et profitez de nos offres IRRÉSISTIBLES avant qu'il ne soit trop tard !",
+            "text": "Décidez d'agir et profitez de nos offres IRRÉSISTIBLES avant qu'il ne soit trop tard !",
             "heading_tag": "h3",
-            "text_color": "#f5e9d2",
+            "text_color": "#263e46",
             "gradient": ""
           }
         }
@@ -473,7 +473,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#263e46",
+        "background": "#f5e9d2",
         "background_gradient": "",
         "text_color": "#f1ebe4"
       }
