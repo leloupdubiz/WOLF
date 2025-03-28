@@ -66,13 +66,13 @@
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_center_navigation_inline",
-        "show_social_media": true,
+        "show_social_media": false,
         "show_locale_selector": true,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
       }
