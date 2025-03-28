@@ -82,7 +82,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#263e46",
         "heading_color": "",
@@ -290,7 +290,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#263e46",
-        "background_color": "#f5e9d2",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -315,7 +315,7 @@
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p>Je souffre d’obésité et de diabète, et j’ai été traité à l’hôpital avec le SMGT-GLP-1 (sémaglutide). C’est un traitement très efficace : dès les premières injections, j’ai vu mon appétit baisser, mon poids diminuer et ma glycémie s’améliorer. Mais dans la réalité, suivre ce traitement n’était pas si simple. Entre les injections à faire à l’hôpital, les imprévus du quotidien, le coût, ou même juste un jour de pluie… je repoussais souvent le moment. Résultat : ça devenait difficile d’être régulier.</p><p>C’est pour ça que je suis passé au patch à microaiguilles SlimFuze. Il m’aide à garder le contrôle sans la contrainte des rendez-vous. Je peux l’appliquer chez moi, c’est discret, simple, et les effets durent longtemps : mon appétit reste régulé, et ma glycémie aussi. En plus, c’est bien plus abordable. Pour moi, SlimFuze rend enfin ce traitement accessible et facile à suivre.</p>",
+            "content": "<p>J’avais peur que ce soit encore une promesse de plus. Mais le patch SlimFuze m’a vraiment aidée à reprendre le contrôle sans stress. Pas d’injection, pas de douleur, juste un geste simple à la maison. Mon appétit a diminué dès les premières applications, et je me sens plus légère, plus stable. C’est discret, facile à suivre, et ça change tout.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -341,7 +341,7 @@
             "column_size": "3",
             "title": "Cédric",
             "heading_tag": "h4",
-            "content": "<p>\"Je souffre d'obésité et de diabète et j’ai suivi un traitement au SMGT-GLP-1 à l'hôpital. Vous vous demandez peut-être pourquoi je suis soudainement passé au patch à micro-aiguilles SlimFuze. LeSMGT-GLP-1, aussi appelé sémaglutide, est vraiment un excellent traitement. Ça agit très vite—peu après l'injection, mon appétit diminuait, je perdais rapidement du poids, et ma glycémie baissait. Mais comme tout le monde sait, il est difficile de changer ses habitudes. Les jours prévus pour l'injection, je trouvais toutes sortes d'excuses pour ne pas y aller, ce qui a rendu mes traitements inefficaces. Le coût, la faim, les conflits d'emploi du temps ou même simplement une journée pluvieuse m’empêchaient d'y aller. Mais le patch à microaiguilles est parfait pour quelqu'un comme moi qui lutte contre l'inertie. Je peux l'utiliser facilement chez moi, et les effets durent longtemps en gardant mon appétit sous contrôle. Encore mieux, c’est vraiment abordable, et tout le monde peut utiliser leSMGT-GLP-1pour perdre du poids et contrôler sa glycémie!\"</p>",
+            "content": "<p>Je n’ai jamais tenu plus de deux semaines avec un traitement classique. Trop compliqué, trop contraignant. Avec SlimFuze, j’ai enfin trouvé quelque chose qui s’adapte à ma vie. Je le pose le matin, et j’oublie qu’il est là — sauf que je mange moins, et je me sens mieux. C’est simple, doux, et ça fonctionne vraiment.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -448,7 +448,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#263e46"
       }
@@ -473,7 +473,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#f1ebe4"
       }
@@ -610,7 +610,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#263e46",
         "input_background": "rgba(0,0,0,0)",
