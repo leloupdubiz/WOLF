@@ -1084,6 +1084,7 @@
         },
         "item_Qt9h7g": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Les têtes d'aiguille sont-elles réutilisables?",
             "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
@@ -1091,6 +1092,7 @@
         },
         "item_mrg8b4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Où puis-je l'utiliser ?",
             "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à <strong>la perte de collagène</strong>.<br/>Utilisez-le <strong>toutes les deux semaines</strong> pour stimuler <strong>la production naturelle de collagène</strong>.</p><p>✔ <strong>Rides du front</strong><br/>✔ <strong>Rides du lion</strong> (entre les sourcils)<br/>✔ <strong>Pattes d’oie</strong><br/>✔ <strong>Rides autour des yeux</strong><br/>✔ <strong>Rides du nez (\"bunny lines\")</strong><br/>✔ <strong>Menton irrégulier (\"strawberry chin\")</strong><br/>✔ <strong>Sillons nasogéniens</strong><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/>✔ <strong>Plis d’amertume</strong> (aux coins des lèvres)<br/>✔ <strong>Relâchement du cou (\"turkey neck\")</strong></p>"
@@ -1098,6 +1100,7 @@
         },
         "item_K9EhFR": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "À quelle vitesse verrai-je les résultats?",
             "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
@@ -1107,7 +1110,7 @@
           "type": "item",
           "settings": {
             "title": "Est-ce efficace pour les hommes ?",
-            "content": "<p>Absolument !<br/><br/>Le Micro Infusion Kit est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.<br/><br/>Il cible efficacement les problèmes de peau courants tels que les ridules, les rides, les taches sombres et les textures irrégulières, quel que soit le genre. Les hommes peuvent bénéficier des mêmes avantages de régénération et d'amélioration de la peau que les femmes.</p>"
+            "content": "<p>Absolument !<br/><br/>Notre produit est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.</p>"
           }
         },
         "item_P6yRzh": {
