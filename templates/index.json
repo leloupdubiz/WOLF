@@ -980,6 +980,7 @@
         "richtext_t6DjJt",
         "richtext_x7NCKi"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-bottom: 0px;}"
       ],
@@ -1071,7 +1072,7 @@
           "type": "item",
           "settings": {
             "title": "Comment fonctionne la micro-infusion?",
-            "content": "<p>Notre <strong>système de micro-infusion</strong> révolutionnaire utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer des micro-canaux à la surface de la peau.</p><p>Grâce à cette technologie, un sérum concentré en <strong>acide hyaluronique et peptides de collagène</strong> pénètre en <strong>profondeur</strong>, là où les soins anti-âge classiques n’atteignent pas.</p><p><strong>Résultat : votre collagène est stimulé</strong>, réduisant rides, ridules et relâchement cutané, pour une peau plus ferme et éclatante.</p><p>Utilisez-le <strong>toutes les deux semaines</strong> et retrouvez une peau plus lisse et tonifiée depuis le confort de votre maison, en seulement quelques séances !</p><p>1️⃣ <strong>Préparation</strong> : Remplissez l’applicateur avec le sérum et fixez une tête de micro-aiguilles stérile à usage unique.</p><p>2️⃣ <strong>Activation</strong> : Retournez l’appareil et laissez le sérum s’imprégner pendant 1 à 2 minutes.</p><p>3️⃣ <strong>Application</strong> : Tapotez délicatement la peau (visage, cou, lèvres), en effectuant <strong>2 à 3 passages</strong> pour une absorption optimale.</p><p>4️⃣ <strong>Soin après application</strong> : Massez l’excédent de sérum sur la peau et laissez agir toute la nuit. <strong>Évitez le maquillage et l’exposition au soleil pendant 24h</strong>. Vous pouvez compléter avec votre routine de soins habituelle.</p>"
+            "content": "<p>Notre <strong>système de micro-infusion</strong> révolutionnaire utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer des micro-canaux à la surface de la peau.</p><p>Grâce à cette technologie, un sérum concentré en <strong>acide hyaluronique et peptides de collagène</strong> pénètre en <strong>profondeur</strong>, là où les soins anti-âge classiques n’atteignent pas.</p><p><strong>Résultat : votre collagène est stimulé</strong>, réduisant rides, ridules et relâchement cutané, pour une peau plus ferme et éclatante.</p><p>Utilisez-le <strong>toutes les deux semaines</strong> et retrouvez une peau plus lisse et tonifiée depuis le confort de votre maison, en seulement quelques séances !</p>"
           }
         },
         "item_8yPykD": {
