@@ -1122,6 +1122,7 @@
         },
         "item_6cJAWF": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Est-ce efficace autour des yeux, des paupières et sur le cou?",
             "content": "<p>Oui, il fonctionne pratiquement partout, car le vieillissement de la peau sur tout le corps est causé par la perte de collagène, ce que notre système traite en seulement quelques séances !<br/><br/>Cependant, évitez d'appliquer le dispositif trop près de la zone délicate des yeux, notamment directement sur les paupières ou la ligne des cils. Maintenez une distance d'au moins 3 cm (1,5 pouce) des yeux.<br/><br/>Pour les lèvres, appliquez délicatement l'appareil directement sur les lèvres pour de meilleurs résultats.<br/><br/>Vous pouvez également suivre notre guide vidéo étape par étape que vous recevrez avec votre commande.</p>"
@@ -1129,6 +1130,7 @@
         },
         "item_3ydTfx": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Y a-t-il un temps de pause nécessaire entre chaque utilisation ?",
             "content": "<p>Il n'y a pratiquement pas de temps de pause après l'utilisation du Micro Infusion Kit.<br/><br/>Vous pourriez observer une légère rougeur ou une sensibilité discrète immédiatement après le soin, mais ces effets disparaissent généralement en quelques heures à un jour.<br/><br/>Il est conseillé d'éviter le maquillage, l'exposition directe au soleil et les produits de soin trop agressifs pendant au moins 24 heures après le traitement, afin de permettre à la peau de se régénérer correctement.</p>"
@@ -1136,6 +1138,7 @@
         },
         "item_QbyjD9": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Puis-je utiliser de l’acide hyaluronique ou du rétinol après avoir utilisé le Micro Infusion Kit ?",
             "content": "<p>Vous pouvez appliquer vos soins habituels, tels que des crèmes à base d'acide hyaluronique, la nuit suivant l'utilisation du Micro Infusion Kit. Cela aidera à hydrater et apaiser la peau, tout en renforçant les bienfaits du traitement (l'absorption des produits sera également améliorée jusqu'à 300%, conduisant à des résultats encore plus visibles).<br/><br/>Cependant, évitez d'utiliser du rétinol ou d'autres ingrédients actifs puissants comme les acides (par exemple, l'acide glycolique ou salicylique) immédiatement après le soin. Ces produits peuvent irriter la peau fraîchement traitée.<br/><br/>Attendez au moins 24 à 48 heures avant de réintroduire le rétinol ou d'autres actifs puissants dans votre routine de soins pour permettre à votre peau de se rétablir complètement. Suivez toujours les instructions de soins après traitement pour obtenir les meilleurs résultats.<br/><br/>En dehors de cela, veillez à ne pas appliquer de maquillage et à garder votre peau propre pendant environ 12 heures après le traitement.</p>"
@@ -1145,11 +1148,12 @@
           "type": "item",
           "settings": {
             "title": "Ce produit est-il automatiquement renouvelé et expédié chaque mois ?",
-            "content": "<p><strong>Non</strong>, le Micro Infusion Kit ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
+            "content": "<p><strong>Non</strong>, SlimFuze ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
           }
         },
         "item_MihJ8p": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Est-ce que ce produit aide à atténuer les rides très profondes ?",
             "content": "<p>Oui, le Micro Infusion Kit peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 3 à 6 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
@@ -1157,6 +1161,7 @@
         },
         "item_GWJTCQ": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Ce produit aide-t-il également à atténuer les cicatrices ?",
             "content": "<p><strong>Oui</strong>, le Micro Infusion Kit peut améliorer l'apparence de certains types de cicatrices, comme les cicatrices d'acné ou les cicatrices superficielles mineures.<br/><br/>Le processus de microneedling stimule la production de collagène, ce qui peut aider à lisser et à estomper les cicatrices au fil du temps.<br/><br/>Cependant, pour les cicatrices profondes ou sévères, les résultats peuvent varier. Toutefois, soyez assuré que notre garantie de remboursement de 90 jours reste valable pour toutes les commandes.</p>"
@@ -1164,6 +1169,7 @@
         },
         "item_DAfyn3": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Est-ce facile à utiliser ? Y a-t-il de bonnes instructions ?",
             "content": "<p>Oui, le Micro Infusion Kit est simple et facile à utiliser, et chaque traitement ne prend que 5 à 10 minutes.<br/><br/>Chaque commande est accompagnée d'instructions vidéo claires et d'un manuel détaillé pour vous guider tout au long du processus, afin de vous assurer d'obtenir les meilleurs résultats.<br/><br/>Les instructions couvrent tout, de la préparation du dispositif à l'application du sérum et aux soins après traitement.<br/><br/>Même si vous êtes novice en matière de ce type de soin, vous trouverez les étapes faciles à suivre.</p>"
@@ -1171,6 +1177,7 @@
         },
         "item_VnHdN7": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Qui devrait utiliser le Micro Infusion Kit ?",
             "content": "<p>La production de collagène commence à diminuer dès la vingtaine, rendant les traitements de régénération de la peau plus bénéfiques au fil des années.</p><p>Le Micro Infusion Kit est idéal pour les adultes de 25 à 80 ans qui souhaitent améliorer l'apparence de leur peau.</p><p>Il aide à réduire les ridules, les rides, les taches sombres et les irrégularités de texture, et convient à tous les types de peau.</p><p>Cependant, il n'est pas recommandé aux personnes ayant des affections cutanées graves, comme la rosacée, l'eczéma ou l'acné agressive, car ces conditions pourraient être aggravées. Si vous avez des préoccupations spécifiques ou des conditions médicales, il est conseillé de consulter un dermatologue avant utilisation.</p>"
@@ -1180,11 +1187,12 @@
           "type": "item",
           "settings": {
             "title": "Puis-je utiliser le Micro Infusion Kit si j'ai déjà eu des injections cosmétiques?",
-            "content": "<p>Oui, vous pouvez utiliser le Micro Infusion Kit même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
+            "content": "<p>Oui, vous pouvez utiliser SlimFuze même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
           }
         },
         "item_D3yQPm": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Quels sont les ingrédients ?",
             "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>"
@@ -1192,6 +1200,7 @@
         },
         "item_8eKwAt": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Puis-je l'utiliser avec mon propre sérum ?",
             "content": "<p>Nous ne recommandons pas d'utiliser le Micro Infusion Kit avec des sérums autres que celui fourni.</p><p>Le sérum inclus est spécialement formulé pour fonctionner en harmonie avec la technologie de microneedling du dispositif, garantissant une absorption et une efficacité optimales.</p>"
@@ -1199,6 +1208,7 @@
         },
         "item_V4HbrJ": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "La Micro-infusion ceralyne peut-elle être utilisée en combinaison avec la thérapie par lumière rouge et les lasers RF ?",
             "content": "<p>Oui, la Micro-Infusion ceralyne peut être combinée en toute sécurité avec des traitements comme la thérapie par lumière rouge ou la thérapie au laser RF.<br/><br/>Cependant, il est important de prévoir une période de récupération d’au moins deux nuits après l’utilisation de la Mincro-infusion ceralyne avant d’introduire ces thérapies. Cela permet à votre peau de se régénérer et optimise les bienfaits de tous les traitements.</p>"
@@ -1206,6 +1216,7 @@
         },
         "item_Bme77T": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
             "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
