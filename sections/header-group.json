@@ -77,10 +77,22 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "1747091749eed996aa": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "1747091749eed996aa"
   ]
 }
