@@ -89,7 +89,7 @@
       "added_to_cart": "Produit ajouté au panier !",
       "sold_out_badge": "En rupture",
       "on_sale_badge": "Promo",
-      "discount_badge_html": "MOIS DE LA FEMME -{{ savings }}",
+      "discount_badge_html": "FÊTE DES MÈRES -{{ savings }}",
       "sku": "SKU:",
       "variant": "Variant",
       "view_in_space": "Afficher dans votre espace",
