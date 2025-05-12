@@ -39,7 +39,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/LOGO_-_FAVICON_500_x_500_px_2.png",
-            "logo_width": 300,
+            "logo_width": 60,
             "link": ""
           }
         },
@@ -47,7 +47,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/LOGO_-_FAVICON_500_x_500_px_4.png",
-            "logo_width": 300,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -87,7 +87,7 @@
         "text_color": "#263e46",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
@@ -180,7 +180,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Efficacité phénoménale !",
+        "heading": "Faites comme elles !",
         "heading_custom": false,
         "heading_font": "din_next_n4",
         "heading_size": 40,
@@ -341,7 +341,7 @@
             "column_size": "3",
             "title": "Cédric",
             "heading_tag": "h4",
-            "content": "<p>Je n’ai jamais tenu plus de deux semaines avec un traitement classique. Trop compliqué, trop contraignant. Avec SlimFuze, j’ai enfin trouvé quelque chose qui s’adapte à ma vie. Je le pose le matin, et j’oublie qu’il est là — sauf que je mange moins, et je me sens mieux. C’est simple, doux, et ça fonctionne vraiment.</p>",
+            "content": "<p>Je n’ai jamais tenu plus de deux semaines avec un traitement classique. Trop compliqué, trop contraignant. Avec SlimFuze, j’ai enfin trouvé quelque chose qui s’adapte à ma vie. Je le pose le matin, et j’oublie qu’il est là, sauf que je mange moins, et je me sens mieux. C’est simple, doux, et ça fonctionne vraiment.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -458,6 +458,7 @@
       "blocks": {
         "heading_k4pXxf": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Décidez d'agir et profitez de nos offres IRRÉSISTIBLES avant qu'il ne soit trop tard !",
             "heading_tag": "h3",
@@ -518,8 +519,15 @@
         },
         "liquid_jnATdX": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Kits</div>\n</div>"
+          }
+        },
+        "liquid_TTn8Hq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"SlimFuze est un patch minceur innovant qui agit pendant la nuit grâce à la technologie des micro-aiguilles.\nIl aide à réduire les fringales, dégonfler le ventre et relancer naturellement le métabolisme.\nFacile à appliquer, indolore et discret, il s’intègre sans effort à votre routine.\nUne solution douce mais efficace pour celles qui veulent des résultats visibles sans pression.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Sophie L. - Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
           }
         },
         "image_GRPrpa": {
@@ -532,6 +540,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -571,6 +580,7 @@
         },
         "image_QPEQgk": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Copie_de_E.png",
             "alignment": "center",
@@ -596,6 +606,7 @@
         },
         "gsc_countdown_timer_countdown_Y466iP": {
           "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "disabled": true,
           "settings": {
             "widget_id": "GSC-SMALL-OdCQIpZnpaHO"
           }
@@ -628,6 +639,7 @@
         "price",
         "image_pRggRB",
         "liquid_jnATdX",
+        "liquid_TTn8Hq",
         "image_GRPrpa",
         "description",
         "image_h9L7gC",
@@ -653,7 +665,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "#ede9d9",
         "background_gradient": "",
         "text_color": "#263e46",
         "input_background": "rgba(0,0,0,0)",
@@ -725,11 +737,31 @@
         "heading_gradient": ""
       }
     },
+    "how_to_use_sambal_R66gKj": {
+      "type": "how-to-use-sambal",
+      "blocks": {
+        "step_iHPngi": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Step Title Here",
+            "description": "Description of this step goes here.",
+            "alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "step_iHPngi"
+      ],
+      "name": "How to Use",
+      "settings": {}
+    },
     "rich_text_wLB3E3": {
       "type": "rich-text",
       "blocks": {
         "heading_eyGnN4": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Mais qu'est ce que ce produit incroyable ?!",
             "heading_tag": "h3",
@@ -1315,6 +1347,7 @@
     "rich_text_AccAfb",
     "featured-product",
     "tabs_Waa9zt",
+    "how_to_use_sambal_R66gKj",
     "rich_text_wLB3E3",
     "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_pjaxby",
