@@ -753,6 +753,7 @@
       "block_order": [
         "step_iHPngi"
       ],
+      "disabled": true,
       "name": "How to Use",
       "settings": {}
     },
