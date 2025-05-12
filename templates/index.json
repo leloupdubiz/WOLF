@@ -624,6 +624,7 @@
         },
         "image_NnVtjL": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/29F8CAE1-83B6-47A8-B2F4-09205ED27E87.png",
             "alignment": "center",
