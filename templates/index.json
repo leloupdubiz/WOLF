@@ -82,13 +82,13 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#f5e9d2",
-        "background_gradient": "",
+        "background": "#263e46",
+        "background_gradient": "linear-gradient(359deg, rgba(245, 233, 210, 1), rgba(249, 208, 163, 0) 100%)",
         "text_color": "#263e46",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#f5e9d2",
-        "logo_item_border": ""
+        "logo_item_border": "#ffffff"
       }
     },
     "rich_text_c9UmPD": {
