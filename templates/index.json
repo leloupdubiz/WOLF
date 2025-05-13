@@ -461,7 +461,7 @@
           "settings": {
             "text": "SlimFuze agit pendant votre sommeil pour réduire la graisse viscérale, couper la faim, et relancer votre métabolisme naturellement. Sans douleur, sans régime extrême, sans effets secondaires.",
             "heading_tag": "h6",
-            "text_color": "#263e46",
+            "text_color": "#f5e9d2",
             "gradient": ""
           }
         }
@@ -473,9 +473,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f5e9d2",
+        "background": "#2e4147",
         "background_gradient": "",
-        "text_color": "#263e46"
+        "text_color": "#f5e9d2"
       }
     },
     "featured-product": {
