@@ -192,7 +192,7 @@
         "rating_text_size": 24,
         "rating_text_size_mobile": 20,
         "rating_text_height": 130,
-        "rating_text_mt": 16,
+        "rating_text_mt": 92,
         "rating_text_mt_mobile": 20,
         "rating": 4.7,
         "rating_hide": false,
@@ -206,7 +206,7 @@
         "text_size": 20,
         "text_size_mobile": 16,
         "text_height": 130,
-        "text_mt": 16,
+        "text_mt": 80,
         "text_mt_mobile": 16,
         "scrolling_velocity": 80,
         "scrolling_velocity_mobile": 100,
@@ -276,7 +276,7 @@
         "button_color": "#ffffff",
         "button_hover_color": "#000000",
         "button_bg_color": "#000000",
-        "button_bg_hover_color": "#f5e9d2",
+        "button_bg_hover_color": "#ffffff",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
         "card_bg_color": "#263e46",
@@ -288,11 +288,11 @@
         "heading_color": "#263e46",
         "rating_text_color": "#263e46",
         "stars_bg_color": "#00b67a",
-        "stars_color": "#f5e9d2",
+        "stars_color": "#ffffff",
         "text_color": "#263e46",
-        "background_color": "#f5e9d2",
+        "background_color": "#ffffff",
         "background_gradient": "",
-        "border_color": "#f5e9d2",
+        "border_color": "#ffffff",
         "margin_top": 16,
         "margin_bottom": 0,
         "padding_top": 60,
@@ -448,7 +448,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#263e46"
       }
@@ -461,7 +461,7 @@
           "settings": {
             "text": "SlimFuze agit pendant votre sommeil pour réduire la graisse viscérale, couper la faim, et relancer votre métabolisme naturellement. Sans douleur, sans régime extrême, sans effets secondaires.",
             "heading_tag": "h6",
-            "text_color": "#f5e9d2",
+            "text_color": "#263e46",
             "gradient": ""
           }
         }
@@ -473,9 +473,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#2e4147",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#f5e9d2"
+        "text_color": "#263e46"
       }
     },
     "featured-product": {
@@ -681,7 +681,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#263e46",
         "input_background": "#263e46",
@@ -1335,7 +1335,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#f5e9d2",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
