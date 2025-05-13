@@ -448,7 +448,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#ffffff",
+        "background": "#f5e9d2",
         "background_gradient": "",
         "text_color": "#263e46"
       }
@@ -473,9 +473,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f5e9d2",
         "background_gradient": "",
-        "text_color": "#f1ebe4"
+        "text_color": "#263e46"
       }
     },
     "featured-product": {
@@ -684,7 +684,7 @@
         "background": "#ede9d9",
         "background_gradient": "",
         "text_color": "#263e46",
-        "input_background": "rgba(0,0,0,0)",
+        "input_background": "#263e46",
         "input_text_color": ""
       }
     },
