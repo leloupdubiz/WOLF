@@ -180,10 +180,10 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Faites comme elles !",
+        "heading": "“L’efficacité d’une injection, sans l’aiguille, sans le prix.” SlimFuze remplace les méthodes invasives par une innovation transdermique brevetée, 100% indolore.",
         "heading_custom": false,
         "heading_font": "din_next_n4",
-        "heading_size": 40,
+        "heading_size": 34,
         "heading_size_mobile": 24,
         "heading_height": 130,
         "rating_text": "Excellent",
@@ -458,10 +458,9 @@
       "blocks": {
         "heading_k4pXxf": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "text": "Décidez d'agir et profitez de nos offres IRRÉSISTIBLES avant qu'il ne soit trop tard !",
-            "heading_tag": "h3",
+            "text": "SlimFuze agit pendant votre sommeil pour réduire la graisse viscérale, couper la faim, et relancer votre métabolisme naturellement. Sans douleur, sans régime extrême, sans effets secondaires.",
+            "heading_tag": "h4",
             "text_color": "#263e46",
             "gradient": ""
           }
@@ -760,15 +759,36 @@
         "step_iHPngi": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_13_mai_2025_07_50_13.png",
             "video": "",
-            "title": "Step Title Here",
-            "description": "Description of this step goes here.",
+            "title": "Prélevez avec soin",
+            "description": "Retirez délicatement le film protecteur sans toucher le centre actif du patch.",
+            "alignment": "left"
+          }
+        },
+        "step_qH8CUW": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Appliquez simplement",
+            "description": "Laissez le patch en place pendant au moins 4 heures. Pendant ce temps, il diffuse ses actifs en profondeur, en toute discrétion.",
+            "alignment": "left"
+          }
+        },
+        "step_ywNDXk": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Laissez agir",
+            "description": "Laissez le patch en place pendant au moins 4 heures. Pendant ce temps, il diffuse ses actifs en profondeur, en toute discrétion.",
             "alignment": "left"
           }
         }
       },
       "block_order": [
-        "step_iHPngi"
+        "step_iHPngi",
+        "step_qH8CUW",
+        "step_ywNDXk"
       ],
       "disabled": true,
       "name": "How to Use",
