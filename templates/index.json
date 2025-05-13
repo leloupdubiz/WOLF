@@ -83,7 +83,7 @@
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "#263e46",
-        "background_gradient": "linear-gradient(359deg, rgba(245, 233, 210, 1), rgba(249, 208, 163, 0) 100%)",
+        "background_gradient": "radial-gradient(rgba(249, 208, 163, 0) 19%, rgba(245, 233, 210, 1) 97%)",
         "text_color": "#263e46",
         "heading_color": "",
         "heading_gradient": "",
