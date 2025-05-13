@@ -530,8 +530,15 @@
             "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"SlimFuze est un patch minceur innovant qui agit pendant la nuit grâce à la technologie des micro-aiguilles.\nIl aide à réduire les fringales, dégonfler le ventre et relancer naturellement le métabolisme.\nFacile à appliquer, indolore et discret, il s’intègre sans effort à votre routine.\nUne solution douce mais efficace pour celles qui veulent des résultats visibles sans pression.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Sophie L. - Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
           }
         },
+        "liquid_6wJXCr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Free Shipping Notification</title>\n    <style>\n        .free-shipping-notification {\n            display: flex;\n            align-items: center;\n            font-size: 15px;\n            color: #2e4147;\n        }\n        .free-shipping-notification img {\n            width: 22px;\n            height: 22px;\n            margin-right: 8px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"free-shipping-notification\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/shipped_1.png?v=1722606047\" alt=\"Free Shipping Icon\">\n        <span>LIVRAISON OFFERTE POUR TOUTE COMMANDE</span>\n    </div>\n</body>\n</html>"
+          }
+        },
         "image_GRPrpa": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/E.png",
             "alignment": "center",
@@ -629,12 +636,6 @@
             "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #ebbf16; color:#2e4147; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">Je le veux !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">    <div id=\"trustpilotblock\" style=\"border: 1px solid #fff; padding: 10px 7px; border-radius: 15px; background: #fff;\">        <div style=\"display: flex; align-items: center;\">            <div><img id=\"imagetrustpilot1\" style=\"height: 30px;\" src=\"https://cdn.shopify.com/s/files/1/0549/5364/0026/files/JA-Truspilot.png?v=1673551316\"></div>            <div><img id=\"imagetrustpilot2\" style=\"margin-left: 12px; margin-right: 10px; height: 14px; width: auto;\" src=\"https://cdn.shopify.com/s/files/1/0549/5364/0026/files/Trustpilot-full-stars.png?v=1673551476\"></div>           <div style=\"display: flex; align-items: center; font-size: 14px;\"><span id=\"postesur\">Posté sur</span> <img id=\"imagetrustpilot3\" style=\"height: 25px; padding-bottom: 4px; width: auto; margin-left: 5px;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Design_sans_titre__37_-removebg-preview.png?v=1712335975?v=1712335802?v=1673552823\"></div>        </div>        <p style=\"margin-bottom: 10px; margin-top: 10px; line-height: 20px;\">J'adore ce patch, il est pratique, prend peu de place, je l'utilise une nuit sur 2 à la maison. On remarque très vite l'éfficacité du produit infusé. L'équipe est très attentive à nos demandes et est réactive et sympathique. Je recommande ce produit à 200%.</p>    </div></div>"
           }
         },
-        "liquid_6wJXCr": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Free Shipping Notification</title>\n    <style>\n        .free-shipping-notification {\n            display: flex;\n            align-items: center;\n            font-size: 15px;\n            color: #333;\n        }\n        .free-shipping-notification img {\n            width: 22px;\n            height: 22px;\n            margin-right: 8px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"free-shipping-notification\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/shipped_1.png?v=1722606047\" alt=\"Free Shipping Icon\">\n        <span>LIVRAISON OFFERTE POUR TOUTES LES COMMANDES</span>\n    </div>\n</body>\n</html>"
-          }
-        },
         "image_NnVtjL": {
           "type": "image",
           "disabled": true,
@@ -654,6 +655,7 @@
         "image_pRggRB",
         "liquid_jnATdX",
         "liquid_TTn8Hq",
+        "liquid_6wJXCr",
         "image_GRPrpa",
         "description",
         "image_h9L7gC",
@@ -667,7 +669,6 @@
         "gsc_countdown_timer_countdown_Y466iP",
         "buy-buttons",
         "liquid_G49VDF",
-        "liquid_6wJXCr",
         "image_NnVtjL"
       ],
       "settings": {
