@@ -500,18 +500,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Kits</div>\n</div>"
           }
         },
-        "liquid_TTn8Hq": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #2e4147; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 14px; margin: 5px 0;\">\"SlimFuze est un patch minceur innovant qui agit pendant la nuit grâce à la technologie des micro-aiguilles.\nIl aide à réduire les fringales, dégonfler le ventre et relancer naturellement le métabolisme.\nFacile à appliquer, indolore et discret, il s’intègre sans effort à votre routine.\nUne solution douce mais efficace pour celles qui veulent des résultats visibles sans pression.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Alice L., Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
-          }
-        },
-        "liquid_6wJXCr": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Free Shipping Notification</title>\n    <style>\n        .free-shipping-notification {\n            display: flex;\n            align-items: center;\n            font-size: 15px;\n            color: #2e4147;\n        }\n        .free-shipping-notification img {\n            width: 22px;\n            height: 22px;\n            margin-right: 8px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"free-shipping-notification\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/shipped_1.png?v=1722606047\" alt=\"Free Shipping Icon\">\n        <span>LIVRAISON OFFERTE POUR TOUTE COMMANDE</span>\n    </div>\n</body>\n</html>"
-          }
-        },
         "image_GRPrpa": {
           "type": "image",
           "disabled": true,
@@ -549,16 +537,28 @@
           "disabled": true,
           "settings": {}
         },
+        "kaching_bundles_app_block_eN3bGK": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "liquid_G49VDF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #ebbf16; color:#2e4147; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">ACHETER MAINTENANT !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">    <div id=\"trustpilotblock\" style=\"border: 1px solid #fff; padding: 10px 7px; border-radius: 15px; background: #fff;\">        </div>"
+          }
+        },
         "liquid_3eWc3i": {
           "type": "liquid",
           "settings": {
             "liquid": "<style style=\"z-index: 22;\">\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes\n unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n\n<div class=\"unique-container-Abc456\" style=\"z-index: 21;\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n      </svg>\n30J Satisfait ou remboursé</span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n      </svg>\nSTOCK FAIBLE !    </span>\n  </div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_eN3bGK": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+        "liquid_TTn8Hq": {
+          "type": "liquid",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #2e4147; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 14px; margin: 5px 0;\">\"SlimFuze est un patch minceur innovant qui agit pendant la nuit grâce à la technologie des micro-aiguilles.\nIl aide à réduire les fringales, dégonfler le ventre et relancer naturellement le métabolisme.\nFacile à appliquer, indolore et discret, il s’intègre sans effort à votre routine.\nUne solution douce mais efficace pour celles qui veulent des résultats visibles sans pression.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Alice L., Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
           }
         },
         "image_QPEQgk": {
@@ -606,12 +606,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_G49VDF": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #ebbf16; color:#2e4147; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">ACHETER MAINTENANT !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">    <div id=\"trustpilotblock\" style=\"border: 1px solid #fff; padding: 10px 7px; border-radius: 15px; background: #fff;\">        <div style=\"display: flex; align-items: center;\">            <div><img id=\"imagetrustpilot1\" style=\"height: 30px;\" src=\"https://cdn.shopify.com/s/files/1/0549/5364/0026/files/JA-Truspilot.png?v=1673551316\"></div>            <div><img id=\"imagetrustpilot2\" style=\"margin-left: 12px; margin-right: 10px; height: 14px; width: auto;\" src=\"https://cdn.shopify.com/s/files/1/0549/5364/0026/files/Trustpilot-full-stars.png?v=1673551476\"></div>           <div style=\"display: flex; align-items: center; font-size: 14px;\"><span id=\"postesur\">Posté sur</span> <img id=\"imagetrustpilot3\" style=\"height: 25px; padding-bottom: 4px; width: auto; margin-left: 5px;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Design_sans_titre__37_-removebg-preview.png?v=1712335975?v=1712335802?v=1673552823\"></div>        </div>        <p style=\"margin-bottom: 10px; margin-top: 10px; line-height: 20px;\">J'adore ce patch, il est pratique, prend peu de place, je l'utilise une nuit sur 2 à la maison. On remarque très vite l'éfficacité du produit infusé. L'équipe est très attentive à nos demandes et est réactive et sympathique. Je recommande ce produit à 200%.</p>    </div></div>"
-          }
-        },
         "image_NnVtjL": {
           "type": "image",
           "disabled": true,
@@ -630,21 +624,20 @@
         "price",
         "image_pRggRB",
         "liquid_jnATdX",
-        "liquid_TTn8Hq",
-        "liquid_6wJXCr",
         "image_GRPrpa",
         "description",
         "image_h9L7gC",
         "rating",
         "separator",
-        "liquid_3eWc3i",
         "kaching_bundles_app_block_eN3bGK",
+        "liquid_G49VDF",
+        "liquid_3eWc3i",
+        "liquid_TTn8Hq",
         "image_QPEQgk",
         "variant-picker",
         "quantity-selector",
         "gsc_countdown_timer_countdown_Y466iP",
         "buy-buttons",
-        "liquid_G49VDF",
         "image_NnVtjL"
       ],
       "settings": {
