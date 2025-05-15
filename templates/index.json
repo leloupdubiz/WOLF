@@ -551,6 +551,26 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_87dgrX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_15_mai_2025_13_53_24.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_KiQtca": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "gsc_countdown_timer_countdown_VnK4VD": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-SMALL-OdCQIpZnpaHO"
+          }
+        },
         "liquid_G49VDF": {
           "type": "liquid",
           "settings": {
@@ -639,6 +659,9 @@
         "rating",
         "separator",
         "kaching_bundles_app_block_eN3bGK",
+        "image_87dgrX",
+        "liquid_KiQtca",
+        "gsc_countdown_timer_countdown_VnK4VD",
         "liquid_G49VDF",
         "liquid_3eWc3i",
         "liquid_TTn8Hq",
