@@ -89,7 +89,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir SlimFuze ?",
+            "text": "Pourquoi choisir le patch minceur SlimFuze ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -99,7 +99,6 @@
       "block_order": [
         "heading_JGUWbW"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -298,10 +297,10 @@
         "lazy": true
       }
     },
-    "rich_text_AihNYK": {
+    "rich_text_KhMTJe": {
       "type": "rich-text",
       "blocks": {
-        "heading_VQwx73": {
+        "heading_KCQYGG": {
           "type": "heading",
           "settings": {
             "text": "Elles ont tésté pour vous :",
@@ -312,7 +311,7 @@
         }
       },
       "block_order": [
-        "heading_VQwx73"
+        "heading_KCQYGG"
       ],
       "name": "Rich text",
       "settings": {
@@ -1331,7 +1330,7 @@
     "image_with_text_overlay_9Wwxkw",
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
-    "rich_text_AihNYK",
+    "rich_text_KhMTJe",
     "rich_text_JEkECK",
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
