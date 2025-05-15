@@ -173,7 +173,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "“L’efficacité d’une injection, sans l’aiguille, sans le prix.” SlimFuze remplace les méthodes invasives par une innovation transdermique brevetée, 100% indolore.",
+        "heading": "Ce patch ne m’a pas juste fait mincir. Il m’a réconciliée avec mon reflet.",
         "heading_custom": false,
         "heading_font": "din_next_n4",
         "heading_size": 34,
@@ -193,7 +193,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text": "<p>basé sur +<strong>1 000</strong> avis</p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -919,15 +919,14 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_jWkzej": {
+    "image_with_text_overlay_6iEEje": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_07.png",
+        "image": "shopify://shop_images/ChatGPT_Image_15_mai_2025_14_08_18.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -935,15 +934,14 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_6iEEje": {
+    "image_with_text_overlay_jWkzej": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_58.png",
+        "image": "shopify://shop_images/ChatGPT_Image_15_mai_2025_14_04_43.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1016,55 +1014,49 @@
         "overlay_opacity": 0
       }
     },
-    "how_to_use_sambal_mtLn7y": {
-      "type": "how-to-use-sambal",
+    "timeline_HEewDi": {
+      "type": "timeline",
       "blocks": {
-        "step_7q9JWB": {
-          "type": "step",
+        "slide_qwebaq": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "title": "",
-            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
-            "alignment": "left"
+            "navigation_label": "Etape 1",
+            "subheading": "Etape 1",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
-        "step_VCbrVx": {
-          "type": "step",
+        "slide_PxEdyy": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "title": "",
-            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
-            "alignment": "left"
+            "navigation_label": "1960",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
-        "step_QxA9A8": {
-          "type": "step",
+        "slide_NrcER6": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "title": "",
-            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
-            "alignment": "left"
-          }
-        },
-        "step_rTyP7G": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
-            "alignment": "left"
+            "navigation_label": "1966",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "step_7q9JWB",
-        "step_VCbrVx",
-        "step_QxA9A8",
-        "step_rTyP7G"
+        "slide_qwebaq",
+        "slide_PxEdyy",
+        "slide_NrcER6"
       ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {}
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -1319,12 +1311,12 @@
     "multi_column_wTJTNc",
     "how_to_use_sambal_R66gKj",
     "rich_text_wLB3E3",
-    "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_6iEEje",
+    "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_hKmC9C",
     "rich_text_JEkECK",
     "image_with_text_overlay_CNBBG9",
-    "how_to_use_sambal_mtLn7y",
+    "timeline_HEewDi",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
