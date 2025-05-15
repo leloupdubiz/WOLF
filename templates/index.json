@@ -16,7 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_13_mai_2025_07_31_22.png",
+        "image": "shopify://shop_images/ChatGPT_Image_15_mai_2025_12_42_45.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_15_mai_2025_13_08_57.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -73,12 +74,12 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "#263e46",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#f5e9d2",
+        "logo_item_background": "#ffffff",
         "logo_item_border": "#ffffff"
       }
     },
@@ -116,6 +117,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_15_56_25.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_15_mai_2025_12_44_09.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -278,10 +280,10 @@
         "view_color": "#000000",
         "heading_color": "#263e46",
         "rating_text_color": "#263e46",
-        "stars_bg_color": "#00b67a",
-        "stars_color": "#ffffff",
+        "stars_bg_color": "#00a341",
+        "stars_color": "#f0f0f0",
         "text_color": "#263e46",
-        "background_color": "#ffffff",
+        "background_color": "#f0f0f0",
         "background_gradient": "",
         "border_color": "#ffffff",
         "margin_top": 16,
@@ -302,7 +304,7 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_46_05.png",
+            "image": "shopify://shop_images/10_d00c822d-415a-4a5d-8f0d-d566d623d6eb.webp",
             "column_size": "3",
             "title": "Mélanie",
             "heading_tag": "h4",
@@ -315,7 +317,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_46_11.png",
+            "image": "shopify://shop_images/1738780731-1727441744-download_10.webp",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
@@ -341,7 +343,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_mars_2025_23_38_21.png",
+            "image": "shopify://shop_images/1738780713-1715252068-12.webp",
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
@@ -439,9 +441,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
-        "text_color": "#263e46"
+        "text_color": "#2e4147"
       }
     },
     "rich_text_AccAfb": {
@@ -546,7 +548,7 @@
         "liquid_G49VDF": {
           "type": "liquid",
           "settings": {
-            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #ebbf16; color:#2e4147; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">ACHETER MAINTENANT !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">    <div id=\"trustpilotblock\" style=\"border: 1px solid #fff; padding: 10px 7px; border-radius: 15px; background: #fff;\">        </div>"
+            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #84C1B9; color:#F0F0F0; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">ACHETER MAINTENANT !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">"
           }
         },
         "liquid_3eWc3i": {
@@ -651,7 +653,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "#263e46",
         "input_background": "#263e46",
@@ -889,6 +891,7 @@
     },
     "image_with_text_overlay_jWkzej": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -904,6 +907,7 @@
     },
     "image_with_text_overlay_6iEEje": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -917,38 +921,9 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_3HJ7Vn": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mars_2025_20_08_19.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_hL6Yn8": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Directement_dans_le_corps_par_injection.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_with_text_overlay_hKmC9C": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -997,6 +972,7 @@
     },
     "image_with_text_overlay_CNBBG9": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -1259,7 +1235,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -1293,7 +1269,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "#f5e9d2",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1315,8 +1291,6 @@
     "rich_text_wLB3E3",
     "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_6iEEje",
-    "image_with_text_overlay_3HJ7Vn",
-    "image_with_text_overlay_hL6Yn8",
     "image_with_text_overlay_hKmC9C",
     "rich_text_JEkECK",
     "image_with_text_overlay_CNBBG9",
