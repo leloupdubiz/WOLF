@@ -298,6 +298,65 @@
         "lazy": true
       }
     },
+    "rich_text_AihNYK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VQwx73": {
+          "type": "heading",
+          "settings": {
+            "text": "Elles ont tésté pour vous :",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_VQwx73"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_JEkECK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_t6DjJt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>Patch à nano-microaiguilles nouvelle génération, injection indolore.</h2>"
+          }
+        },
+        "richtext_x7NCKi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_t6DjJt",
+        "richtext_x7NCKi"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
@@ -965,39 +1024,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_JEkECK": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_t6DjJt": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h2>Patch à nano-microaiguilles nouvelle génération, injection indolore.</h2>"
-          }
-        },
-        "richtext_x7NCKi": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_t6DjJt",
-        "richtext_x7NCKi"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_CNBBG9": {
       "type": "image-with-text-overlay",
       "disabled": true,
@@ -1050,6 +1076,7 @@
         "slide_PxEdyy",
         "slide_NrcER6"
       ],
+      "disabled": true,
       "name": "Timeline",
       "settings": {
         "full_width": true,
@@ -1304,6 +1331,8 @@
     "image_with_text_overlay_9Wwxkw",
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
+    "rich_text_AihNYK",
+    "rich_text_JEkECK",
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
     "featured-product",
@@ -1314,7 +1343,6 @@
     "image_with_text_overlay_6iEEje",
     "image_with_text_overlay_jWkzej",
     "image_with_text_overlay_hKmC9C",
-    "rich_text_JEkECK",
     "image_with_text_overlay_CNBBG9",
     "timeline_HEewDi",
     "faq_MQHPPV",
