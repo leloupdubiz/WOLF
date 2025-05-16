@@ -165,6 +165,52 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_e6f488": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_4zRNbU": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_BQfp8p": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_iPaLyV": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4zRNbU",
+        "heading_BQfp8p",
+        "richtext_iPaLyV"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/1726021040-Untitleddesign8-ezgif.com-video-to-gif-converter.gif",
+        "mobile_image": "shopify://shop_images/1726021040-Untitleddesign8-ezgif.com-video-to-gif-converter.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -415,8 +461,8 @@
         },
         "item_p6MkDp": {
           "type": "item",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/1725642506-190107-vanessa-baldwin-before-after-cs-1158a_2dcd487c-5996-4b7b-ab51-b00482276ef8.webp",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
@@ -428,8 +474,8 @@
         },
         "item_4yzaE8": {
           "type": "item",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/1725642615-i-kissed-diet-culture-goodbye-before-and-after-photo.webp",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
@@ -441,8 +487,8 @@
         },
         "item_EwNkYx": {
           "type": "item",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/1738780722-1727794200-download.webp",
             "column_size": "3",
             "title": "Estelle",
             "heading_tag": "h4",
@@ -456,6 +502,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/1726021040-Untitleddesign8-ezgif.com-video-to-gif-converter.gif",
             "column_size": "3",
             "title": "Tiphaine",
             "heading_tag": "h4",
@@ -469,6 +516,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/1738780260-Ontwerp_zonder_titel_2.gif",
             "column_size": "3",
             "title": "Christelle",
             "heading_tag": "h4",
@@ -1341,6 +1389,7 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_9Wwxkw",
     "rich_text_QXqMJ7",
+    "image_with_text_overlay_e6f488",
     "trust_pilot_reviews_AxNB3A",
     "rich_text_KhMTJe",
     "rich_text_JEkECK",
