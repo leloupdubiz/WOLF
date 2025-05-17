@@ -685,6 +685,12 @@
             "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #84C1B9; color:#F0F0F0; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">ACHETER MAINTENANT !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">"
           }
         },
+        "liquid_AnEN84": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-videos'></div>"
+          }
+        },
         "liquid_3eWc3i": {
           "type": "liquid",
           "settings": {
@@ -771,6 +777,7 @@
         "liquid_KiQtca",
         "gsc_countdown_timer_countdown_VnK4VD",
         "liquid_G49VDF",
+        "liquid_AnEN84",
         "liquid_3eWc3i",
         "liquid_TTn8Hq",
         "image_QPEQgk",
@@ -858,9 +865,9 @@
       "settings": {
         "videos_position": "above_description",
         "use_metafield": false,
-        "heading": "<h2>WHAT OUR FELLOWS SAY</h2>",
+        "heading": "<h2>Slimfuze et vous :</h2>",
         "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
+        "heading_font": "din_next_n4",
         "heading_size": 18,
         "heading_size_mobile": 18,
         "heading_height": 130,
