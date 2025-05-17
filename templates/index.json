@@ -479,7 +479,7 @@
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
+            "content": "<p>Je ne me supportais plus dans le miroir. À mon âge, je pensais que c’était fini.<br/><br/>Et puis j’ai vu ce patch. Sans régime, sans pression.<br/><br/>Jour après jour, j’ai retrouvé mon corps… et mon regard.</p><p>Aujourd’hui, je remets mes robes d’il y a 10 ans.<br/><br/>Ce patch, c’est mon rituel sacré.</p><p>À celles qui hésitent : <strong>faites-le pour vous, pas pour les autres.</strong></p><p>Ne laissez plus le poids vous faire disparaître.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -490,37 +490,9 @@
           "settings": {
             "image": "shopify://shop_images/1738780722-1727794200-download.webp",
             "column_size": "3",
-            "title": "Estelle",
+            "title": "Léo",
             "heading_tag": "h4",
-            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yViHK3": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/1726021040-Untitleddesign8-ezgif.com-video-to-gif-converter.gif",
-            "column_size": "3",
-            "title": "Tiphaine",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JUW7xR": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/1738780260-Ontwerp_zonder_titel_2.gif",
-            "column_size": "3",
-            "title": "Christelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
+            "content": "<p><em>J’étais sceptique au début, je l’ai pris pour ma femme… Finalement on l’a testé tous les deux 😅 Franchement bluffé par les effets : elle a perdu son petit ventre en 3 semaines, et moi j’ai retrouvé une meilleure digestion et moins de fringales. Simple, discret, et surtout efficace sans stress. Bravo SlimFuze.</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -534,9 +506,7 @@
         "item_7BdeiK",
         "item_p6MkDp",
         "item_4yzaE8",
-        "item_EwNkYx",
-        "item_yViHK3",
-        "item_JUW7xR"
+        "item_EwNkYx"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -1115,6 +1085,7 @@
         "item_LV4cm8",
         "item_6nijje"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
