@@ -406,19 +406,6 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
-        "item_MwJML3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/10_d00c822d-415a-4a5d-8f0d-d566d623d6eb.webp",
-            "column_size": "3",
-            "title": "Mélanie",
-            "heading_tag": "h4",
-            "content": "<p>J’avais peur que ce soit encore une promesse de plus. Mais le patch SlimFuze m’a vraiment aidée à reprendre le contrôle sans stress. Pas d’injection, pas de douleur, juste un geste simple à la maison. Mon appétit a diminué dès les premières applications, et je me sens plus légère, plus stable. C’est discret, facile à suivre, et ça change tout.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_JJLm4U": {
           "type": "item",
           "settings": {
@@ -427,6 +414,19 @@
             "title": "Marie",
             "heading_tag": "h4",
             "content": "<p>Au début, j’étais sceptique. Un patch pour perdre du poids et réguler ma glycémie ? J’avais déjà essayé plein de choses sans succès. Et franchement, les aiguilles me faisaient peur. Mais avec SlimFuze, j’ai été surprise. Les microaiguilles sont indolores, je ne sens presque rien. Je l’applique chez moi en deux secondes, et ça m’aide vraiment à contrôler mes fringales. Pas besoin de penser aux rendez-vous ou aux injections : je suis enfin régulière, et les résultats sont là.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MwJML3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/10_d00c822d-415a-4a5d-8f0d-d566d623d6eb.webp",
+            "column_size": "3",
+            "title": "Mélanie",
+            "heading_tag": "h4",
+            "content": "<p>J’avais peur que ce soit encore une promesse de plus. Mais le patch SlimFuze m’a vraiment aidée à reprendre le contrôle sans stress. Pas d’injection, pas de douleur, juste un geste simple à la maison. Mon appétit a diminué dès les premières applications, et je me sens plus légère, plus stable. C’est discret, facile à suivre, et ça change tout.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -500,8 +500,8 @@
         }
       },
       "block_order": [
-        "item_MwJML3",
         "item_JJLm4U",
+        "item_MwJML3",
         "item_GECyWQ",
         "item_7BdeiK",
         "item_p6MkDp",
