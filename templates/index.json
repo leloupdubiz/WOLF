@@ -497,6 +497,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_TcDrMq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/MEILLEURE_OFFRE_28.png",
+            "column_size": "3",
+            "title": "Sylvie",
+            "heading_tag": "h4",
+            "content": "<p>Franchement, j’y croyais moyen au début… mais j’ai fait simple : petit déficit de 200 kcal, mes 10 000 pas par jour, et <strong>le patch SlimFuze</strong> que je mets tous les samedis soirs. Deux semaines plus tard : <strong>-6 kg</strong>. Ventre dégonflé, plus d’énergie, et surtout je gère grave les fringales.</p><p>Je me sens mieux dans mon corps, sans avoir l’impression de me priver.C’est discret, facile, zéro prise de tête.</p><p>Si comme moi vous avez déjà tout essayé et que vous voulez juste un petit coup de pouce sans stress… testez-le. Vraiment.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -506,7 +519,8 @@
         "item_7BdeiK",
         "item_p6MkDp",
         "item_4yzaE8",
-        "item_EwNkYx"
+        "item_EwNkYx",
+        "item_TcDrMq"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
