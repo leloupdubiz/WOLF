@@ -342,7 +342,7 @@
         "heading_KCQYGG": {
           "type": "heading",
           "settings": {
-            "text": "Elles l'ont tésté pour vous :",
+            "text": "Résultats Incroyables",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -981,25 +981,14 @@
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "SMGT-GLP-1",
-            "heading_tag": "h4",
-            "content": "<p>Notre Patch diffuse progressivement du Semaglutide à travers la peau, imitant l’effet naturel du GLP-1.</p><p>Il aide à <strong>réduire l’appétit</strong>, <strong>réguler la glycémie</strong> et <strong>favoriser une perte de poids durable</strong>, sans injection.</p><p>Une solution discrète, non invasive et idéale pour les protocoles métaboliques modernes.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_QdbeiM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_71.png",
             "column_size": "3",
-            "title": "Extrait de chrysanthellum",
+            "title": "Feuilles de Corossol",
             "heading_tag": "h4",
-            "content": "<p>L’extrait de <strong>Chrysanthellum americanum</strong> est riche en flavonoïdes et saponines aux puissants effets <strong>antioxydants</strong> et <strong>anti-inflammatoires</strong>.</p><p>Il soutient la <strong>circulation sanguine</strong>, protège les capillaires et aide à réduire la <strong>fragilité vasculaire</strong> (rougeurs, jambes lourdes).</p><p>Idéal en complément pour les peaux sensibles, les troubles veineux ou les cures détox.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -1008,10 +997,11 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Frame_481944.png",
             "column_size": "3",
-            "title": "Acide hyaluronique",
+            "title": "Graines de Nigelle",
             "heading_tag": "h4",
-            "content": "<p>L’<strong>acide hyaluronique</strong> est une molécule naturellement présente dans la peau, connue pour son <strong>pouvoir hydratant exceptionnel</strong>.</p><p>Il retient jusqu’à <strong>1 000 fois son poids en eau</strong>, repulpe les tissus et lisse les ridules.</p><p>Utilisé en soin ou en complément, il améliore l’<strong>élasticité</strong>, l’<strong>éclat</strong> et la <strong>fermeté</strong> de la peau.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -1020,10 +1010,37 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Frame_481944_2.png",
             "column_size": "3",
-            "title": "Centella asiatica",
+            "title": "Moringa",
             "heading_tag": "h4",
-            "content": "<p>La <strong>Centella Asiatica</strong>, aussi appelée « herbe du tigre », est une plante médicinale aux puissantes vertus <strong>régénérantes</strong> et <strong>cicatrisantes</strong>.</p><p>Elle stimule la production de <strong>collagène</strong>, apaise les inflammations et favorise la <strong>réparation cutanée</strong>.</p><p>Idéale pour les peaux sensibles, marquées ou sujettes aux imperfections.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AVk4bF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Frame_481944_10.png",
+            "column_size": "3",
+            "title": "Ashwaganda",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VLx7n4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Frame_481944_8.png",
+            "column_size": "3",
+            "title": "Reishi",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -1032,10 +1049,24 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Frame_481944_5.png",
             "column_size": "3",
-            "title": "Vitamine B3",
+            "title": "Irish Moss",
             "heading_tag": "h4",
-            "content": "<p>La <strong>vitamine B3</strong>, ou <strong>niacinamide</strong>, est un actif aux multiples bienfaits pour la peau et le métabolisme cellulaire.</p><p>Elle régule la <strong>production de sébum</strong>, atténue les <strong>taches pigmentaires</strong> et renforce la <strong>barrière cutanée</strong>.</p><p>Un indispensable pour une peau plus <strong>uniforme, apaisée</strong> et visiblement <strong>éclatante</strong>.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xiaYUR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/aromatic-bay-leaves_1.png",
+            "column_size": "3",
+            "title": "Feuilles de Laurier",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -1043,20 +1074,21 @@
         }
       },
       "block_order": [
-        "item_xiaYUR",
         "item_QdbeiM",
         "item_dPL9Rr",
         "item_LV4cm8",
-        "item_6nijje"
+        "item_AVk4bF",
+        "item_VLx7n4",
+        "item_6nijje",
+        "item_xiaYUR"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ingrédients testés cliniquement",
+        "title": "Contient plus de 85 super-aliments et nutriments essentiels pour une santé optimale",
         "content": "",
         "background": "",
         "background_gradient": "",
