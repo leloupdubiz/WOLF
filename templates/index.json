@@ -1095,6 +1095,86 @@
         "text_color": ""
       }
     },
+    "rich_text_gkWEKE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4mVxbc": {
+          "type": "heading",
+          "settings": {
+            "text": "Que peut-on attendre du sirop de chez  Serene Vita ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4mVxbc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "timeline_HEewDi": {
+      "type": "timeline",
+      "blocks": {
+        "slide_qwebaq": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1ére Semaine",
+            "subheading": "",
+            "title": "Relancez votre Santé",
+            "content": "<p>Alors que votre corps commence à se désintoxiquer, les feuilles de corossol soutiennent l'immunité, le séné et les feuilles de laurier favorisent la digestion, et la racine de citron avec du miel apaise l'intestin, vous aidant à vous sentir plus léger et rafraîchi.</p>"
+          }
+        },
+        "slide_PxEdyy": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1 mois",
+            "subheading": "",
+            "title": "Vitalité & Éclat",
+            "content": "<p>Le moringa et l'Irish moss fournissent des nutriments essentiels pour l'énergie et la santé de la peau, tandis que le curcuma, la cannelle, l'ail et l'hibiscus favorisent la circulation, le métabolisme et la vitalité générale, vous laissant une sensation d'équilibre et de revitalisation.</p>"
+          }
+        },
+        "slide_NrcER6": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2 mois",
+            "subheading": "",
+            "title": "Immunité & Mobilité",
+            "content": "<p>Les graines de nigelle et l'extrait de reishi renforcent votre système immunitaire, l'ashwagandha et l'herbe de chèvre améliorent l'endurance, et le curcuma et la cannelle soutiennent le confort des articulations, vous aidant à vous sentir plus résistant et plus énergique physiquement.</p>"
+          }
+        },
+        "slide_j6NhPM": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "3 mois",
+            "subheading": "",
+            "title": "Circulation & Désintoxication",
+            "content": "<p>L'hibiscus et l'ail favorisent la santé cardiaque, le tamarin et la racine de citron facilitent la digestion et le métabolisme, et les feuilles de laurier et la mousse d'Irlande soutiennent la santé intestinale, vous laissant une sensation de clarté d'esprit, de rajeunissement et de synchronisation avec votre corps.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_qwebaq",
+        "slide_PxEdyy",
+        "slide_NrcER6",
+        "slide_j6NhPM"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "how_to_use_sambal_R66gKj": {
       "type": "how-to-use-sambal",
       "blocks": {
@@ -1141,7 +1221,6 @@
         "step_ywNDXk",
         "step_GfMjWy"
       ],
-      "disabled": true,
       "name": "How to Use",
       "settings": {}
     },
@@ -1205,81 +1284,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_hKmC9C": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_CNBBG9": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "timeline_HEewDi": {
-      "type": "timeline",
-      "blocks": {
-        "slide_qwebaq": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "Etape 1",
-            "subheading": "Etape 1",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "slide_PxEdyy": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "1960",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "slide_NrcER6": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "1966",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_qwebaq",
-        "slide_PxEdyy",
-        "slide_NrcER6"
-      ],
-      "disabled": true,
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "faq_MQHPPV": {
@@ -1520,13 +1524,12 @@
     "ss_videos_wcEY7L",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
+    "rich_text_gkWEKE",
+    "timeline_HEewDi",
     "how_to_use_sambal_R66gKj",
     "rich_text_wLB3E3",
     "image_with_text_overlay_6iEEje",
     "image_with_text_overlay_jWkzej",
-    "image_with_text_overlay_hKmC9C",
-    "image_with_text_overlay_CNBBG9",
-    "timeline_HEewDi",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
