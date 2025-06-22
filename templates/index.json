@@ -1266,33 +1266,25 @@
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
-        "item_qfyPPE": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
-          }
-        },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne la micro-infusion?",
-            "content": "<p>Notre <strong>système de micro-infusion</strong> révolutionnaire utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer des micro-canaux à la surface de la peau.</p><p>Grâce à cette technologie, un sérum concentré en <strong>acide hyaluronique et peptides de collagène</strong> pénètre en <strong>profondeur</strong>, là où les soins anti-âge classiques n’atteignent pas.</p><p><strong>Résultat : votre collagène est stimulé</strong>, réduisant rides, ridules et relâchement cutané, pour une peau plus ferme et éclatante.</p><p>Utilisez-le <strong>toutes les deux semaines</strong> et retrouvez une peau plus lisse et tonifiée depuis le confort de votre maison, en seulement quelques séances !</p>"
+            "title": "Qu'est-ce que le Sirop Royal?",
+            "content": "<p>Le Sirop Royal est un complément alimentaire naturel fabriqué à partir des feuilles et des tiges du corossolier. Il s'agit d'un mélange puissant de plus de 15 composés bioactifs qui agissent ensemble pour favoriser la santé et le bien-être général. Notre formule unique exploite les propriétés médicinales traditionnelles du corossol, connu pour son potentiel à renforcer l'immunité, faciliter la digestion et favoriser la vitalité. Chaque portion apporte une dose concentrée des bienfaits de la nature, conçue pour vous aider à vous sentir au mieux de votre forme, de l'intérieur comme de l'extérieur.</p>"
+          }
+        },
+        "item_XY77ii": {
+          "type": "item",
+          "settings": {
+            "title": "À quoi ça sert?",
+            "content": "<p>Chaque bouteille contient un mélange puissant de 15 plantes qui peuvent vous aider à renforcer votre système immunitaire, à soigner vos problèmes intestinaux, à booster votre énergie, à réduire votre tension artérielle, à soulager votre stress, et bien plus encore.<br/><br/><br/>Au lieu de prendre une multitude de compléments alimentaires, il vous suffit de prendre notre Sirop Royal pour bénéficier d'un soutien quotidien puissant et fiable pour votre santé.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Notre <strong>système de patch micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>"
-          }
-        },
-        "item_Qt9h7g": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Les têtes d'aiguille sont-elles réutilisables?",
-            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
+            "title": "Pourquoi choisir ce supplément et pas un autre?",
+            "content": "<p>Notre formule exploite la puissance de plus de 85 composés bioactifs présents naturellement dans le corossol, sans additifs artificiels. Le résultat est un complément alimentaire doux mais efficace qui favorise votre santé sans les effets secondaires néfastes souvent associés aux produits synthétiques.<br/><br/><br/>Ce qui distingue vraiment le Sirop Royal, c'est son profil nutritionnel unique, qui comprend des composés rares tels que les acétogénines annonacées, que l'on ne trouve généralement pas dans d'autres compléments alimentaires.</p>"
           }
         },
         "item_mrg8b4": {
@@ -1303,6 +1295,14 @@
             "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à <strong>la perte de collagène</strong>.<br/>Utilisez-le <strong>toutes les deux semaines</strong> pour stimuler <strong>la production naturelle de collagène</strong>.</p><p>✔ <strong>Rides du front</strong><br/>✔ <strong>Rides du lion</strong> (entre les sourcils)<br/>✔ <strong>Pattes d’oie</strong><br/>✔ <strong>Rides autour des yeux</strong><br/>✔ <strong>Rides du nez (\"bunny lines\")</strong><br/>✔ <strong>Menton irrégulier (\"strawberry chin\")</strong><br/>✔ <strong>Sillons nasogéniens</strong><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/>✔ <strong>Plis d’amertume</strong> (aux coins des lèvres)<br/>✔ <strong>Relâchement du cou (\"turkey neck\")</strong></p>"
           }
         },
+        "item_Qt9h7g": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Les têtes d'aiguille sont-elles réutilisables?",
+            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
+          }
+        },
         "item_K9EhFR": {
           "type": "item",
           "disabled": true,
@@ -1311,18 +1311,11 @@
             "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
           }
         },
-        "item_XY77ii": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce efficace pour les hommes ?",
-            "content": "<p>Absolument !<br/><br/>Notre produit est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.</p>"
-          }
-        },
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "Est-ce sûr pour tous les types de peau?",
-            "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si vous avez une affection cutanée sérieuse, il est recommandé de consulter votre médecin avant d'utiliser le produit.</p>"
+            "title": "Comment le consommer?",
+            "content": "<p>Prenez une cuillère à soupe de corossol deux fois par jour, de préférence après les repas. Nous vous recommandons de le mélanger directement à votre boisson préférée pour faciliter la digestion et booster votre apport nutritionnel. Une utilisation régulière est essentielle pour obtenir les meilleurs résultats.</p>"
           }
         },
         "item_6cJAWF": {
@@ -1352,8 +1345,8 @@
         "item_RKyzeA": {
           "type": "item",
           "settings": {
-            "title": "Ce produit est-il automatiquement renouvelé et expédié chaque mois ?",
-            "content": "<p><strong>Non</strong>, SlimFuze ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
+            "title": "Combien de temps faut-il pour voir des résultats?",
+            "content": "<p>Certains clients commencent à remarquer des améliorations en seulement 7 jours. Mais chaque personne est différente, c'est pourquoi nous recommandons d'essayer le produit quotidiennement pendant au moins 1 à 2 mois.</p>"
           }
         },
         "item_MihJ8p": {
@@ -1391,16 +1384,22 @@
         "item_3EBPbR": {
           "type": "item",
           "settings": {
-            "title": "Puis-je utiliser le Micro Infusion Kit si j'ai déjà eu des injections cosmétiques?",
-            "content": "<p>Oui, vous pouvez utiliser SlimFuze même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
+            "title": "Quand est-ce que ma commande sera expédiée?",
+            "content": "<p>Tous nos produits sont disponibles en entrepôt et seront expédiés dans un délai de 1 à 2 jours ouvrables après la commande.</p>"
+          }
+        },
+        "item_qfyPPE": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
           }
         },
         "item_D3yQPm": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "title": "Quels sont les ingrédients ?",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>"
+            "title": "Et si j'en suis insatisfait?",
+            "content": "<p>Beaucoup de nos clients sont satisfaits du prix abordable et des bienfaits pour la santé qu'ils ont constatés en consommant notre Sirop Royal, nous sommes donc convaincus que vous l'apprécierez également. Mais si vous ne remarquez aucune amélioration, vous pouvez retourner votre commande dans les 60 jours suivant la livraison du produit et obtenir un remboursement complet ! Sans tracas et ni question.</p>"
           }
         },
         "item_8eKwAt": {
@@ -1429,13 +1428,12 @@
         }
       },
       "block_order": [
-        "item_qfyPPE",
         "item_yDiwY9",
-        "item_8yPykD",
-        "item_Qt9h7g",
-        "item_mrg8b4",
-        "item_K9EhFR",
         "item_XY77ii",
+        "item_8yPykD",
+        "item_mrg8b4",
+        "item_Qt9h7g",
+        "item_K9EhFR",
         "item_P6yRzh",
         "item_6cJAWF",
         "item_3ydTfx",
@@ -1446,6 +1444,7 @@
         "item_DAfyn3",
         "item_VnHdN7",
         "item_3EBPbR",
+        "item_qfyPPE",
         "item_D3yQPm",
         "item_8eKwAt",
         "item_V4HbrJ",
