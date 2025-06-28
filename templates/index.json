@@ -456,6 +456,13 @@
             "show_taxes_notice": false
           }
         },
+        "image_dKiFK7": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "image_pRggRB": {
           "type": "image",
           "disabled": true,
@@ -518,6 +525,14 @@
           "type": "liquid",
           "settings": {
             "liquid": ""
+          }
+        },
+        "image_3bRyG3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_8801b5c5-7228-4a3c-b730-d5da162763de.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "moon_bundle_app_block_8Gn8e7": {
@@ -604,6 +619,7 @@
         "title",
         "badges",
         "price",
+        "image_dKiFK7",
         "image_pRggRB",
         "liquid_jnATdX",
         "image_GRPrpa",
@@ -613,6 +629,7 @@
         "separator",
         "image_87dgrX",
         "liquid_KiQtca",
+        "image_3bRyG3",
         "moon_bundle_app_block_8Gn8e7",
         "liquid_G49VDF",
         "liquid_AnEN84",
