@@ -44,14 +44,7 @@
     "favicon": "shopify://shop_images/ChatGPT_Image_15_mai_2025_12_34_49.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "10508887350528622030": {
-        "type": "shopify://apps/appstle-bundles/blocks/appstle-bundle/8909921b-2d24-4d68-9b12-9d045d3dcb0a",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
