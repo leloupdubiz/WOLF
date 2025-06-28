@@ -340,32 +340,6 @@
         "lazy": true
       }
     },
-    "rich_text_KhMTJe": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KCQYGG": {
-          "type": "heading",
-          "settings": {
-            "text": "Ce qu'en pensent nos clients",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_KCQYGG"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_JEkECK": {
       "type": "rich-text",
       "blocks": {
@@ -399,12 +373,29 @@
         "text_color": ""
       }
     },
+    "scrolling_text_WcjErG": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "NOS CLIENTS EN PARLENT LE MIEUX",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
         "item_TcDrMq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5_395711a7-ea1e-4fd4-953e-266a84036bd9.png",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
@@ -417,6 +408,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2_cacc90c6-13d6-4e7e-8be3-00fe7ed0413d.png",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
@@ -429,8 +421,9 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_fa272f2e-d392-41f6-b9d2-bca4dd57773c.png",
             "column_size": "3",
-            "title": "Lucas",
+            "title": "Marcus",
             "heading_tag": "h4",
             "content": "<p>Je n’avais pas le temps pour des routines compliquées. Une cuillère matin et soir, et j’ai senti mon ventre moins lourd, mon énergie plus stable. Même mes douleurs après le boulot ont diminué. C’est simple et ça marche.</p>",
             "link_url": "",
@@ -454,6 +447,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6_9c67fb67-28e2-470b-b9e3-9937a750af8a.png",
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
@@ -466,6 +460,7 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_17f0348f-9670-4b07-86cf-cbd9d2b69b57.png",
             "column_size": "3",
             "title": "Marc",
             "heading_tag": "h4",
@@ -478,6 +473,7 @@
         "item_4yzaE8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/7_ddc2d592-7e89-4d3e-8077-1110118d7b52.png",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
@@ -489,6 +485,7 @@
         },
         "item_EwNkYx": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Léo",
@@ -1542,8 +1539,8 @@
     "image_with_text_overlay_9Wwxkw",
     "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
-    "rich_text_KhMTJe",
     "rich_text_JEkECK",
+    "scrolling_text_WcjErG",
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
     "featured-product",
