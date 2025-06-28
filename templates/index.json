@@ -346,7 +346,7 @@
         "heading_KCQYGG": {
           "type": "heading",
           "settings": {
-            "text": "Résultats Incroyables",
+            "text": "Ce qu'en pensent nos clients",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -481,7 +481,7 @@
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
-            "content": "<p>Je ne me supportais plus dans le miroir. À mon âge, je pensais que c’était fini. Et puis j’ai vu ce patch. Sans régime, sans pression. Jour après jour, j’ai retrouvé mon corps… et mon regard. Aujourd’hui, je remets mes robes d’il y a 10 ans. Ce patch, c’est mon rituel sacré.</p>",
+            "content": "<p>J'ai toujours été sceptique à propos des compléments alimentaires, mais celui-ci m'a fait changer d'avis. Plus d'énergie, une meilleure concentration : c'est comme si j'étais une nouvelle personne.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -493,7 +493,7 @@
             "column_size": "3",
             "title": "Léo",
             "heading_tag": "h4",
-            "content": "<p><em>J’étais sceptique au début, je l’ai pris pour ma femme… Finalement on l’a testé tous les deux 😅 Franchement bluffé par les effets : elle a perdu son petit ventre en 3 semaines, et moi j’ai retrouvé une meilleure digestion et moins de fringales. Simple, discret, et surtout efficace sans stress. Bravo SlimFuze.</em></p>",
+            "content": "<p>J'avais beaucoup de mal à digérer. Depuis que j'utilise ce mélange, ma santé intestinale s'est considérablement améliorée. Ça a changé ma vie !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -543,7 +543,7 @@
         "liquid_yLnKjK": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div id=\"shopify-section-template--24620306497867html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n\n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: #439b54; color: #ffffff; padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU N°1 DES PRODUITS MINCEUR 2025 <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n\n    </div>\n</div>\n\n</div>"
+            "liquid": "<div id=\"shopify-section-template--24620306497867html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n\n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: #439b54; color: #ffffff; padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU N°1 DES COMPLÉMENTS 2024 <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n\n    </div>\n</div>\n\n</div>"
           }
         },
         "vendor": {
@@ -554,7 +554,7 @@
         "liquid_UqCNKi": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #2E4147;\n  --social-proof-star-color: #439b54;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.7\n par +50000 clients !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #2E4147;\n  --social-proof-star-color: #439b54;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.7\n par +50000 amis de la nature !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title": {
@@ -640,11 +640,12 @@
         "liquid_G49VDF": {
           "type": "liquid",
           "settings": {
-            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #439b54; color:#F0F0F0; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">ACHETER MAINTENANT !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">"
+            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #ebbf16; color:#000000; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">JE VEUX ESSAYER !</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">"
           }
         },
         "liquid_AnEN84": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div id='ss-product-videos'></div>"
           }
@@ -658,7 +659,7 @@
         "liquid_TTn8Hq": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #2e4147; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 14px; margin: 5px 0;\">\"SlimFuze, c’est l’innovation minceur par micro-aiguilles : une technologie nouvelle génération qui agit en profondeur pendant la nuit pour relancer le métabolisme, calmer les fringales et affiner visiblement la silhouette.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Alice L., Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #2e4147; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 14px; margin: 5px 0;\">Ce sirop associe intelligemment des extraits végétaux reconnus pour soutenir les fonctions digestives, hépatiques et immunitaires. Sa forme liquide permet une absorption rapide et un effet ressenti dès les premiers jours. C’est une solution naturelle que je recommande régulièrement en accompagnement de cures détox ou pour retrouver énergie et confort intestinal.</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Alice L. Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
           }
         },
         "image_QPEQgk": {
@@ -744,9 +745,9 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#263e46",
+        "text_color": "#000000",
         "input_background": "#263e46",
         "input_text_color": ""
       }
@@ -1472,6 +1473,55 @@
         "accordion_text_color": ""
       }
     },
+    "image_with_text_overlay_9PXG7a": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/our-story.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_QNwKLg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ynAh9e": {
+          "type": "heading",
+          "settings": {
+            "text": "Notre histoire",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_PNMFMg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dans un monde où les solutions rapides et artificielles sont légion, nous croyons que la nature détient la clé du bien-être véritable. Depuis 2022, nous avons aidé plus de 20 000 personnes à améliorer leur santé grâce à nos produits. Chacun de nos mélanges contient plus de 85 superaliments puissants, soigneusement sélectionnés par notre équipe d'herboristes experts et provenant naturellement d'Afrique. Qu'il s'agisse d'un regain d'énergie, d'un sommeil amélioré ou d'une peau plus nette, nous prouvons que les remèdes naturels peuvent faire une réelle différence. Nous sommes tellement convaincus de l'efficacité de nos solutions naturelles que nous vous remboursons si vous ne constatez pas d'amélioration de votre santé dans les 60 jours. Nous sommes impatients de vous accompagner dans votre parcours vers le bien-être.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ynAh9e",
+        "richtext_PNMFMg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "17359565654f612dcd": {
       "type": "apps",
       "settings": {
@@ -1505,6 +1555,8 @@
     "how_to_use_sambal_R66gKj",
     "rich_text_wLB3E3",
     "faq_MQHPPV",
+    "image_with_text_overlay_9PXG7a",
+    "rich_text_QNwKLg",
     "17359565654f612dcd"
   ]
 }
