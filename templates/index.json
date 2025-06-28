@@ -520,6 +520,12 @@
             "liquid": ""
           }
         },
+        "moon_bundle_app_block_8Gn8e7": {
+          "type": "shopify://apps/moon-bundle/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "{{section.settings.product}}"
+          }
+        },
         "liquid_G49VDF": {
           "type": "liquid",
           "settings": {
@@ -607,6 +613,7 @@
         "separator",
         "image_87dgrX",
         "liquid_KiQtca",
+        "moon_bundle_app_block_8Gn8e7",
         "liquid_G49VDF",
         "liquid_AnEN84",
         "liquid_3eWc3i",
