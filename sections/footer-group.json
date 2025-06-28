@@ -21,7 +21,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#000000",
+            "icon_background": "#439b54",
             "icon_color": "#f1ebe4",
             "title": "Satisfait ou remboursé",
             "content": ""
@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p>Service client : contact@slimfuze.fr</p><p>Horaires : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
+            "content": "<p>Service client : contact@serenevita.fr</p><p>Horaires : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": false
           }
         }
