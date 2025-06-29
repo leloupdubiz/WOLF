@@ -531,7 +531,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_8801b5c5-7228-4a3c-b730-d5da162763de.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
@@ -1040,6 +1040,7 @@
         "slide_qwebaq": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/1_97f3b4e5-24f1-42a7-b430-50835f3f3019.png",
             "navigation_label": "1ére Semaine",
             "subheading": "",
             "title": "Relancez votre Santé",
@@ -1049,6 +1050,7 @@
         "slide_PxEdyy": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/2_2c53b1f9-ec53-4fe4-95af-8942e9876de6.png",
             "navigation_label": "1 mois",
             "subheading": "",
             "title": "Vitalité & Éclat",
@@ -1058,6 +1060,7 @@
         "slide_NrcER6": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/3_de875d40-3f30-4792-b64d-9aee3632676f.png",
             "navigation_label": "2 mois",
             "subheading": "",
             "title": "Immunité & Mobilité",
@@ -1067,6 +1070,7 @@
         "slide_j6NhPM": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/4_bd86f140-b8cd-4f81-9ee2-8ff9cf09c597.png",
             "navigation_label": "3 mois",
             "subheading": "",
             "title": "Circulation & Désintoxication",
