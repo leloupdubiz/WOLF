@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/50.000_clients_satisfaits.png",
-        "mobile_image": "shopify://shop_images/50.000_clients_satisfaits.png",
+        "image": "shopify://shop_images/50.000_clients_satisfaits_9468a74e-39a1-4d9f-a97f-6ac4cdb413d0.png",
+        "mobile_image": "shopify://shop_images/50.000_clients_satisfaits_67c0b4b7-7079-4c68-b956-e948d7f49f5d.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1458,7 +1458,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
