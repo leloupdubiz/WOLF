@@ -1406,6 +1406,7 @@
       "blocks": {
         "heading_ynAh9e": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Notre histoire",
             "heading_tag": "h1",
@@ -1416,7 +1417,7 @@
         "richtext_PNMFMg": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Dans un monde où les solutions rapides et artificielles sont légion, nous croyons que la nature détient la clé du bien-être véritable. Depuis 2022, nous avons aidé plus de 50 000 personnes à améliorer leur santé grâce à nos produits. Chacun de nos mélanges contient plus de 85 actifs puissants puisés dans 15 plantes naturelles, soigneusement sélectionnées par notre équipe d'herboristes experts et provenant naturellement d'Afrique. Qu'il s'agisse d'un regain d'énergie, d'un sommeil amélioré ou d'une peau plus nette, nous prouvons que les remèdes naturels peuvent faire une réelle différence. Nous sommes tellement convaincus de l'efficacité de nos solutions naturelles que nous vous remboursons si vous ne constatez pas d'amélioration de votre santé dans les 60 jours. Nous sommes impatients de vous accompagner dans votre parcours vers le bien-être.</p>"
+            "content": "<h3>🌿 <strong>Notre Histoire</strong></h3><p>Dans un monde saturé de solutions rapides, standardisées et artificielles, nous avons choisi un autre chemin. Celui de l’authenticité, de la nature, et de la confiance dans ce que la terre a de plus puissant à offrir.</p><p>Depuis 2022, <strong>Serene Vita</strong> s’est donné pour mission de reconnecter les individus à leur bien-être naturel. Plus de <strong>50 000 personnes</strong> ont déjà retrouvé énergie, équilibre et clarté grâce à nos formules à base de plantes, conçues avec rigueur et bienveillance.</p><p>Au cœur de chaque flacon : <strong>plus de 85 actifs végétaux</strong>, extraits de <strong>15 plantes médicinales</strong> soigneusement sélectionnées par notre équipe d’<strong>herboristes experts</strong>. Nos ingrédients, bruts, puissants et respectueux de la biodiversité, sont issus principalement d’Afrique, un continent riche en traditions médicinales ancestrales.</p><p>Qu’il s’agisse d’un regain d’énergie, d’un sommeil plus profond, d’une digestion harmonieuse ou d’une peau naturellement éclatante, nos produits démontrent chaque jour que les <strong>remèdes naturels</strong> ne sont pas des promesses vides — mais de vraies solutions, durables et respectueuses du corps.</p><p>Et parce que nous croyons profondément en l’efficacité de nos produits, nous nous engageons sans détour : <strong>si vous ne constatez aucune amélioration dans les 60 jours</strong>, nous vous <strong>remboursons intégralement</strong>.</p><p>Chez Serene Vita, nous ne vendons pas seulement des produits. Nous accompagnons une transformation, <strong>un retour vers un corps écouté, un esprit apaisé, une vitalité retrouvée</strong>. Et ce chemin, nous serions honorés de le parcourir avec vous.</p><p>Souhaites-tu une <strong>version plus courte</strong>, <strong>plus émotionnelle</strong> ou <strong>format manifeste en bullet points</strong> ?</p>"
           }
         }
       },
