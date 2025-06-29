@@ -55,6 +55,11 @@
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
         "settings": {}
+      },
+      "10431957531522714341": {
+        "type": "shopify://apps/seoant-page-speed/blocks/pagespeed-preloading/b6edaf80-ee08-4404-951c-d8f577b5c1b1",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
