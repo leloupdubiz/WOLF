@@ -96,7 +96,7 @@
         "heading_U4P6Mz": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi  choisir le Sirop Royal de Serene Vita ?",
+            "text": "Les Bénéfices Concrets du Sirop Royal",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -161,8 +161,8 @@
         "rating_text_size": 24,
         "rating_text_size_mobile": 20,
         "rating_text_height": 130,
-        "rating_text_mt": 92,
-        "rating_text_mt_mobile": 20,
+        "rating_text_mt": 20,
+        "rating_text_mt_mobile": 12,
         "rating": 4.7,
         "rating_hide": false,
         "rating_text_hide": false,
