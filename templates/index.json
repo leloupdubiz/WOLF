@@ -149,7 +149,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clients en parlent le mieux",
+        "heading": "Nos clients en parlent le mieux...",
         "heading_custom": true,
         "heading_font": "arimo_n4",
         "heading_size": 24,
@@ -285,7 +285,7 @@
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
-            "content": "<p>Je travaille  et je cours toute la journée. J'avais constamment le ventre noué et des coups de fatigue. En une semaine avec le Sirop Royal, je me suis sentie plus claire, plus légère, et moins stressée. C’est devenu mon hack bien-être.</p>",
+            "content": "<p>Je travaille et je cours toute la journée. J'avais constamment <strong>le ventre noué et des coups de fatigue</strong>. En une semaine avec le Sirop Royal, je me suis sentie <strong>plus claire, plus légère, et moins stressée</strong>. C’est devenu mon <strong>hack bien-être</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -298,7 +298,7 @@
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p>J’ai tout essayé pour soulager mon transit, mais je voulais rester du côté des plantes. Ce sirop m’a bluffée : il est doux, efficace, et je dors même mieux. Mon corps l’a adopté sans effort.</p>",
+            "content": "<p>J’ai tout essayé pour <strong>soulager mon transit</strong>, mais je voulais rester du côté des plantes. Ce sirop m’a bluffée : <strong>il est doux, efficace, et je dors même mieux</strong>. Mon corps l’a adopté sans effort.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -311,7 +311,7 @@
             "column_size": "3",
             "title": "Marcus",
             "heading_tag": "h4",
-            "content": "<p>Je n’avais pas le temps pour des routines compliquées. Une cuillère matin et soir, et j’ai senti mon ventre moins lourd, mon énergie plus stable. Même mes douleurs après le boulot ont diminué. C’est simple et ça marche.</p>",
+            "content": "<p><strong>Je n’avais pas le temps </strong>pour des routines compliquées. Une cuillère matin et soir, et j’ai senti mon <strong>ventre moins lourd, mon énergie plus stable.</strong> Même <strong>mes douleurs</strong> après le boulot ont diminué. <strong>C’est simple et ça marche.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -337,7 +337,7 @@
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Je fais attention à ce que je consomme, mais j’aime me faire plaisir. Le goût est top, les ingrédients sont clean, et surtout j’ai vu les résultats dès le 5e jour. Ça m’évite d’acheter 3 produits différents.</p>",
+            "content": "<p>Je fais attention à ce que je consomme, mais j’aime me faire plaisir. Le goût est top, les ingrédients sont clean, <strong>et surtout j’ai vu les résultats dès le 5e jour</strong>. Ça m’évite d’acheter 3 produits différents.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -350,7 +350,7 @@
             "column_size": "3",
             "title": "Marc",
             "heading_tag": "h4",
-            "content": "<p>Pas de blabla, juste des faits : plus d’énergie, digestion plus rapide, peau plus nette. J’en ai recommandé avant même de finir la première bouteille.</p>",
+            "content": "<p>Pas de blabla, juste des faits : <strong>plus d’énergie, digestion plus rapide, peau plus nette.</strong> J’en ai <strong>recommandé</strong> avant même de finir la première bouteille.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -363,7 +363,7 @@
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
-            "content": "<p>J'ai toujours été sceptique à propos des compléments alimentaires, mais celui-ci m'a fait changer d'avis. Plus d'énergie, une meilleure concentration : c'est comme si j'étais une nouvelle personne.</p>",
+            "content": "<p>J'ai toujours été <strong>sceptique</strong> à propos des compléments alimentaires, mais celui-ci m'a fait <strong>changer d'avis</strong>. Plus d'énergie, une meilleure concentration : <strong>c'est comme si j'étais une nouvelle personne.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
