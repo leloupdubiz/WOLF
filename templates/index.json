@@ -543,6 +543,12 @@
             "max_width": 500
           }
         },
+        "gsc_countdown_timer_countdown_fLWUfH": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-SMALL-ZvkiFjtBBIHd"
+          }
+        },
         "liquid_G49VDF": {
           "type": "liquid",
           "settings": {
@@ -633,6 +639,7 @@
         "image_3bRyG3",
         "moon_bundle_app_block_8Gn8e7",
         "image_gXJpdN",
+        "gsc_countdown_timer_countdown_fLWUfH",
         "liquid_G49VDF",
         "liquid_AnEN84",
         "liquid_3eWc3i",
