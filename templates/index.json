@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/50.000_clients_satisfaits_9468a74e-39a1-4d9f-a97f-6ac4cdb413d0.png",
-        "mobile_image": "shopify://shop_images/50.000_clients_satisfaits.gif",
+        "mobile_image": "shopify://shop_images/50.000_clients_satisfaits_67c0b4b7-7079-4c68-b956-e948d7f49f5d.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -450,12 +450,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "image_dKiFK7": {
           "type": "image",
           "settings": {
@@ -541,6 +535,14 @@
             "moonbundle_selected_product": "{{section.settings.product}}"
           }
         },
+        "image_gXJpdN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/livraisongratuitedernierechance.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_G49VDF": {
           "type": "liquid",
           "settings": {
@@ -618,7 +620,6 @@
         "liquid_UqCNKi",
         "title",
         "badges",
-        "price",
         "image_dKiFK7",
         "image_pRggRB",
         "liquid_jnATdX",
@@ -631,6 +632,7 @@
         "liquid_KiQtca",
         "image_3bRyG3",
         "moon_bundle_app_block_8Gn8e7",
+        "image_gXJpdN",
         "liquid_G49VDF",
         "liquid_AnEN84",
         "liquid_3eWc3i",
