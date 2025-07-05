@@ -78,7 +78,7 @@
         "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#211d1d",
+        "logo_item_background": "#000000",
         "logo_item_border": "#ffffff"
       }
     },
@@ -1408,6 +1408,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/CleanShot_2025-07-04_at_20.38.27_2x_6194be71-6c8a-49a4-9dff-527bab8de8ca.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
