@@ -79,7 +79,7 @@
         "liquid_dBmaRd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div id=\"low-stock-message\" class=\"low-stock\" style=\"font-weight:bold;\">\n  Moins de <span id=\"stock-count\" style=\"color:#e48a00;\">5</span> en stock.\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    var min = 3;\n    var max = 7;\n    var count = Math.floor(Math.random() * (max - min + 1)) + min;\n    document.getElementById(\"stock-count\").textContent = count;\n  });\n.low-stock {\n  font-size: 16px;\n  margin-bottom: 10px;\n  text-align: center;\n}\n\n</script>"
+            "liquid": "<div id=\"low-stock-message\" style=\"text-align:center; font-weight:bold; font-size:16px; margin-bottom: 12px;\">\n  Moins de <span id=\"stock-count\" style=\"color:#e48a00;\">5</span> en stock.\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    var min = 3;\n    var max = 7;\n    var count = Math.floor(Math.random() * (max - min + 1)) + min;\n    document.getElementById(\"stock-count\").textContent = count;\n  });\n</script>"
           }
         },
         "buy_buttons": {
