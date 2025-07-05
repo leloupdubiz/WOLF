@@ -82,6 +82,36 @@
         "logo_item_border": "#ffffff"
       }
     },
+    "press_RABHjT": {
+      "type": "press",
+      "blocks": {
+        "quote_nbLYBe": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "HYPERBEAST",
+            "content": "Inkio révolutionne le tatouage temporaire.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_nbLYBe"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_E9CVAz": {
       "type": "rich-text",
       "blocks": {
@@ -428,9 +458,9 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "text_gradient": ""
       }
     },
@@ -1518,6 +1548,7 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_4BjWGF",
+    "press_RABHjT",
     "rich_text_E9CVAz",
     "image_with_text_overlay_9Wwxkw",
     "trust_pilot_reviews_AxNB3A",
