@@ -16,8 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/50.000_clients_satisfaits_1_9101d004-bf65-4e1b-b4a0-a123249fb652.png",
-        "mobile_image": "shopify://shop_images/50.000_clients_satisfaits_1.png",
+        "image": "shopify://shop_images/Envie_de_marquer_les_esprits_pas_votre_peau_Decouvrez_LE_tattoo_qui_s_efface_pas_le_style._41c71cbf-ebcb-49ff-b2aa-1ac426114075.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +30,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images_shop_serene_4.png",
+            "logo": "shopify://shop_images/VITA_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +38,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images_shop_serene_3.png",
+            "logo": "shopify://shop_images/VITA_3.png",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +46,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images_shop_serene_2.png",
+            "logo": "shopify://shop_images/VITA.png",
             "logo_width": 130,
             "link": ""
           }
@@ -55,7 +54,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images_shop_serene_1.png",
+            "logo": "shopify://shop_images/VITA_2.png",
             "logo_width": 70,
             "link": ""
           }
@@ -79,7 +78,7 @@
         "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "#211d1d",
         "logo_item_border": "#ffffff"
       }
     },
@@ -120,9 +119,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#211d1d",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "image_with_text_overlay_9Wwxkw": {
@@ -132,8 +131,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice_1.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice_1_c8b47fd8-c7d4-4d3a-b6c3-5489dae0cdb5.png",
+        "image": "shopify://shop_images/Tatouages_temporaires_hauts_de_gamme..png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -170,7 +168,6 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>50 000</strong> avis</p>",
-        "text_right_image": "shopify://shop_images/Trustpilot_logo_1.png",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -281,7 +278,7 @@
         "item_TcDrMq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_395711a7-ea1e-4fd4-953e-266a84036bd9.png",
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_00.png",
             "column_size": "3",
             "title": "Sylvie",
             "heading_tag": "h4",
@@ -294,7 +291,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_cacc90c6-13d6-4e7e-8be3-00fe7ed0413d.png",
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_09.png",
             "column_size": "3",
             "title": "Marie",
             "heading_tag": "h4",
@@ -307,7 +304,7 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_fa272f2e-d392-41f6-b9d2-bca4dd57773c.png",
+            "image": "shopify://shop_images/IMG_0244_2dc67e98-483b-422b-b2be-4455d0d9f38d.jpg",
             "column_size": "3",
             "title": "Marcus",
             "heading_tag": "h4",
@@ -330,23 +327,10 @@
             "link_style": "link"
           }
         },
-        "item_7BdeiK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6_9c67fb67-28e2-470b-b9e3-9937a750af8a.png",
-            "column_size": "3",
-            "title": "Laura",
-            "heading_tag": "h4",
-            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>Je fais attention à ce que je consomme, mais j’aime me faire plaisir. Le goût est top, les ingrédients sont clean, <strong>et surtout j’ai vu les résultats dès le 5e jour</strong>. Ça m’évite d’acheter 3 produits différents.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_17f0348f-9670-4b07-86cf-cbd9d2b69b57.png",
+            "image": "shopify://shop_images/IMG_0369_2_3c67235c-8929-4ed2-806f-fb7920a6b91f.jpg",
             "column_size": "3",
             "title": "Marc",
             "heading_tag": "h4",
@@ -359,11 +343,24 @@
         "item_4yzaE8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/7_ddc2d592-7e89-4d3e-8077-1110118d7b52.png",
+            "image": "shopify://shop_images/IMG_0297_f9b3568a-660c-4b62-ba8c-49dbe6db1c14.jpg",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
             "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>J'ai toujours été <strong>sceptique</strong> à propos des compléments alimentaires, mais celui-ci m'a fait <strong>changer d'avis</strong>. Plus d'énergie, une meilleure concentration : <strong>c'est comme si j'étais une nouvelle personne.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_20.png",
+            "column_size": "3",
+            "title": "Laura",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>Je fais attention à ce que je consomme, mais j’aime me faire plaisir. Le goût est top, les ingrédients sont clean, <strong>et surtout j’ai vu les résultats dès le 5e jour</strong>. Ça m’évite d’acheter 3 produits différents.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -388,9 +385,9 @@
         "item_JJLm4U",
         "item_MwJML3",
         "item_GECyWQ",
-        "item_7BdeiK",
         "item_p6MkDp",
         "item_4yzaE8",
+        "item_7BdeiK",
         "item_EwNkYx"
       ],
       "custom_css": [
@@ -404,9 +401,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#ffffff",
+        "background": "#211d1d",
         "background_gradient": "",
-        "text_color": "#000000"
+        "text_color": "#ffffff"
       }
     },
     "rich_text_AccAfb": {
@@ -524,7 +521,6 @@
         "image_3bRyG3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_8801b5c5-7228-4a3c-b730-d5da162763de.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -538,15 +534,8 @@
         "image_gXJpdN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/livraisongratuitedernierechance.png",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "gsc_countdown_timer_countdown_fLWUfH": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": "GSC-SMALL-ZvkiFjtBBIHd"
           }
         },
         "liquid_G49VDF": {
@@ -639,7 +628,6 @@
         "image_3bRyG3",
         "moon_bundle_app_block_8Gn8e7",
         "image_gXJpdN",
-        "gsc_countdown_timer_countdown_fLWUfH",
         "liquid_G49VDF",
         "liquid_AnEN84",
         "liquid_3eWc3i",
@@ -652,7 +640,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "le-sirop-royal",
+        "product": "wilde-schonheit",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -906,7 +894,6 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Rectangle_71.png",
             "column_size": "3",
             "title": "Feuilles de Corossol",
             "heading_tag": "h4",
@@ -919,7 +906,6 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_481944.png",
             "column_size": "3",
             "title": "Graines de Nigelle",
             "heading_tag": "h4",
@@ -932,7 +918,6 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_481944_2.png",
             "column_size": "3",
             "title": "Moringa",
             "heading_tag": "h4",
@@ -945,7 +930,6 @@
         "item_AVk4bF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_481944_10.png",
             "column_size": "3",
             "title": "Ashwaganda",
             "heading_tag": "h4",
@@ -958,7 +942,6 @@
         "item_VLx7n4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_481944_8.png",
             "column_size": "3",
             "title": "Reishi",
             "heading_tag": "h4",
@@ -971,7 +954,6 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_481944_5.png",
             "column_size": "3",
             "title": "Irish Moss",
             "heading_tag": "h4",
@@ -984,7 +966,6 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aromatic-bay-leaves_1.png",
             "column_size": "3",
             "title": "Feuilles de Laurier",
             "heading_tag": "h4",
@@ -1049,7 +1030,6 @@
         "slide_qwebaq": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1_97f3b4e5-24f1-42a7-b430-50835f3f3019.png",
             "navigation_label": "1ére Semaine",
             "subheading": "",
             "title": "Relancez votre Santé",
@@ -1059,7 +1039,6 @@
         "slide_PxEdyy": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/2_2c53b1f9-ec53-4fe4-95af-8942e9876de6.png",
             "navigation_label": "1 mois",
             "subheading": "",
             "title": "Vitalité & Éclat",
@@ -1069,7 +1048,6 @@
         "slide_NrcER6": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/3_de875d40-3f30-4792-b64d-9aee3632676f.png",
             "navigation_label": "2 mois",
             "subheading": "",
             "title": "Immunité & Mobilité",
@@ -1079,7 +1057,6 @@
         "slide_j6NhPM": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/4_bd86f140-b8cd-4f81-9ee2-8ff9cf09c597.png",
             "navigation_label": "3 mois",
             "subheading": "",
             "title": "Circulation & Désintoxication",
@@ -1402,7 +1379,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/our-story.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1446,23 +1422,6 @@
     },
     "1751312097704b0343": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_ar33Qb": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": true,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 12,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_ar33Qb"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,

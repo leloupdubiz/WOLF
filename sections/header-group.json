@@ -64,7 +64,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1d4c2a",
+        "background": "#211d1d",
         "background_gradient": "",
         "text_color": "#f0f0f0"
       }
@@ -74,9 +74,9 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/VITA_2.png",
+        "logo": "shopify://shop_images/LOGO_INKIO_f99ee068-8055-4b43-a282-375ade27c6e1.png",
         "logo_max_width": 300,
-        "logo_mobile_max_width": 170,
+        "logo_mobile_max_width": 80,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
