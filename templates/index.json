@@ -418,6 +418,22 @@
         "text_color": "#263e46"
       }
     },
+    "scrolling_text_YxVxQf": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Décidez le look.",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -1507,6 +1523,7 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
+    "scrolling_text_YxVxQf",
     "featured-product",
     "ss_videos_wcEY7L",
     "tabs_Waa9zt",
