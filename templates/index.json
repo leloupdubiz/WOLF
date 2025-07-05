@@ -114,6 +114,7 @@
         "heading_U4P6Mz",
         "richtext_EcCAga"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -401,9 +402,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#211d1d",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "rich_text_AccAfb": {
@@ -479,7 +480,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -662,6 +662,7 @@
         "video_4YQ7n8": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/a29964eb04c5431180745f556fc66516.HD-1080p-2.5Mbps-47738508.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
             "modal_text": ""
@@ -670,6 +671,7 @@
         "video_iaACKa": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/b66f8743832e497588267fbf17a7028c.HD-1080p-7.2Mbps-40483117.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
             "modal_text": ""
@@ -678,6 +680,7 @@
         "video_XmcwE4": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/63549ee00d33492395ff6a194dbc42ca.HD-1080p-2.5Mbps-47738507.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
             "modal_text": ""
@@ -685,8 +688,8 @@
         },
         "video_zpBeGe": {
           "type": "video",
-          "disabled": true,
           "settings": {
+            "video": "shopify://files/videos/3b10085e71594caf8cfe150d1b31921a.HD-1080p-2.5Mbps-47738509_ee35e8a0-7239-4f5b-bd8f-cbc3133ae530.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
@@ -696,6 +699,7 @@
           "type": "video",
           "disabled": true,
           "settings": {
+            "video": "shopify://files/videos/89cafb56bb924931a11454dc92d9da81.HD-1080p-7.2Mbps-40483120.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
@@ -713,7 +717,7 @@
       "settings": {
         "videos_position": "above_description",
         "use_metafield": false,
-        "heading": "<h2>SlimFuze et vous :</h2>",
+        "heading": "<h2>INKIO et vous :</h2>",
         "heading_custom": false,
         "heading_font": "din_next_n4",
         "heading_size": 18,
@@ -985,6 +989,7 @@
         "item_6nijje",
         "item_xiaYUR"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,

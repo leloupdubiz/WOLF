@@ -18,8 +18,8 @@
     "background": "#ffffff",
     "text_color": "#000000",
     "success_color": "#f0c417",
-    "header_background": "#ffffff",
-    "header_text_color": "#000000",
+    "header_background": "#000000",
+    "header_text_color": "#ffffff",
     "footer_background": "#000000",
     "footer_text_color": "#f0f0f0",
     "dialog_background": "#f0f0f0",
@@ -48,21 +48,6 @@
     "blocks": {
       "7054877461618660028": {
         "type": "shopify://apps/moon-bundle/blocks/app-embed/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
-        "disabled": false,
-        "settings": {}
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
-      },
-      "10431957531522714341": {
-        "type": "shopify://apps/seoant-page-speed/blocks/pagespeed-preloading/b6edaf80-ee08-4404-951c-d8f577b5c1b1",
-        "disabled": false,
-        "settings": {}
-      },
-      "7147999719060634790": {
-        "type": "shopify://apps/gsc-countdown-timer/blocks/countdown-bar/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
         "disabled": false,
         "settings": {}
       }
