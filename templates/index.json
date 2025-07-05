@@ -31,7 +31,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/VITA_1.png",
-            "logo_width": 300,
+            "logo_width": 250,
             "link": ""
           }
         },
@@ -55,7 +55,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/VITA_2.png",
-            "logo_width": 70,
+            "logo_width": 130,
             "link": ""
           }
         }
