@@ -74,7 +74,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_4_juil._2025_20_50_52.png",
+        "logo": "shopify://shop_images/livraisongratuitedernierechance.png",
         "logo_max_width": 300,
         "logo_mobile_max_width": 80,
         "menu": "main-menu",
@@ -96,16 +96,6 @@
     },
     "175169498908b42f71": {
       "type": "apps",
-      "blocks": {
-        "trustoo_io_reviews_photo_carousel_fMzjhX": {
-          "type": "shopify://apps/trustoo-io-reviews/blocks/photo-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-          "disabled": true,
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "trustoo_io_reviews_photo_carousel_fMzjhX"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
