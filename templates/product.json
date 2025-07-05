@@ -49,7 +49,7 @@
         "liquid_E6GACE": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul class=\"product-features\">\n  <li>\n    <span class=\"icon\">💧</span>\n    <span>Résistant à l'eau</span>\n  </li>\n  <li>\n    <span class=\"icon\">⏳</span>\n    <span>Dure 2 Semaines</span>\n  </li>\n  <li>\n    <span class=\"icon\">🌿</span>\n    <span>À base de plante et Skin-Friendly</span>\n  </li>\n</ul>\n\n<style>\n.product-features {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.product-features li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n  font-size: 16px;\n}\n.product-features .icon {\n  font-size: 18px;\n  margin-right: 8px;\n}\n</style>"
+            "liquid": "<ul class=\"product-features\">\n  <li>\n    <span class=\"icon\">💧</span>\n    <span class=\"mono-text\">Résistant à l'eau</span>\n  </li>\n  <li>\n    <span class=\"icon\">⏳</span>\n    <span class=\"mono-text\">Dure 2 Semaines</span>\n  </li>\n  <li>\n    <span class=\"icon\">🌿</span>\n    <span class=\"mono-text\">À base de plante et Skin-Friendly</span>\n  </li>\n</ul>\n\n<style>\n.product-features {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.product-features li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.product-features .icon {\n  font-size: 22px;\n  margin-right: 8px;\n}\n.mono-text {\n  font-family: 'Courier New', Courier, monospace;\n  font-size: 14px;\n}\n</style>"
           }
         },
         "description": {
