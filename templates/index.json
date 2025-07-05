@@ -172,6 +172,7 @@
     },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
+      "disabled": true,
       "custom_css": [
         "h2 {font-weight: bold;}"
       ],
@@ -295,6 +296,149 @@
         "margin_bottom": 0,
         "padding_top": 60,
         "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "avis_harvey_ross_fk8Pzj": {
+      "type": "Avis_Harvey_Ross",
+      "blocks": {
+        "testimonial_dGHTUz": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>'I've been getting so many compliments on my skin. In love.'</p>",
+            "author": "- SYMONE K <3 GLAZE"
+          }
+        },
+        "testimonial_rxEfLy": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>'Been using thif for months add it has given me the best glow.'</p>",
+            "author": "- ANGELA C <3 BRC"
+          }
+        },
+        "testimonial_WQQarz": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>'The glazing milk is definitely my new staple in my routine!'</p>",
+            "author": "- KIRSTEN C <3 BRC"
+          }
+        },
+        "testimonial_AM9JH3": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>'This things is the real deal. Love it so much.'</p>",
+            "author": "- VANESSA <3 GLAZE"
+          }
+        },
+        "testimonial_ay9Haa": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>'This BRC thing is insane. It really does work!.'</p>",
+            "author": "- KAYA <3 BRC"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_dGHTUz",
+        "testimonial_rxEfLy",
+        "testimonial_WQQarz",
+        "testimonial_AM9JH3",
+        "testimonial_ay9Haa"
+      ],
+      "name": "SS - Testimonials #10",
+      "settings": {
+        "body_padding_vertical": 50,
+        "body_padding_vertical_mobile": 16,
+        "body_padding_horizontal": 50,
+        "body_padding_horizontal_mobile": 16,
+        "body_radius": 12,
+        "body_border_thickness": 0,
+        "heading": "<h2>Ce qu'en pensent nos clients</h2>",
+        "heading_custom": false,
+        "heading_font": "din_next_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 20,
+        "heading_height": 150,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "sub_heading": "<p>Your favorite glazed skin essentials in the us kit.</p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 14,
+        "sub_heading_height": 150,
+        "slider_view": 3.7,
+        "slider_view_mobile": 1,
+        "slider_gap": 36,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "image_radius": 12,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "stars_size": 20,
+        "stars_mt": 24,
+        "stars_align": "start",
+        "stars_align_mobile": "start",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 20,
+        "author_size_mobile": 16,
+        "author_height": 130,
+        "author_mt": 8,
+        "author_align": "left",
+        "author_align_mobile": "left",
+        "arrow_size": 50,
+        "arrow_size_mobile": 42,
+        "arrow_icon_size": 40,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_mt": 32,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "body_bg_color": "#F1F0ED",
+        "body_border_color": "#000000",
+        "stars_color": "#756E67",
+        "text_color": "#756E67",
+        "author_color": "#756E67",
+        "arrow_color": "#756E67",
+        "arrow_hover_color": "#FFFFFF",
+        "arrow_bg_color": "#FFFFFF",
+        "arrow_bg_hover_color": "#756E67",
+        "arrow_border_color": "#756E67",
+        "arrow_border_hover_color": "#756E67",
+        "dots_color": "#756E67",
+        "heading_color": "#756E67",
+        "sub_heading_color": "#756E67",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": true,
@@ -1552,6 +1696,7 @@
     "rich_text_E9CVAz",
     "image_with_text_overlay_9Wwxkw",
     "trust_pilot_reviews_AxNB3A",
+    "avis_harvey_ross_fk8Pzj",
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
     "scrolling_text_YxVxQf",
