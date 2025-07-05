@@ -112,6 +112,84 @@
         "input_text_color": ""
       }
     },
+    "video_h3bBcJ": {
+      "type": "video",
+      "blocks": {
+        "play_PP96B3": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_PP96B3"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0704.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "specification_table_hQ4xQb": {
+      "type": "specification-table",
+      "blocks": {
+        "row_77A8gf": {
+          "type": "row",
+          "settings": {
+            "heading": "Heading 1",
+            "value": "<p>Value 1</p>"
+          }
+        },
+        "row_xgY8fx": {
+          "type": "row",
+          "settings": {
+            "heading": "Heading 2",
+            "value": "<p>Value 2</p>"
+          }
+        },
+        "row_nVqpab": {
+          "type": "row",
+          "settings": {
+            "heading": "Heading 3",
+            "value": "<p>Value 3</p>"
+          }
+        }
+      },
+      "block_order": [
+        "row_77A8gf",
+        "row_xgY8fx",
+        "row_nVqpab"
+      ],
+      "name": "Specification table",
+      "settings": {
+        "full_width": true,
+        "subheading": "Learn more",
+        "title": "Product specification",
+        "content": "<p>Showcase specifications about a product to help your customers making an informed decision about their purchase.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "max_rows": 5,
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -181,6 +259,8 @@
   },
   "order": [
     "main",
+    "video_h3bBcJ",
+    "specification_table_hQ4xQb",
     "related-products",
     "173998905724905a15",
     "17399958338b7cfeb3",
