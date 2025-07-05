@@ -1693,6 +1693,137 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "slideshow_b8KYj3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_x3qCk8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_9suge301ex_photo.png",
+            "mobile_image": "shopify://shop_images/zeoob.com_9suge301ex_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_PWibe8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_gra2xbiq3z_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_X7Jq39": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_o0d0wnt51m_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_BXNM3b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_njae6484f4_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_JthFDh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_j83hgk1eus_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_x3qCk8",
+        "image_PWibe8",
+        "image_X7Jq39",
+        "image_BXNM3b",
+        "image_JthFDh"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
     }
   },
   "order": [
@@ -1718,6 +1849,7 @@
     "faq_MQHPPV",
     "image_with_text_overlay_9PXG7a",
     "rich_text_QNwKLg",
-    "1751312097704b0343"
+    "1751312097704b0343",
+    "slideshow_b8KYj3"
   ]
 }
