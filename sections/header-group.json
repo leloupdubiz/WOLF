@@ -31,7 +31,7 @@
         "message_XbYwYf": {
           "type": "message",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "30J SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
         },
@@ -45,7 +45,7 @@
         "message_CUmD9g": {
           "type": "message",
           "settings": {
-            "text": "+50000 PERSONNES CONQUISES",
+            "text": "+10000 PERSONNES CONQUISES",
             "url": ""
           }
         }
@@ -94,6 +94,27 @@
         "background_blur_radius": 0
       }
     },
+    "175169498908b42f71": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_photo_carousel_fMzjhX": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/photo-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_photo_carousel_fMzjhX"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1747091749eed996aa": {
       "type": "apps",
       "settings": {
@@ -109,6 +130,7 @@
   "order": [
     "announcement-bar",
     "header",
+    "175169498908b42f71",
     "1747091749eed996aa"
   ]
 }
