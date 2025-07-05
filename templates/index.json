@@ -1033,8 +1033,8 @@
         "heading_4mVxbc": {
           "type": "heading",
           "settings": {
-            "text": "Que peut-on attendre du Sirop Royal ?",
-            "heading_tag": "h2",
+            "text": "Mode d'application",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -1053,12 +1053,46 @@
         "text_color": ""
       }
     },
+    "video_NdfBdq": {
+      "type": "video",
+      "blocks": {
+        "play_NtBLNR": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_yzt7w8": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_NtBLNR",
+        "heading_yzt7w8"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0704.mov",
+        "mobile_video": "shopify://files/videos/0704.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "timeline_HEewDi": {
       "type": "timeline",
       "blocks": {
         "slide_qwebaq": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/400c8b7996fd081b79b9dcea298e75e9_2_0663dd72-9eef-4df0-a56e-b82c5d55b384.jpg",
             "navigation_label": "1ére Semaine",
             "subheading": "",
             "title": "Relancez votre Santé",
@@ -1067,7 +1101,9 @@
         },
         "slide_PxEdyy": {
           "type": "slide",
+          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/799ba2c9d5e080cd81a9030ed4907c45.jpg",
             "navigation_label": "1 mois",
             "subheading": "",
             "title": "Vitalité & Éclat",
@@ -1099,6 +1135,7 @@
         "slide_NrcER6",
         "slide_j6NhPM"
       ],
+      "disabled": true,
       "name": "Timeline",
       "settings": {
         "full_width": true,
@@ -1475,6 +1512,7 @@
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "rich_text_gkWEKE",
+    "video_NdfBdq",
     "timeline_HEewDi",
     "how_to_use_sambal_R66gKj",
     "rich_text_wLB3E3",
