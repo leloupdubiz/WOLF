@@ -681,7 +681,7 @@
         "image_4qkHKX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_1.png",
+            "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_3.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -767,6 +767,7 @@
         },
         "image_UFwhdL": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_1.png",
             "alignment": "center",
