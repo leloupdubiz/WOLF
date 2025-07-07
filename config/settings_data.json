@@ -48,18 +48,8 @@
     "blocks": {
       "7054877461618660028": {
         "type": "shopify://apps/moon-bundle/blocks/app-embed/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
-      },
-      "10191866119664032810": {
-        "type": "shopify://apps/zoorix-sticky-atc/blocks/zoorix-head/16cf6adc-8b22-4e73-be2b-b93c1acde1da",
-        "disabled": false,
-        "settings": {
-          "home_product": "",
-          "show_on_out_of_stock": true,
-          "blacklisted_products": [],
-          "blacklisted_collections": []
-        }
       }
     }
   },
