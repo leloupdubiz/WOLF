@@ -614,6 +614,60 @@
         "text_gradient": ""
       }
     },
+    "featured_collection_MaXtDN": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [
+          "arbre-de-la-vie",
+          "atlas-est-monte",
+          "beaute-sauvage",
+          "arbre-de-foudre",
+          "boussole-cosmique",
+          "boussole-et-nature",
+          "code-genesis",
+          "couple-royal",
+          "dame-du-destin",
+          "dragon-sans-peur",
+          "fleche-de-la-boussole",
+          "force-triangulaire",
+          "guerrier-tribal",
+          "koi-et-fleurs",
+          "koi-rise",
+          "lion-et-messie",
+          "lignes-modernes",
+          "le-temps-et-la-sagesse",
+          "lascension-du-phenix",
+          "patchs-magiques",
+          "royaume-du-temps",
+          "spirale-tribale",
+          "touche-dascension",
+          "vague-eternelle",
+          "vagues-tribales",
+          "zeus-de-la-tempete",
+          "jugement-divin"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Notre séléction du moment",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -859,6 +913,7 @@
         "buy-buttons",
         "image_NnVtjL"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "wilde-schonheit",
@@ -1822,7 +1877,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     }
@@ -1838,6 +1893,7 @@
     "multi_column_BKPLPt",
     "rich_text_AccAfb",
     "scrolling_text_YxVxQf",
+    "featured_collection_MaXtDN",
     "featured-product",
     "ss_videos_wcEY7L",
     "tabs_Waa9zt",
