@@ -30,7 +30,7 @@
     "product_card_background": "#ffffff",
     "product_card_text_color": "#000000",
     "product_on_sale_accent": "#439b54",
-    "product_sold_out_badge_background": "#f0f0f0",
+    "product_sold_out_badge_background": "#f83a3a",
     "product_primary_badge_background": "#803cee",
     "heading_font": "sans-serif",
     "heading_font_size": "large",
