@@ -1249,20 +1249,6 @@
     },
     "rich_text_gkWEKE": {
       "type": "rich-text",
-      "blocks": {
-        "heading_4mVxbc": {
-          "type": "heading",
-          "settings": {
-            "text": "Mode d'application",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_4mVxbc"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
