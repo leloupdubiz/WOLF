@@ -21,8 +21,8 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "#211d1d",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
             "title": "Satisfait ou remboursé",
             "content": ""
           }
@@ -80,9 +80,9 @@
         "heading_tag": "h3",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#000000",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#1a1a1a"
       }
     },
     "image_with_text_overlay_qCbkK4": {

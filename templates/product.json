@@ -173,58 +173,43 @@
         "overlay_opacity": 0
       }
     },
-    "specification_table_hQ4xQb": {
-      "type": "specification-table",
+    "rich_text_dMTbkn": {
+      "type": "rich-text",
       "blocks": {
-        "row_77A8gf": {
-          "type": "row",
+        "subheading_LzYagL": {
+          "type": "subheading",
           "settings": {
-            "heading": "Heading 1",
-            "value": "<p>Value 1</p>"
-          }
-        },
-        "row_xgY8fx": {
-          "type": "row",
-          "settings": {
-            "heading": "Heading 2",
-            "value": "<p>Value 2</p>"
-          }
-        },
-        "row_nVqpab": {
-          "type": "row",
-          "settings": {
-            "heading": "Heading 3",
-            "value": "<p>Value 3</p>"
+            "text": "Tu veux te faire tatouer, mais tu as peur de le regretter ? Essaie d'abord nos tatouages semi-permanents !"
           }
         }
       },
       "block_order": [
-        "row_77A8gf",
-        "row_xgY8fx",
-        "row_nVqpab"
+        "subheading_LzYagL"
       ],
-      "name": "Specification table",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "Learn more",
-        "title": "Product specification",
-        "content": "<p>Showcase specifications about a product to help your customers making an informed decision about their purchase.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "max_rows": 5,
-        "view_all_text": "View all",
-        "view_less_text": "View less",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "chart_background": "",
-        "chart_text_color": "",
-        "chart_true_false_color": ""
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_T3zwhk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_3_f072eb70-50d0-43c7-89ea-71b0980f8efc.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "related-products": {
@@ -235,10 +220,10 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_per_row_mobile": "1",
+        "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "Vous aimerez aussi",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -247,6 +232,83 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "faq_zyyX3w": {
+      "type": "faq",
+      "blocks": {
+        "item_T4WrpU": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps durent les tatouages ?",
+            "content": "<p>Nos tatouages innovants durent jusqu'à deux semaines ! Ils sont 100 % résistants à l'eau et fabriqués à partir d'extraits de plantes naturelles particulièrement doux pour la peau. La durée varie en fonction du type de peau - parfaits pour la natation, le sport et la vie quotidienne !</p>"
+          }
+        },
+        "item_pqM7E6": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure la livraison?",
+            "content": "<p>Nous traitons ta commande en 1 à 2 jours. La livraison prend 5 à 7 jours. Bien sûr, tu auras un lien de suivi dès que ton colis est expédié !</p>"
+          }
+        },
+        "item_fmqJUF": {
+          "type": "item",
+          "settings": {
+            "title": "L'encre est-elle sans danger ?",
+            "content": "<p>Oui, nos tatouages temporaires sont à base d'herbes et respectent toutes les réglementations européennes et sont absolument sûrs pour toi !</p>"
+          }
+        },
+        "item_fYcQgt": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux me doucher avec?",
+            "content": "<p>Oui, nos tatouages temporaires sont 100 % résistants à l'eau, vous pouvez donc vous doucher ou vous baigner sans problème.</p>"
+          }
+        },
+        "item_DJ4BfT": {
+          "type": "item",
+          "settings": {
+            "title": "Quelles sont les conditions de retour ?",
+            "content": "<p>Si tu n'es pas satisfait, tu peux échanger les tatouages ou obtenir un remboursement dans un délai de 30 jours.</p>"
+          }
+        },
+        "item_UEgKDk": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>​Tu as d'autres questions ? Nous sommes là pour t'aider ! Écris-nous simplement un e-mail à contact@inkio.fr, et nous te répondrons dans les 24 heures.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_T4WrpU",
+        "item_pqM7E6",
+        "item_fmqJUF",
+        "item_fYcQgt",
+        "item_DJ4BfT",
+        "item_UEgKDk"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions Fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "173998905724905a15": {
@@ -299,8 +361,10 @@
     "custom_liquid_g3CUJA",
     "custom_liquid_ArHkfL",
     "video_h3bBcJ",
-    "specification_table_hQ4xQb",
+    "rich_text_dMTbkn",
+    "image_with_text_overlay_T3zwhk",
     "related-products",
+    "faq_zyyX3w",
     "173998905724905a15",
     "17399958338b7cfeb3",
     "1743131632e7f915e4",
