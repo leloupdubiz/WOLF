@@ -51,10 +51,15 @@
         "disabled": false,
         "settings": {}
       },
-      "14952540001915115444": {
-        "type": "shopify://apps/upcart-cart-drawer/blocks/app-embed/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
+      "10191866119664032810": {
+        "type": "shopify://apps/zoorix-sticky-atc/blocks/zoorix-head/16cf6adc-8b22-4e73-be2b-b93c1acde1da",
         "disabled": false,
-        "settings": {}
+        "settings": {
+          "home_product": "",
+          "show_on_out_of_stock": true,
+          "blacklisted_products": [],
+          "blacklisted_collections": []
+        }
       }
     }
   },
