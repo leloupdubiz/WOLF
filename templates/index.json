@@ -910,7 +910,6 @@
         "video_4YQ7n8": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/a29964eb04c5431180745f556fc66516.HD-1080p-2.5Mbps-47738508.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
             "modal_text": ""
@@ -919,7 +918,6 @@
         "video_iaACKa": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/b66f8743832e497588267fbf17a7028c.HD-1080p-7.2Mbps-40483117.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
             "modal_text": ""
@@ -928,7 +926,6 @@
         "video_XmcwE4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/63549ee00d33492395ff6a194dbc42ca.HD-1080p-2.5Mbps-47738507.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
             "modal_text": ""
@@ -937,7 +934,6 @@
         "video_zpBeGe": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/3b10085e71594caf8cfe150d1b31921a.HD-1080p-2.5Mbps-47738509_ee35e8a0-7239-4f5b-bd8f-cbc3133ae530.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
@@ -947,7 +943,6 @@
           "type": "video",
           "disabled": true,
           "settings": {
-            "video": "shopify://files/videos/89cafb56bb924931a11454dc92d9da81.HD-1080p-7.2Mbps-40483120.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
@@ -1302,8 +1297,8 @@
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "auto",
-        "video": "shopify://files/videos/0704.mov",
-        "mobile_video": "shopify://files/videos/0704.mov",
+        "video": "shopify://files/videos/0704(1).mov",
+        "mobile_video": "shopify://files/videos/0704(1).mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -1639,6 +1634,7 @@
         "item_V4HbrJ",
         "item_Bme77T"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -1663,6 +1659,7 @@
     },
     "image_with_text_overlay_9PXG7a": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -1701,6 +1698,7 @@
         "heading_ynAh9e",
         "richtext_PNMFMg"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -1839,6 +1837,7 @@
         "image_BXNM3b",
         "image_JthFDh"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
