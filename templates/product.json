@@ -185,14 +185,24 @@
     "rich_text_UXAbwz": {
       "type": "rich-text",
       "blocks": {
+        "heading_zMEbKg": {
+          "type": "heading",
+          "settings": {
+            "text": "Tutoriel",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "subheading_JaQARf": {
           "type": "subheading",
           "settings": {
-            "text": "Tutoriel"
+            "text": ""
           }
         }
       },
       "block_order": [
+        "heading_zMEbKg",
         "subheading_JaQARf"
       ],
       "name": "Rich text",
@@ -232,14 +242,24 @@
     "rich_text_dMTbkn": {
       "type": "rich-text",
       "blocks": {
+        "heading_CEHbDy": {
+          "type": "heading",
+          "settings": {
+            "text": "Tu veux te faire tatouer, mais tu as peur de le regretter ? Essaie d'abord nos tatouages semi-permanents !",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "subheading_LzYagL": {
           "type": "subheading",
           "settings": {
-            "text": "Tu veux te faire tatouer, mais tu as peur de le regretter ? Essaie d'abord nos tatouages semi-permanents !"
+            "text": ""
           }
         }
       },
       "block_order": [
+        "heading_CEHbDy",
         "subheading_LzYagL"
       ],
       "name": "Rich text",
