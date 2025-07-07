@@ -166,6 +166,29 @@
         "text_color": ""
       }
     },
+    "rich_text_UXAbwz": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_JaQARf": {
+          "type": "subheading",
+          "settings": {
+            "text": "Tutoriel"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JaQARf"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_h3bBcJ": {
       "type": "video",
       "blocks": {
@@ -185,6 +208,22 @@
         "video_size": "auto",
         "video": "shopify://files/videos/0704(1).mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_T3zwhk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_3_f072eb70-50d0-43c7-89ea-71b0980f8efc.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -211,22 +250,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_T3zwhk": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_3_f072eb70-50d0-43c7-89ea-71b0980f8efc.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "custom_liquid_i6BRBF": {
@@ -390,10 +413,11 @@
     "main",
     "custom_liquid_g3CUJA",
     "custom_liquid_ArHkfL",
+    "rich_text_UXAbwz",
     "video_h3bBcJ",
     "rich_text_dMTbkn",
-    "image_with_text_overlay_T3zwhk",
     "custom_liquid_i6BRBF",
+    "image_with_text_overlay_T3zwhk",
     "related-products",
     "faq_zyyX3w",
     "173998905724905a15",
