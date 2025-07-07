@@ -16,6 +16,7 @@
       "blocks": {
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "SOLDES D'ÉTÉ : -50%",
             "url": ""
