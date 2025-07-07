@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -49,7 +45,7 @@
         "liquid_E6GACE": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul class=\"product-features\">\n  <li>\n    <span class=\"icon\">💧</span>\n    <span class=\"mono-text\">Résistant à l'eau</span>\n  </li>\n  <li>\n    <span class=\"icon\">⏳</span>\n    <span class=\"mono-text\">Dure 2 Semaines</span>\n  </li>\n  <li>\n    <span class=\"icon\">🌿</span>\n    <span class=\"mono-text\">À base de plante et Skin-Friendly</span>\n  </li>\n</ul>\n\n<style>\n.product-features {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.product-features li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.product-features .icon {\n  font-size: 22px;\n  margin-right: 8px;\n}\n.mono-text {\n  font-family: 'Courier New', Courier, monospace;\n  font-size: 14px;\n}\n</style>"
+            "liquid": "<ul class=\"product-features\">\n  <li>\n    <span class=\"icon\">💧</span>\n    <span class=\"mono-text\">Résistant à l'eau</span>\n  </li>\n  <li>\n    <span class=\"icon\">⏳</span>\n    <span class=\"mono-text\">Dure 2 Semaines</span>\n  </li>\n  <li>\n    <span class=\"icon\">🌿</span>\n    <span class=\"mono-text\">À base de plante et Skin-Friendly</span>\n  </li>\n</ul>\n\n<style>\n.product-features {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.product-features li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.product-features .icon {\n  font-size: 22px;\n  margin-right: 8px;\n}\n.mono-text {\n  font-family: 'Space Mono', monospace;\n  font-weight: 700; /* gras */\n  font-size: 15px;\n  letter-spacing: 0.2px;\n}\n</style>"
           }
         },
         "description": {
@@ -96,7 +92,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
@@ -128,6 +123,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_g3CUJA": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<ul class=\"delivery-guarantee\">\n  <li>\n    <span class=\"icon\">🚚</span>\n    <span class=\"mono-text\">Commande éxpédiée en 48h</span>\n  </li>\n  <li>\n    <span class=\"icon\">♡</span>\n    <span class=\"mono-text\">Satisfait ou Remboursé 30 Jours</span>\n  </li>\n</ul>\n\n<style>\n.delivery-guarantee {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.delivery-guarantee li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.delivery-guarantee .icon {\n  font-size: 18px;\n  margin-right: 8px;\n  line-height: 1;\n}\n.mono-text {\n  font-family: 'Space Mono', monospace;\n  font-weight: 700;\n  font-size: 15px;\n  letter-spacing: 0.2px;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_ArHkfL": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -135,7 +143,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": true,
-        "liquid": "<div class=\"tabs-wrapper\">\n  <div class=\"tabs\">\n    <button class=\"tab\" onclick=\"showTab('description')\">Description</button>\n    <button class=\"tab\" onclick=\"showTab('conseils')\">Conseils</button>\n  </div>\n\n  <div class=\"tab-content hidden\" id=\"description\">\n    {{ product.description }}\n  </div>\n\n  <div class=\"tab-content hidden\" id=\"conseils\">\n    <p>Appliquez le tatouage sur une peau propre et sèche, évitez les zones trop poilues pour une meilleure adhérence.</p>\n  </div>\n</div>\n\n<style>\n.tabs-wrapper {\n  font-family: sans-serif;\n  margin-top: 20px;\n}\n.tabs {\n  display: flex;\n  justify-content: center;\n  gap: 20px;\n  margin-bottom: 12px;\n}\n.tab {\n  background: transparent;\n  border: 12px;\n  font-weight: 600;\n  padding: 3px 3px;\n  border-radius: 12px;\n  cursor: pointer;\n  font-size: 16px;\n}\n.tab.active {\n  background: #111;\n  color: #fff;\n}\n.tab-content {\n  text-align: left;\n  font-size: 16px;\n  line-height: 1.6;\n  padding: 13px 13px;\n}\n.hidden {\n  display: none;\n}\n</style>\n\n<script>\nfunction showTab(tabId) {\n  // Hide all contents\n  document.querySelectorAll('.tab-content').forEach(el => el.classList.add('hidden'));\n  // Show selected content\n  document.getElementById(tabId).classList.remove('hidden');\n  // Toggle active tab style\n  document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));\n  event.target.classList.add('active');\n}\n</script>",
+        "liquid": "<div class=\"tabs-wrapper\">\n  <div class=\"tabs\">\n    <button class=\"tab active\" onclick=\"showTab(event, 'description')\">Description</button>\n    <button class=\"tab\" onclick=\"showTab(event, 'conseils')\">Conseils</button>\n  </div>\n\n  <div class=\"tab-content\" id=\"description\">\n    {{ product.description }}\n  </div>\n\n  <div class=\"tab-content hidden\" id=\"conseils\">\n    <p><strong>Développement du tatouage :</strong><br>\n    Les tatouages nécessitent 24 à 48 heures pour se développer pleinement.</p>\n\n    <p><strong>Recommandations nocturnes :</strong><br>\n    Pendant la nuit, porte des manches longues pour éviter tout transfert de couleur.</p>\n\n    <p><strong>Prévention des taches :</strong><br>\n    Une transpiration excessive avant que la couleur soit complètement développée peut entraîner des taches.</p>\n\n    <p><strong>Tu veux le retirer ?</strong><br>\n    Pour enlever un tatouage, humidifie la zone avec de l'eau tiède pendant 15 minutes, puis frotte plusieurs fois par jour avec un démaquillant.</p>\n  </div>\n</div>\n\n<style>\n.tabs-wrapper {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  margin-top: 20px;\n}\n.tabs {\n  display: flex;\n  justify-content: center;\n  gap: 16px;\n  margin-bottom: 12px;\n}\n.tab {\n  background: transparent;\n  border: none;\n  font-weight: 600;\n  padding: 12px 12px;\n  border-radius: 16px;\n  cursor: pointer;\n  font-size: 15px;\n}\n.tab.active {\n  background: #111;\n  color: #fff;\n}\n.tab-content {\n  text-align: left;\n  font-size: 15px;\n  line-height: 1.6;\n  padding: 10px 10px;\n}\n.hidden {\n  display: none;\n}\n</style>\n\n<script>\nfunction showTab(event, tabId) {\n  // Masquer tous les contenus\n  document.querySelectorAll('.tab-content').forEach(el => el.classList.add('hidden'));\n  // Afficher l'onglet ciblé\n  document.getElementById(tabId).classList.remove('hidden');\n  // Mettre à jour le style actif\n  document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));\n  event.target.classList.add('active');\n}\n</script>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -288,6 +296,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_g3CUJA",
     "custom_liquid_ArHkfL",
     "video_h3bBcJ",
     "specification_table_hQ4xQb",
