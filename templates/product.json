@@ -140,6 +140,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_g3CUJA": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<ul class=\"delivery-guarantee\">\n  <li>\n    <span class=\"icon\">🚚</span>\n    <span class=\"mono-text\">Commande éxpédiée en 48h</span>\n  </li>\n  <li>\n    <span class=\"icon\">♡</span>\n    <span class=\"mono-text\">Satisfait ou Remboursé 30 Jours</span>\n  </li>\n</ul>\n\n<style>\n.delivery-guarantee {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.delivery-guarantee li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.delivery-guarantee .icon {\n  font-size: 18px;\n  margin-right: 8px;\n  line-height: 1;\n}\n.mono-text {\n  font-family: 'Space Mono', monospace;\n  font-weight: 700;\n  font-size: 15px;\n  letter-spacing: 0.2px;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_T3zwhk": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -154,19 +167,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "custom_liquid_g3CUJA": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<ul class=\"delivery-guarantee\">\n  <li>\n    <span class=\"icon\">🚚</span>\n    <span class=\"mono-text\">Commande éxpédiée en 48h</span>\n  </li>\n  <li>\n    <span class=\"icon\">♡</span>\n    <span class=\"mono-text\">Satisfait ou Remboursé 30 Jours</span>\n  </li>\n</ul>\n\n<style>\n.delivery-guarantee {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.delivery-guarantee li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.delivery-guarantee .icon {\n  font-size: 18px;\n  margin-right: 8px;\n  line-height: 1;\n}\n.mono-text {\n  font-family: 'Space Mono', monospace;\n  font-weight: 700;\n  font-size: 15px;\n  letter-spacing: 0.2px;\n}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "custom_liquid_ArHkfL": {
@@ -451,8 +451,8 @@
   },
   "order": [
     "main",
-    "image_with_text_overlay_T3zwhk",
     "custom_liquid_g3CUJA",
+    "image_with_text_overlay_T3zwhk",
     "custom_liquid_ArHkfL",
     "rich_text_UXAbwz",
     "video_h3bBcJ",
