@@ -1,0 +1,1872 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Envie_de_marquer_les_esprits_pas_votre_peau_Decouvrez_LE_tattoo_qui_s_efface_pas_le_style._41c71cbf-ebcb-49ff-b2aa-1ac426114075.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_4BjWGF": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_A964Gc": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VITA_1.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_PwVxki": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VITA_3.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_pCMLRf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VITA.png",
+            "logo_width": 130,
+            "link": ""
+          }
+        },
+        "logo_fjVfnh": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VITA_2.png",
+            "logo_width": 130,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_A964Gc",
+        "logo_PwVxki",
+        "logo_pCMLRf",
+        "logo_fjVfnh"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "La presse en parle",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#000000",
+        "logo_item_border": "#ffffff"
+      }
+    },
+    "press_RABHjT": {
+      "type": "press",
+      "blocks": {
+        "quote_nbLYBe": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "HYPERBEAST",
+            "content": "INKIO révolutionne le tatouage temporaire.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_nbLYBe"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_E9CVAz": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_QVVNBE": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_U4P6Mz": {
+          "type": "heading",
+          "settings": {
+            "text": "Les Bénéfices Concrets du Sirop Royal",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_EcCAga": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_QVVNBE",
+        "heading_U4P6Mz",
+        "richtext_EcCAga"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#211d1d",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "avis_harvey_ross_fk8Pzj": {
+      "type": "Avis_Harvey_Ross",
+      "blocks": {
+        "testimonial_dGHTUz": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_00.png",
+            "stars_count": 5,
+            "text": "<p><strong>Je me suis toujours senti un peu à part quand mes potes parlaient de leurs tattoos… En soirée, j’étais le seul sans rien, et franchement, ça me travaillait. Mais je n’avais jamais osé sauter le pas, par peur de regretter. Avec Inkio, j’ai enfin pu tester un look tatoué sans engagement. Résultat : un tattoo canon, un boost de confiance, et des potes bluffés pendant notre trip à la montagne. Je me suis senti enfin à ma place, et stylé en plus 😎. Merci Inkio !\"</strong></p>",
+            "author": "— Maxime D., 28 ans, Annecy"
+          }
+        },
+        "testimonial_rxEfLy": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_09.png",
+            "stars_count": 5,
+            "text": "<p><strong>Mon dernier tatouage m’a laissé la peau en feu pendant des jours… rougeurs, démangeaisons, inconfort total. J’étais vraiment dégoûtée. Puis j’ai testé Inkio, un peu par curiosité… et là, révélation ! Tattoo appliqué en 2 minutes, zéro douleur, ma peau a adoré. Et le rendu ? Juste incroyable. Fin, élégant, et surtout sans aucune irritation. Je ne reviendrai plus jamais en arrière.</strong></p>",
+            "author": "— Léa T., 31 ans, Bordeaux"
+          }
+        },
+        "testimonial_WQQarz": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0244_2dc67e98-483b-422b-b2be-4455d0d9f38d.jpg",
+            "stars_count": 5,
+            "text": "<p><strong>\"Je me lasse vite de mes looks, alors un tattoo permanent ? No way. Mais depuis que j’ai découvert Inkio, j’alterne les styles comme mes tenues. Graphique, minimaliste ou floral… je change chaque semaine !\"</strong></p>",
+            "author": "— Théo L., 25 ans, Bruxelles"
+          }
+        },
+        "testimonial_AM9JH3": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0297_f9b3568a-660c-4b62-ba8c-49dbe6db1c14.jpg",
+            "stars_count": 5,
+            "text": "<p><strong>\"J’ai testé un vrai tattoo une fois… jamais plus. L’ambiance clinique, la douleur, le stress… j’ai passé l’heure à serrer les dents. Avec Inkio, j’ai retrouvé le plaisir sans la torture. J’ai posé mon tattoo tranquille chez moi, avec un thé et ma playlist. Et le résultat est bluffant : on dirait un vrai, sans une goutte de sueur ! Une vraie révolution.\"</strong></p>",
+            "author": "— Julien M., 26 ans, Lyon"
+          }
+        },
+        "testimonial_ay9Haa": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0369_2_3c67235c-8929-4ed2-806f-fb7920a6b91f.jpg",
+            "stars_count": 5,
+            "text": "<p><strong>\"J’avais fait un tatouage à 20 ans que je regrette encore aujourd’hui. Depuis, je n’osais plus rien tenter. Avec Inkio, j’ai retrouvé le plaisir de porter un tattoo, sans peur de me tromper à nouveau.\"</strong><br/></p>",
+            "author": "— Nicolas S., 35 ans, Genève"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_dGHTUz",
+        "testimonial_rxEfLy",
+        "testimonial_WQQarz",
+        "testimonial_AM9JH3",
+        "testimonial_ay9Haa"
+      ],
+      "name": "SS - Testimonials #10",
+      "settings": {
+        "body_padding_vertical": 50,
+        "body_padding_vertical_mobile": 16,
+        "body_padding_horizontal": 50,
+        "body_padding_horizontal_mobile": 16,
+        "body_radius": 12,
+        "body_border_thickness": 0,
+        "heading": "<h2><strong>L'essayer, c'est l'adopter.</strong></h2>",
+        "heading_custom": false,
+        "heading_font": "din_next_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 150,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "sub_heading": "<p>Nos clients en parlent le mieux...</p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 14,
+        "sub_heading_height": 150,
+        "slider_view": 3.7,
+        "slider_view_mobile": 1,
+        "slider_gap": 36,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "image_radius": 12,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "stars_size": 20,
+        "stars_mt": 24,
+        "stars_align": "start",
+        "stars_align_mobile": "start",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 20,
+        "author_size_mobile": 16,
+        "author_height": 130,
+        "author_mt": 8,
+        "author_align": "left",
+        "author_align_mobile": "left",
+        "arrow_size": 50,
+        "arrow_size_mobile": 42,
+        "arrow_icon_size": 40,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_mt": 32,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "body_bg_color": "#000000",
+        "body_border_color": "#2d2929",
+        "stars_color": "#439b54",
+        "text_color": "#ffffff",
+        "author_color": "#959595",
+        "arrow_color": "#959595",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#959595",
+        "arrow_border_color": "#959595",
+        "arrow_border_hover_color": "#959595",
+        "dots_color": "#959595",
+        "heading_color": "#ffffff",
+        "sub_heading_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "image_with_text_overlay_9Wwxkw": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Tatouages_temporaires_hauts_de_gamme..png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "trust_pilot_reviews_AxNB3A": {
+      "type": "Trust_Pilot_Reviews",
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-weight: bold;}"
+      ],
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "heading": "Nos clients en parlent le mieux...",
+        "heading_custom": true,
+        "heading_font": "arimo_n4",
+        "heading_size": 24,
+        "heading_size_mobile": 20,
+        "heading_height": 50,
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 20,
+        "rating_text_mt_mobile": 12,
+        "rating": 4.7,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "text": "<p>basé sur +<strong>50 000</strong> avis</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 36,
+        "text_mt_mobile": 4,
+        "scrolling_velocity": 80,
+        "scrolling_velocity_mobile": 100,
+        "reverse_direction": false,
+        "pause_hover": true,
+        "scrolling_mt": 36,
+        "scrolling_mt_mobile": 36,
+        "scrolling_gap": 20,
+        "scrolling_gap_mobile": 20,
+        "card_width": 360,
+        "card_width_mobile": 280,
+        "card_padding_vertical": 36,
+        "card_padding_vertical_mobile": 28,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow_style": "none",
+        "card_content_align": "center",
+        "card_content_align_mobile": "center",
+        "card_height": false,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_mt": 16,
+        "card_heading_mt_mobile": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_mt": 16,
+        "card_text_mt_mobile": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 60,
+        "author_image_size": 56,
+        "author_image_size_mobile": 40,
+        "author_image_position": "inline_text",
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_mt": 16,
+        "card_author_date_text_mt_mobile": 16,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_mt_mobile": 28,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 20,
+        "button_radius": 8,
+        "button_border_thickness": 1,
+        "button_style": "outline",
+        "button_color": "#ffffff",
+        "button_hover_color": "#000000",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#ffffff",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#000000",
+        "card_border_color": "#000000",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "view_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#439b54",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#ffffff",
+        "margin_top": 16,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "multi_column_BKPLPt": {
+      "type": "multi-column",
+      "blocks": {
+        "item_TcDrMq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_00.png",
+            "column_size": "3",
+            "title": "Sylvie",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>Je travaille et je cours toute la journée. J'avais constamment <strong>le ventre noué et des coups de fatigue</strong>. En une semaine avec le Sirop Royal, je me suis sentie <strong>plus claire, plus légère, et moins stressée</strong>. C’est devenu mon <strong>hack bien-être</strong>. Enfin déconstipée !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JJLm4U": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_09.png",
+            "column_size": "3",
+            "title": "Marie",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>J’ai tout essayé pour <strong>soulager mon transit</strong>, mais je voulais rester du côté des plantes. Ce sirop m’a bluffée : <strong>il est doux, efficace, et je dors même mieux</strong>. Mon corps l’a adopté sans effort, aucun effet secondaire.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MwJML3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0244_2dc67e98-483b-422b-b2be-4455d0d9f38d.jpg",
+            "column_size": "3",
+            "title": "Marcus",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/><strong>Je n’avais pas le temps </strong>pour des routines compliquées. Une cuillère matin et soir, et j’ai senti mon <strong>ventre moins lourd, mon énergie plus stable.</strong> Même <strong>mes douleurs</strong> après le boulot ont diminué. <strong>C’est simple et ça marche. Rapport qualité/prix excellent.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GECyWQ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "column_size": "3",
+            "title": "Cédric",
+            "heading_tag": "h4",
+            "content": "<p>Je n’ai jamais tenu plus de deux semaines avec un traitement classique. Trop compliqué, trop contraignant. Avec SlimFuze, j’ai enfin trouvé quelque chose qui s’adapte à ma vie. Je le pose le matin, et j’oublie qu’il est là, sauf que je mange moins, et je me sens mieux. C’est simple, doux, et ça fonctionne vraiment.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_p6MkDp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0369_2_3c67235c-8929-4ed2-806f-fb7920a6b91f.jpg",
+            "column_size": "3",
+            "title": "Marc",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>Pas de blabla, juste des faits : <strong>plus d’énergie, digestion plus rapide, peau plus nette.</strong> J’en ai <strong>recommandé</strong> avant même de finir la première bouteille.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4yzaE8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0297_f9b3568a-660c-4b62-ba8c-49dbe6db1c14.jpg",
+            "column_size": "3",
+            "title": "Brigitte",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>J'ai toujours été <strong>sceptique</strong> à propos des compléments alimentaires, mais celui-ci m'a fait <strong>changer d'avis</strong>. Plus d'énergie, une meilleure concentration : <strong>c'est comme si j'étais une nouvelle personne.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7BdeiK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_18_23_20.png",
+            "column_size": "3",
+            "title": "Laura",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/>Je fais attention à ce que je consomme, mais j’aime me faire plaisir. Le goût est top, les ingrédients sont clean, <strong>et surtout j’ai vu les résultats dès le 5e jour</strong>. Ça m’évite d’acheter 3 produits différents.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EwNkYx": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "column_size": "3",
+            "title": "Léo",
+            "heading_tag": "h4",
+            "content": "<p>J'avais beaucoup de mal à digérer. Depuis que j'utilise ce mélange, ma santé intestinale s'est considérablement améliorée. Ça a changé ma vie !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_TcDrMq",
+        "item_JJLm4U",
+        "item_MwJML3",
+        "item_GECyWQ",
+        "item_p6MkDp",
+        "item_4yzaE8",
+        "item_7BdeiK",
+        "item_EwNkYx"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000"
+      }
+    },
+    "rich_text_AccAfb": {
+      "type": "rich-text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#263e46"
+      }
+    },
+    "scrolling_text_YxVxQf": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Décidez le look.",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "featured_collection_MaXtDN": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos Best Sellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_yLnKjK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"shopify-section-template--24620306497867html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n\n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: #000000; color: #FFFFFF; padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU N°1 DES TATOUAGES 2024 <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n\n    </div>\n</div>\n\n</div>"
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_UqCNKi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #2E4147;\n  --social-proof-star-color: #439b54;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.7\n par +10000 INKroyables !\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "separator_Cb6W4c": {
+          "type": "separator",
+          "settings": {}
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "image_dKiFK7": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
+        "image_pRggRB": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_jnATdX": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Kits</div>\n</div>"
+          }
+        },
+        "image_GRPrpa": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_4qkHKX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_3.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "image_h9L7gC": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "image_87dgrX": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_KiQtca": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "image_3bRyG3": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "moon_bundle_app_block_8Gn8e7": {
+          "type": "shopify://apps/moon-bundle/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "{{section.settings.product}}"
+          }
+        },
+        "image_gXJpdN": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_G49VDF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<form method=\"post\" action=\"/cart/add\" id=\"product-form\" accept-charset=\"UTF-8\" class=\"shopify-product-form\" enctype=\"multipart/form-data\" is=\"product-form\">        <input type=\"hidden\" name=\"formtype\" value=\"product\">        <input type=\"hidden\" name=\"utf8\" value=\"✓\">        <input type=\"hidden\" name=\"id\" value=\"47919902228818\">        <button type=\"submit\" class=\"productpagebutton btn btn--secondary\" style=\"width: 100%; font-size: 16px; padding: 18px 0; margin: 10px 0 10px 0; background-color: #ebbf16; color:#000000; text-decoration: none; display: inline-block; border: none; box-shadow: none;\">Acheter maintenant</button>    </form>  <img class=\"badgeimage\" style=\"margin: 0 auto 10px; display: block; width: 70%;\" src=\"https://cdn.shopify.com/s/files/1/0816/7810/6962/files/Capture_d_ecran_2024-04-07_185250-removebg-preview.png?v=1712508845\">"
+          }
+        },
+        "liquid_AnEN84": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div id='ss-product-videos'></div>"
+          }
+        },
+        "liquid_3eWc3i": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style style=\"z-index: 22;\">\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes\n unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n\n<div class=\"unique-container-Abc456\" style=\"z-index: 21;\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n      </svg>\n30J Satisfait ou remboursé</span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n      </svg>\nSTOCK FAIBLE !    </span>\n  </div>\n</div>"
+          }
+        },
+        "image_UFwhdL": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_TTn8Hq": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #2e4147; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 14px; margin: 5px 0;\">Ce sirop associe intelligemment des extraits végétaux reconnus pour soutenir les fonctions digestives, hépatiques et immunitaires. Sa forme liquide permet une absorption rapide et un effet ressenti dès les premiers jours. C’est une solution naturelle que je recommande régulièrement en accompagnement de cures détox ou pour retrouver énergie et confort intestinal.</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr. Alice L. Nutritionniste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
+          }
+        },
+        "image_QPEQgk": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "color",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "#f0c417",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_NnVtjL": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        }
+      },
+      "block_order": [
+        "liquid_yLnKjK",
+        "vendor",
+        "liquid_UqCNKi",
+        "title",
+        "separator_Cb6W4c",
+        "badges",
+        "image_dKiFK7",
+        "image_pRggRB",
+        "liquid_jnATdX",
+        "image_GRPrpa",
+        "image_4qkHKX",
+        "description",
+        "image_h9L7gC",
+        "rating",
+        "separator",
+        "image_87dgrX",
+        "liquid_KiQtca",
+        "image_3bRyG3",
+        "moon_bundle_app_block_8Gn8e7",
+        "image_gXJpdN",
+        "liquid_G49VDF",
+        "liquid_AnEN84",
+        "liquid_3eWc3i",
+        "image_UFwhdL",
+        "liquid_TTn8Hq",
+        "image_QPEQgk",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons",
+        "image_NnVtjL"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "product": "wilde-schonheit",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "input_background": "#263e46",
+        "input_text_color": ""
+      }
+    },
+    "ss_videos_wcEY7L": {
+      "type": "ss-videos",
+      "blocks": {
+        "video_4YQ7n8": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "",
+            "modal_text": ""
+          }
+        },
+        "video_iaACKa": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "",
+            "modal_text": ""
+          }
+        },
+        "video_XmcwE4": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "",
+            "modal_text": ""
+          }
+        },
+        "video_zpBeGe": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        },
+        "video_mTLed9": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_4YQ7n8",
+        "video_iaACKa",
+        "video_XmcwE4",
+        "video_zpBeGe",
+        "video_mTLed9"
+      ],
+      "name": "SS - Product Videos",
+      "settings": {
+        "videos_position": "above_description",
+        "use_metafield": false,
+        "heading": "<h2>INKIO et vous :</h2>",
+        "heading_custom": false,
+        "heading_font": "din_next_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 3,
+        "slider_gap": 16,
+        "slider_gap_mobile": 16,
+        "slider_mt": 20,
+        "card_radius": 10,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "video_ratio": "portrait",
+        "video_ratio_mobile": "portrait",
+        "video_overlay": 0.3,
+        "icon_size": 34,
+        "icon_size_mobile": 34,
+        "icon_border_thickness": 1,
+        "icon_position_mobile": "bottom_left",
+        "icon_position": "bottom_left",
+        "hide_icon": false,
+        "arrow_size": 35,
+        "arrow_size_mobile": 35,
+        "arrow_radius": 5,
+        "arrow_border_thickness": 0,
+        "arrow_hover_shadow": true,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "show_content": true,
+        "modal_width": 70,
+        "modal_width_mobile": 95,
+        "modal_padding_vertical": 0,
+        "modal_padding_vertical_mobile": 0,
+        "modal_padding_horizontal": 0,
+        "modal_padding_horizontal_mobile": 0,
+        "modal_radius": 16,
+        "modal_border_thickness": 0,
+        "modal_overlay": 50,
+        "close_size": 42,
+        "close_size_mobile": 42,
+        "close_radius": 8,
+        "close_border_thickness": 0,
+        "buttons_size": 48,
+        "buttons_size_mobile": 48,
+        "buttons_radius": 8,
+        "buttons_border_thickness": 0,
+        "modal_video_radius": 0,
+        "modal_video_border_thickness": 0,
+        "modal_video_ratio": "portrait",
+        "modal_video_ratio_mobile": "portrait",
+        "modal_heading_custom": false,
+        "modal_heading_font": "josefin_sans_n4",
+        "modal_heading_size": 28,
+        "modal_heading_size_mobile": 28,
+        "modal_heading_height": 130,
+        "modal_heading_align": "center",
+        "modal_heading_align_mobile": "center",
+        "modal_text_custom": false,
+        "modal_text_font": "josefin_sans_n4",
+        "modal_text_size": 16,
+        "modal_text_size_mobile": 16,
+        "modal_text_height": 130,
+        "modal_text_align": "center",
+        "modal_text_align_mobile": "center",
+        "modal_text_mt": 16,
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#000000",
+        "video_overlay_color": "#000000",
+        "icon_bg_color": "#000000",
+        "icon_border_color": "#ffffff",
+        "icon_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "arrow_icon_color": "#1c1c1c",
+        "arrow_icon_hover_color": "#1c1c1c",
+        "modal_bg_color": "#ffffff",
+        "modal_border_color": "#000000",
+        "close_bg_color": "#ffffff",
+        "close_border_color": "#000000",
+        "close_icon_color": "#ffffff",
+        "buttons_bg_color": "#ffffff",
+        "buttons_border_color": "#000000",
+        "buttons_icon_color": "#ffffff",
+        "modal_video_border_color": "#000000",
+        "modal_content_bg_color": "#ffffff",
+        "modal_content_border_color": "#000000",
+        "modal_heading_color": "#000000",
+        "modal_text_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "tabs_Waa9zt": {
+      "type": "tabs",
+      "blocks": {
+        "tab_qpeWfc": {
+          "type": "tab",
+          "settings": {
+            "title": "Direction d'usage",
+            "content": "<p>Prenez une ou deux cuillères à soupe de notre sirop par jour, de préférence après les repas. Vous pouvez le consommer directement ou le mélanger à votre boisson préférée pour un apport nutritionnel. Une utilisation régulière est essentielle pour obtenir les meilleurs résultats.</p>",
+            "page": ""
+          }
+        },
+        "tab_kNhjBC": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<ul><li>Feuilles de corossol – Riches en antioxydants, elles renforcent le système immunitaire et peuvent aider à réduire l'inflammation.</li></ul><p></p><ul><li>Extrait de curcuma – Contient de la curcumine, connue pour ses puissantes propriétés anti-inflammatoires et antioxydantes, qui favorisent la santé des articulations et la santé générale.<br/></li><li>Séné – Un laxatif naturel qui favorise la digestion et la régularité intestinale.<br/>Moringa – Un superaliment riche en vitamines, minéraux et acides aminés, qui améliore l'énergie, l'immunité et la vitalité générale.<br/></li><li>Graines de nigelle – Connue pour ses propriétés anti-inflammatoires et antioxydantes, elle soutient la fonction immunitaire et le bien-être général.<br/></li><li>Neem – Un ingrédient naturel antibactérien et antifongique qui soutient la santé de la peau, renforce l'immunité et favorise la détoxification générale.<br/>Racine de citron – Riche en vitamine C, elle soutient la détoxification, renforce l'immunité et favorise la santé digestive.<br/></li><li>Cheech – Une herbe traditionnelle connue pour ses propriétés détoxifiantes, qui favorise la digestion, la santé du foie et le bien-être général.<br/></li><li>Tamarin – Riche en nutriments et en antioxydants, il favorise le métabolisme, la digestion et aide à contrôler le poids.<br/></li><li>Goat Weed – Traditionnellement utilisé pour augmenter l'énergie et la vitalité, il favorise l'endurance et le bien-être général.<br/></li><li>Sea Moss – Source naturelle d'iode et de fibres prébiotiques, elle soutient la fonction thyroïdienne, la santé intestinale et l'hydratation de la peau.<br/>Hibiscus – Riche en vitamine C et en antioxydants, il soutient la santé cardiaque, abaisse la pression artérielle et favorise la détoxification du foie.<br/></li><li>Ail – Antibiotique naturel puissant aux propriétés immunostimulantes, il est connu pour améliorer la santé cardiaque et la circulation sanguine.<br/></li><li>Cannelle – Aide à réguler le taux de sucre dans le sang, soutient le métabolisme et possède des propriétés anti-inflammatoires.<br/></li><li>Extrait de reishi – Champignon médicinal connu pour renforcer l'immunité, réduire le stress et améliorer la vitalité générale.<br/></li><li>Feuilles de laurier – Favorisent la digestion, réduisent les ballonnements et possèdent des propriétés anti-inflammatoires bénéfiques pour la santé intestinale.<br/></li><li>Ashwagandha – Plante adaptogène qui aide à réduire le stress, à améliorer les fonctions cognitives et à renforcer l'endurance physique.</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_GUd9zE": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p><strong>100 % indolore</strong> !</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_aQDKUA": {
+          "type": "tab",
+          "settings": {
+            "title": "60 jours Satisfait ou Remboursé",
+            "content": "<p>Essayez le Sirop Royal sans risque <strong>pendant 60 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement.</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_dkjrUh": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.</p><p>Vous pouvez nous contacter en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@serenevita.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_qpeWfc",
+        "tab_kNhjBC",
+        "tab_GUd9zE",
+        "tab_aQDKUA",
+        "tab_dkjrUh"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#2e4147",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_wTJTNc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_QdbeiM": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Feuilles de Corossol",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dPL9Rr": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Graines de Nigelle",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LV4cm8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Moringa",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AVk4bF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Ashwaganda",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VLx7n4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Reishi",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6nijje": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Irish Moss",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xiaYUR": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Feuilles de Laurier",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_QdbeiM",
+        "item_dPL9Rr",
+        "item_LV4cm8",
+        "item_AVk4bF",
+        "item_VLx7n4",
+        "item_6nijje",
+        "item_xiaYUR"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Contient plus de 85 nutriments essentiels dans 15 plantes pour une santé optimale",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_gkWEKE": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_NdfBdq": {
+      "type": "video",
+      "blocks": {
+        "play_NtBLNR": {
+          "type": "play",
+          "disabled": true,
+          "settings": {}
+        },
+        "heading_yzt7w8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_NtBLNR",
+        "heading_yzt7w8"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0704(1).mov",
+        "mobile_video": "shopify://files/videos/0704(1).mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "timeline_HEewDi": {
+      "type": "timeline",
+      "blocks": {
+        "slide_qwebaq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/400c8b7996fd081b79b9dcea298e75e9_2_0663dd72-9eef-4df0-a56e-b82c5d55b384.jpg",
+            "navigation_label": "1ére Semaine",
+            "subheading": "",
+            "title": "Relancez votre Santé",
+            "content": "<p>Alors que votre corps commence à se désintoxiquer, les feuilles de corossol soutiennent l'immunité, le séné et les feuilles de laurier favorisent la digestion, et la racine de citron avec du miel apaise l'intestin, vous aidant à vous sentir plus léger et rafraîchi.</p>"
+          }
+        },
+        "slide_PxEdyy": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/799ba2c9d5e080cd81a9030ed4907c45.jpg",
+            "navigation_label": "1 mois",
+            "subheading": "",
+            "title": "Vitalité & Éclat",
+            "content": "<p>Le moringa et l'Irish moss fournissent des nutriments essentiels pour l'énergie et la santé de la peau, tandis que le curcuma, la cannelle, l'ail et l'hibiscus favorisent la circulation, le métabolisme et la vitalité générale, vous laissant une sensation d'équilibre et de revitalisation.</p>"
+          }
+        },
+        "slide_NrcER6": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2 mois",
+            "subheading": "",
+            "title": "Immunité & Mobilité",
+            "content": "<p>Les graines de nigelle et l'extrait de reishi renforcent votre système immunitaire, l'ashwagandha et l'herbe de chèvre améliorent l'endurance, et le curcuma et la cannelle soutiennent le confort des articulations, vous aidant à vous sentir plus résistant et plus énergique physiquement.</p>"
+          }
+        },
+        "slide_j6NhPM": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "3 mois",
+            "subheading": "",
+            "title": "Circulation & Désintoxication",
+            "content": "<p>L'hibiscus et l'ail favorisent la santé cardiaque, le tamarin et la racine de citron facilitent la digestion et le métabolisme, et les feuilles de laurier et la mousse d'Irlande soutiennent la santé intestinale, vous laissant une sensation de clarté d'esprit, de rajeunissement et de synchronisation avec votre corps.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_qwebaq",
+        "slide_PxEdyy",
+        "slide_NrcER6",
+        "slide_j6NhPM"
+      ],
+      "disabled": true,
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "how_to_use_sambal_R66gKj": {
+      "type": "how-to-use-sambal",
+      "blocks": {
+        "step_iHPngi": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Prélevez avec soin",
+            "description": "Retirez délicatement le film protecteur sans toucher le centre actif du patch.",
+            "alignment": "left"
+          }
+        },
+        "step_qH8CUW": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Appliquez simplement",
+            "description": "Laissez le patch en place pendant au moins 4 heures. Pendant ce temps, il diffuse ses actifs en profondeur, en toute discrétion.",
+            "alignment": "left"
+          }
+        },
+        "step_ywNDXk": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Laissez agir",
+            "description": "Laissez le patch en place pendant au moins 4 heures. Pendant ce temps, il diffuse ses actifs en profondeur, en toute discrétion.",
+            "alignment": "left"
+          }
+        },
+        "step_GfMjWy": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "Step Title Here",
+            "description": "Description of this step goes here.",
+            "alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "step_iHPngi",
+        "step_qH8CUW",
+        "step_ywNDXk",
+        "step_GfMjWy"
+      ],
+      "disabled": true,
+      "name": "How to Use",
+      "settings": {}
+    },
+    "rich_text_wLB3E3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eyGnN4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Mais qu'est ce que ce produit incroyable ?!",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_UgTcXg": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<h3><em>Le SMGT-GLP-1, grâce à son mécanisme d'action unique, a déjà démontré des résultats significatifs dans le traitement du diabète et la gestion du poids !<br/><br/></em></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eyGnN4",
+        "richtext_UgTcXg"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_MQHPPV": {
+      "type": "faq",
+      "blocks": {
+        "item_yDiwY9": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce que le Sirop Royal?",
+            "content": "<p>Le Sirop Royal est un complément alimentaire naturel fabriqué à partir des feuilles et des tiges du corossolier. Il s'agit d'un mélange puissant de plus de 15 composés bioactifs qui agissent ensemble pour favoriser la santé et le bien-être général. Notre formule unique exploite les propriétés médicinales traditionnelles du corossol, connu pour son potentiel à renforcer l'immunité, faciliter la digestion et favoriser la vitalité. Chaque portion apporte une dose concentrée des bienfaits de la nature, conçue pour vous aider à vous sentir au mieux de votre forme, de l'intérieur comme de l'extérieur.</p>"
+          }
+        },
+        "item_XY77ii": {
+          "type": "item",
+          "settings": {
+            "title": "À quoi ça sert?",
+            "content": "<p>Chaque bouteille contient un mélange puissant de 15 plantes qui peuvent vous aider à renforcer votre système immunitaire, à soigner vos problèmes intestinaux, à booster votre énergie, à réduire votre tension artérielle, à soulager votre stress, et bien plus encore.<br/><br/><br/>Au lieu de prendre une multitude de compléments alimentaires, il vous suffit de prendre notre Sirop Royal pour bénéficier d'un soutien quotidien puissant et fiable pour votre santé.</p>"
+          }
+        },
+        "item_8yPykD": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi choisir ce supplément et pas un autre?",
+            "content": "<p>Notre formule exploite la puissance de plus de 85 composés bioactifs présents naturellement dans le corossol, sans additifs artificiels. Le résultat est un complément alimentaire doux mais efficace qui favorise votre santé sans les effets secondaires néfastes souvent associés aux produits synthétiques.<br/><br/><br/>Ce qui distingue vraiment le Sirop Royal, c'est son profil nutritionnel unique, qui comprend des composés rares tels que les acétogénines annonacées, que l'on ne trouve généralement pas dans d'autres compléments alimentaires.</p>"
+          }
+        },
+        "item_mrg8b4": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Où puis-je l'utiliser ?",
+            "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à <strong>la perte de collagène</strong>.<br/>Utilisez-le <strong>toutes les deux semaines</strong> pour stimuler <strong>la production naturelle de collagène</strong>.</p><p>✔ <strong>Rides du front</strong><br/>✔ <strong>Rides du lion</strong> (entre les sourcils)<br/>✔ <strong>Pattes d’oie</strong><br/>✔ <strong>Rides autour des yeux</strong><br/>✔ <strong>Rides du nez (\"bunny lines\")</strong><br/>✔ <strong>Menton irrégulier (\"strawberry chin\")</strong><br/>✔ <strong>Sillons nasogéniens</strong><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/>✔ <strong>Plis d’amertume</strong> (aux coins des lèvres)<br/>✔ <strong>Relâchement du cou (\"turkey neck\")</strong></p>"
+          }
+        },
+        "item_Qt9h7g": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Les têtes d'aiguille sont-elles réutilisables?",
+            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
+          }
+        },
+        "item_K9EhFR": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "À quelle vitesse verrai-je les résultats?",
+            "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
+          }
+        },
+        "item_P6yRzh": {
+          "type": "item",
+          "settings": {
+            "title": "Comment le consommer?",
+            "content": "<p>Prenez une cuillère à soupe de corossol deux fois par jour, de préférence après les repas. Nous vous recommandons de le mélanger directement à votre boisson préférée pour faciliter la digestion et booster votre apport nutritionnel. Une utilisation régulière est essentielle pour obtenir les meilleurs résultats.</p>"
+          }
+        },
+        "item_6cJAWF": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Est-ce efficace autour des yeux, des paupières et sur le cou?",
+            "content": "<p>Oui, il fonctionne pratiquement partout, car le vieillissement de la peau sur tout le corps est causé par la perte de collagène, ce que notre système traite en seulement quelques séances !<br/><br/>Cependant, évitez d'appliquer le dispositif trop près de la zone délicate des yeux, notamment directement sur les paupières ou la ligne des cils. Maintenez une distance d'au moins 3 cm (1,5 pouce) des yeux.<br/><br/>Pour les lèvres, appliquez délicatement l'appareil directement sur les lèvres pour de meilleurs résultats.<br/><br/>Vous pouvez également suivre notre guide vidéo étape par étape que vous recevrez avec votre commande.</p>"
+          }
+        },
+        "item_3ydTfx": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Y a-t-il un temps de pause nécessaire entre chaque utilisation ?",
+            "content": "<p>Il n'y a pratiquement pas de temps de pause après l'utilisation du Micro Infusion Kit.<br/><br/>Vous pourriez observer une légère rougeur ou une sensibilité discrète immédiatement après le soin, mais ces effets disparaissent généralement en quelques heures à un jour.<br/><br/>Il est conseillé d'éviter le maquillage, l'exposition directe au soleil et les produits de soin trop agressifs pendant au moins 24 heures après le traitement, afin de permettre à la peau de se régénérer correctement.</p>"
+          }
+        },
+        "item_QbyjD9": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Puis-je utiliser de l’acide hyaluronique ou du rétinol après avoir utilisé le Micro Infusion Kit ?",
+            "content": "<p>Vous pouvez appliquer vos soins habituels, tels que des crèmes à base d'acide hyaluronique, la nuit suivant l'utilisation du Micro Infusion Kit. Cela aidera à hydrater et apaiser la peau, tout en renforçant les bienfaits du traitement (l'absorption des produits sera également améliorée jusqu'à 300%, conduisant à des résultats encore plus visibles).<br/><br/>Cependant, évitez d'utiliser du rétinol ou d'autres ingrédients actifs puissants comme les acides (par exemple, l'acide glycolique ou salicylique) immédiatement après le soin. Ces produits peuvent irriter la peau fraîchement traitée.<br/><br/>Attendez au moins 24 à 48 heures avant de réintroduire le rétinol ou d'autres actifs puissants dans votre routine de soins pour permettre à votre peau de se rétablir complètement. Suivez toujours les instructions de soins après traitement pour obtenir les meilleurs résultats.<br/><br/>En dehors de cela, veillez à ne pas appliquer de maquillage et à garder votre peau propre pendant environ 12 heures après le traitement.</p>"
+          }
+        },
+        "item_RKyzeA": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour voir des résultats?",
+            "content": "<p>Certains clients commencent à remarquer des améliorations en seulement 7 jours. Mais chaque personne est différente, c'est pourquoi nous recommandons d'essayer le produit quotidiennement pendant au moins 1 à 2 mois.</p>"
+          }
+        },
+        "item_MihJ8p": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Est-ce que ce produit aide à atténuer les rides très profondes ?",
+            "content": "<p>Oui, le Micro Infusion Kit peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 3 à 6 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
+          }
+        },
+        "item_GWJTCQ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Ce produit aide-t-il également à atténuer les cicatrices ?",
+            "content": "<p><strong>Oui</strong>, le Micro Infusion Kit peut améliorer l'apparence de certains types de cicatrices, comme les cicatrices d'acné ou les cicatrices superficielles mineures.<br/><br/>Le processus de microneedling stimule la production de collagène, ce qui peut aider à lisser et à estomper les cicatrices au fil du temps.<br/><br/>Cependant, pour les cicatrices profondes ou sévères, les résultats peuvent varier. Toutefois, soyez assuré que notre garantie de remboursement de 90 jours reste valable pour toutes les commandes.</p>"
+          }
+        },
+        "item_DAfyn3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Est-ce facile à utiliser ? Y a-t-il de bonnes instructions ?",
+            "content": "<p>Oui, le Micro Infusion Kit est simple et facile à utiliser, et chaque traitement ne prend que 5 à 10 minutes.<br/><br/>Chaque commande est accompagnée d'instructions vidéo claires et d'un manuel détaillé pour vous guider tout au long du processus, afin de vous assurer d'obtenir les meilleurs résultats.<br/><br/>Les instructions couvrent tout, de la préparation du dispositif à l'application du sérum et aux soins après traitement.<br/><br/>Même si vous êtes novice en matière de ce type de soin, vous trouverez les étapes faciles à suivre.</p>"
+          }
+        },
+        "item_VnHdN7": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Qui devrait utiliser le Micro Infusion Kit ?",
+            "content": "<p>La production de collagène commence à diminuer dès la vingtaine, rendant les traitements de régénération de la peau plus bénéfiques au fil des années.</p><p>Le Micro Infusion Kit est idéal pour les adultes de 25 à 80 ans qui souhaitent améliorer l'apparence de leur peau.</p><p>Il aide à réduire les ridules, les rides, les taches sombres et les irrégularités de texture, et convient à tous les types de peau.</p><p>Cependant, il n'est pas recommandé aux personnes ayant des affections cutanées graves, comme la rosacée, l'eczéma ou l'acné agressive, car ces conditions pourraient être aggravées. Si vous avez des préoccupations spécifiques ou des conditions médicales, il est conseillé de consulter un dermatologue avant utilisation.</p>"
+          }
+        },
+        "item_3EBPbR": {
+          "type": "item",
+          "settings": {
+            "title": "Quand est-ce que ma commande sera expédiée?",
+            "content": "<p>Tous nos produits sont disponibles en entrepôt et seront expédiés dans un délai de 1 à 2 jours ouvrables après la commande.</p>"
+          }
+        },
+        "item_qfyPPE": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
+          }
+        },
+        "item_D3yQPm": {
+          "type": "item",
+          "settings": {
+            "title": "Et si j'en suis insatisfait?",
+            "content": "<p>Beaucoup de nos clients sont satisfaits du prix abordable et des bienfaits pour la santé qu'ils ont constatés en consommant notre Sirop Royal, nous sommes donc convaincus que vous l'apprécierez également. Mais si vous ne remarquez aucune amélioration, vous pouvez retourner votre commande dans les 60 jours suivant la livraison du produit et obtenir un remboursement complet ! Sans tracas et ni question.</p>"
+          }
+        },
+        "item_8eKwAt": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Puis-je l'utiliser avec mon propre sérum ?",
+            "content": "<p>Nous ne recommandons pas d'utiliser le Micro Infusion Kit avec des sérums autres que celui fourni.</p><p>Le sérum inclus est spécialement formulé pour fonctionner en harmonie avec la technologie de microneedling du dispositif, garantissant une absorption et une efficacité optimales.</p>"
+          }
+        },
+        "item_V4HbrJ": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "La Micro-infusion ceralyne peut-elle être utilisée en combinaison avec la thérapie par lumière rouge et les lasers RF ?",
+            "content": "<p>Oui, la Micro-Infusion ceralyne peut être combinée en toute sécurité avec des traitements comme la thérapie par lumière rouge ou la thérapie au laser RF.<br/><br/>Cependant, il est important de prévoir une période de récupération d’au moins deux nuits après l’utilisation de la Mincro-infusion ceralyne avant d’introduire ces thérapies. Cela permet à votre peau de se régénérer et optimise les bienfaits de tous les traitements.</p>"
+          }
+        },
+        "item_Bme77T": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
+            "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_yDiwY9",
+        "item_XY77ii",
+        "item_8yPykD",
+        "item_mrg8b4",
+        "item_Qt9h7g",
+        "item_K9EhFR",
+        "item_P6yRzh",
+        "item_6cJAWF",
+        "item_3ydTfx",
+        "item_QbyjD9",
+        "item_RKyzeA",
+        "item_MihJ8p",
+        "item_GWJTCQ",
+        "item_DAfyn3",
+        "item_VnHdN7",
+        "item_3EBPbR",
+        "item_qfyPPE",
+        "item_D3yQPm",
+        "item_8eKwAt",
+        "item_V4HbrJ",
+        "item_Bme77T"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Notre service clientèle est disponible 7 jours sur 7.",
+        "answer_time": "Temps de réponse moyen : 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "image_with_text_overlay_9PXG7a": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/CleanShot_2025-07-04_at_20.38.27_2x_6194be71-6c8a-49a4-9dff-527bab8de8ca.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_QNwKLg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ynAh9e": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Notre histoire",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_PNMFMg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>🌿 <strong>Notre Histoire</strong></h3><p>Dans un monde saturé de solutions rapides, standardisées et artificielles, nous avons choisi un autre chemin. Celui de l’authenticité, de la nature, et de la confiance dans ce que la terre a de plus puissant à offrir.</p><p>Depuis 2022, <strong>Serene Vita</strong> s’est donné pour mission de reconnecter les individus à leur bien-être naturel. Plus de <strong>50 000 personnes</strong> ont déjà retrouvé énergie, équilibre et clarté grâce à nos formules à base de plantes, conçues avec rigueur et bienveillance.</p><p>Au cœur de chaque flacon : <strong>plus de 85 actifs végétaux</strong>, extraits de <strong>15 plantes médicinales</strong> soigneusement sélectionnées par notre équipe d’<strong>herboristes experts</strong>. Nos ingrédients, bruts, puissants et respectueux de la biodiversité, sont issus principalement d’Afrique, un continent riche en traditions médicinales ancestrales.</p><p>Qu’il s’agisse d’un regain d’énergie, d’un sommeil plus profond, d’une digestion harmonieuse ou d’une peau naturellement éclatante, nos produits démontrent chaque jour que les <strong>remèdes naturels</strong> ne sont pas des promesses vides — mais de vraies solutions, durables et respectueuses du corps.</p><p>Et parce que nous croyons profondément en l’efficacité de nos produits, nous nous engageons sans détour : <strong>si vous ne constatez aucune amélioration dans les 60 jours</strong>, nous vous <strong>remboursons intégralement</strong>.</p><p>Chez Serene Vita, nous ne vendons pas seulement des produits. Nous accompagnons une transformation, <strong>un retour vers un corps écouté, un esprit apaisé, une vitalité retrouvée</strong>. Et ce chemin, nous serions honorés de le parcourir avec vous.</p><p>Souhaites-tu une <strong>version plus courte</strong>, <strong>plus émotionnelle</strong> ou <strong>format manifeste en bullet points</strong> ?</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ynAh9e",
+        "richtext_PNMFMg"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1751312097704b0343": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_b8KYj3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_x3qCk8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_9suge301ex_photo.png",
+            "mobile_image": "shopify://shop_images/zeoob.com_9suge301ex_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_PWibe8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_gra2xbiq3z_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_X7Jq39": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_o0d0wnt51m_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_BXNM3b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_njae6484f4_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_JthFDh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_j83hgk1eus_photo.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_x3qCk8",
+        "image_PWibe8",
+        "image_X7Jq39",
+        "image_BXNM3b",
+        "image_JthFDh"
+      ],
+      "disabled": true,
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "image-with-text-overlay",
+    "logo_list_4BjWGF",
+    "press_RABHjT",
+    "rich_text_E9CVAz",
+    "avis_harvey_ross_fk8Pzj",
+    "image_with_text_overlay_9Wwxkw",
+    "trust_pilot_reviews_AxNB3A",
+    "multi_column_BKPLPt",
+    "rich_text_AccAfb",
+    "scrolling_text_YxVxQf",
+    "featured_collection_MaXtDN",
+    "featured-product",
+    "ss_videos_wcEY7L",
+    "tabs_Waa9zt",
+    "multi_column_wTJTNc",
+    "rich_text_gkWEKE",
+    "video_NdfBdq",
+    "timeline_HEewDi",
+    "how_to_use_sambal_R66gKj",
+    "rich_text_wLB3E3",
+    "faq_MQHPPV",
+    "image_with_text_overlay_9PXG7a",
+    "rich_text_QNwKLg",
+    "1751312097704b0343",
+    "slideshow_b8KYj3"
+  ]
+}

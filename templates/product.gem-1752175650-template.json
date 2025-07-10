@@ -1,0 +1,600 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_ycWTtU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "\u2028<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #2E4147;\n  --social-proof-star-color: #439b54;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n<\/style>\n<\/head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n  <\/span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.7\n par +5000 personnes !\n  <\/span>\n<\/div>\n\n<\/body>\n<\/html>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "liquid_bhXCNA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"shopify-section-template--24620306497867html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n\n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n<\/style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: #000000; color: #ffffff; padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU MEILLEURS TATTOOS EN 2024 <img width=\"18\" height=\"18\" src=\"https:\/\/img.icons8.com\/color\/18\/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n<\/div>\n\n    <\/div>\n<\/div>\n\n<\/div>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "disabled": true,
+          "settings": {}
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_E6GACE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul class=\"product-features\">\n  <li>\n    <span class=\"icon\">💧<\/span>\n    <span class=\"mono-text\">Résistant à l'eau<\/span>\n  <\/li>\n  <li>\n    <span class=\"icon\">⏳<\/span>\n    <span class=\"mono-text\">Dure 2 Semaines<\/span>\n  <\/li>\n  <li>\n    <span class=\"icon\">🌿<\/span>\n    <span class=\"mono-text\">À base de plante et Skin-Friendly<\/span>\n  <\/li>\n<\/ul>\n\n<style>\n.product-features {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.product-features li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.product-features .icon {\n  font-size: 22px;\n  margin-right: 8px;\n}\n.mono-text {\n  font-family: 'Space Mono', monospace;\n  font-weight: 700; \/* gras *\/\n  font-size: 15px;\n  letter-spacing: 0.2px;\n}\n<\/style>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_dBmaRd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"low-stock-message\" style=\"text-align:center; font-weight:bold; font-size:16px; margin-bottom: 12px;\">\n  Moins de <span id=\"stock-count\" style=\"color:#e48a00;\">5<\/span> en stock.\n<\/div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    var min = 3;\n    var max = 7;\n    var count = Math.floor(Math.random() * (max - min + 1)) + min;\n    document.getElementById(\"stock-count\").textContent = count;\n  });\n<\/script>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_ycWTtU",
+        "title",
+        "price",
+        "separator",
+        "liquid_bhXCNA",
+        "badges",
+        "rating",
+        "payment_terms",
+        "liquid_E6GACE",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "liquid_dBmaRd",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "custom_liquid_g3CUJA": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<ul class=\"delivery-guarantee\">\n  <li>\n    <span class=\"icon\">🚚<\/span>\n    <span class=\"mono-text\">Commande éxpédiée en 48h<\/span>\n  <\/li>\n  <li>\n    <span class=\"icon\">♡<\/span>\n    <span class=\"mono-text\">Satisfait ou Remboursé 30 Jours<\/span>\n  <\/li>\n<\/ul>\n\n<style>\n.delivery-guarantee {\n  list-style: none;\n  padding: 0;\n  margin: 1em 0;\n}\n.delivery-guarantee li {\n  display: flex;\n  align-items: center;\n  margin-bottom: 0.5em;\n}\n.delivery-guarantee .icon {\n  font-size: 18px;\n  margin-right: 8px;\n  line-height: 1;\n}\n.mono-text {\n  font-family: 'Space Mono', monospace;\n  font-weight: 700;\n  font-size: 15px;\n  letter-spacing: 0.2px;\n}\n<\/style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_T3zwhk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/SOLDES_D_ETE_50_DE_REDUCTION_JUSQU_A_EPUISEMENT_DES_6269f5b2-5def-441c-99b1-6171eafa3961.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_ArHkfL": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"tabs-wrapper\">\n  <div class=\"tabs\">\n    <button class=\"tab active\" onclick=\"showTab(event, 'description')\">Description<\/button>\n    <button class=\"tab\" onclick=\"showTab(event, 'conseils')\">Conseils<\/button>\n  <\/div>\n\n  <div class=\"tab-content\" id=\"description\">\n    {{ product.description }}\n  <\/div>\n\n  <div class=\"tab-content hidden\" id=\"conseils\">\n    <p><strong>Développement du tatouage :<\/strong><br>\n    Les tatouages nécessitent 24 à 48 heures pour se développer pleinement.<\/p>\n\n    <p><strong>Recommandations nocturnes :<\/strong><br>\n    Pendant la nuit, porte des manches longues pour éviter tout transfert de couleur.<\/p>\n\n    <p><strong>Prévention des taches :<\/strong><br>\n    Une transpiration excessive avant que la couleur soit complètement développée peut entraîner des taches.<\/p>\n\n    <p><strong>Tu veux le retirer ?<\/strong><br>\n    Pour enlever un tatouage, humidifie la zone avec de l'eau tiède pendant 15 minutes, puis frotte plusieurs fois par jour avec un démaquillant.<\/p>\n  <\/div>\n<\/div>\n\n<style>\n.tabs-wrapper {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  margin-top: 20px;\n}\n.tabs {\n  display: flex;\n  justify-content: center;\n  gap: 16px;\n  margin-bottom: 12px;\n}\n.tab {\n  background: transparent;\n  border: none;\n  font-weight: 600;\n  padding: 12px 12px;\n  border-radius: 16px;\n  cursor: pointer;\n  font-size: 15px;\n}\n.tab.active {\n  background: #111;\n  color: #fff;\n}\n.tab-content {\n  text-align: left;\n  font-size: 15px;\n  line-height: 1.6;\n  padding: 10px 10px;\n}\n.hidden {\n  display: none;\n}\n<\/style>\n\n<script>\nfunction showTab(event, tabId) {\n  \/\/ Masquer tous les contenus\n  document.querySelectorAll('.tab-content').forEach(el => el.classList.add('hidden'));\n  \/\/ Afficher l'onglet ciblé\n  document.getElementById(tabId).classList.remove('hidden');\n  \/\/ Mettre à jour le style actif\n  document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));\n  event.target.classList.add('active');\n}\n<\/script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_UXAbwz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zMEbKg": {
+          "type": "heading",
+          "settings": {
+            "text": "Tutoriel",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_JaQARf": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_zMEbKg",
+        "subheading_JaQARf"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_h3bBcJ": {
+      "type": "video",
+      "blocks": {
+        "play_PP96B3": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_PP96B3"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/0704(1).mov",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_dMTbkn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CEHbDy": {
+          "type": "heading",
+          "settings": {
+            "text": "Tu veux te faire tatouer, mais tu as peur de le regretter ? Essaie d'abord nos tatouages semi-permanents !",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_LzYagL": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CEHbDy",
+        "subheading_LzYagL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_i6BRBF": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"video-slider-container\">\n  <div class=\"video-slider\">\n\n<!-- Carte 1 (avec bouton son) -->\n<div class=\"video-card\">\n  <video id=\"video-with-audio\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/49b5a028174c4027bb0f603ad6cfe814.mp4\" muted autoplay loop playsinline><\/video>\n  \n  <!-- Bouton pour activer le son -->\n  <button id=\"unmute-button\" class=\"unmute-btn\">🔊 Activer le son<\/button>\n  \n  <div class=\"overlay\">\n    <p>Incroyable réalisme<\/p>\n    <div class=\"stars\">★★★★★<\/div>\n  <\/div>\n<\/div>\n\n<!-- Carte 5 -->\n<div class=\"video-card\">\n  <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c5f422c5d9fd4fa3bc9bd682f25001ac.mp4\" muted autoplay loop playsinline><\/video>\n  <div class=\"overlay\">\n    <p>Facile à appliquer<\/p>\n    <div class=\"stars\">★★★★★<\/div>\n  <\/div>\n<\/div>\n\n    <!-- Carte 2 -->\n    <div class=\"video-card\">\n      <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e74e629fe9f44f268757136c7a36d162.mp4\" muted autoplay loop playsinline><\/video>\n      <div class=\"overlay\">\n        <p>On dirait un vrai.<\/p>\n        <div class=\"stars\">★★★★★<\/div>\n      <\/div>\n    <\/div>\n\n<!-- Carte 1 -->\n    <div class=\"video-card\">\n      <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3d6445ebc12945ac82cd795ac3277790.mp4\" muted autoplay loop playsinline><\/video>\n      <div class=\"overlay\">\n        <p>Les meilleurs tatouages temporaires<\/p>\n        <div class=\"stars\">★★★★★<\/div>\n      <\/div>\n    <\/div>\n\n    <!-- Carte 3 -->\n    <div class=\"video-card\">\n      <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c7aab3a6965548cb83230fa5ce876a5b.mp4\" muted autoplay loop playsinline><\/video>\n      <div class=\"overlay\">\n        <p>Les femmes me regardent plus qu'avant.<\/p>\n        <div class=\"stars\">★★★★★<\/div>\n      <\/div>\n    <\/div>\n\n  <\/div>\n<\/div>\n<style>\n.video-slider-container {\n  overflow-x: auto;\n  -webkit-overflow-scrolling: touch;\n  padding: 10px 0;\n}\n.video-slider {\n  display: flex;\n  gap: 14px;\n  padding-left: 10px;\n}\n.video-card {\n  position: relative;\n  flex: 0 0 230px;\n  border-radius: 16px;\n  overflow: hidden;\n  box-shadow: 0 5px 15px rgba(0,0,0,0.15);\n  background: #000;\n}\n.video-card video {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  display: block;\n}\n.video-card .overlay {\n  position: absolute;\n  bottom: 0;\n  width: 100%;\n  color: white;\n  background: linear-gradient(transparent, rgba(0,0,0,0.6));\n  padding: 10px;\n  font-size: 14px;\n}\n.video-card .stars {\n  font-size: 14px;\n  margin-top: 4px;\n  color: #fff500;\n  letter-spacing: 2px;\n}\nvideo:focus,\n.video-card:focus {\n  outline: none;\n  box-shadow: none;\n}\n.video-card {\n  background-color: #000; \/* fond net *\/\n  position: relative;\n  isolation: isolate; \/* empêche effets visuels d’atteindre les enfants *\/\n}\n\n\n<\/style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Vous aimerez aussi",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "faq_zyyX3w": {
+      "type": "faq",
+      "blocks": {
+        "item_T4WrpU": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps durent les tatouages ?",
+            "content": "<p>Nos tatouages innovants durent jusqu'à deux semaines ! Ils sont 100 % résistants à l'eau et fabriqués à partir d'extraits de plantes naturelles particulièrement doux pour la peau. La durée varie en fonction du type de peau - parfaits pour la natation, le sport et la vie quotidienne !<\/p>"
+          }
+        },
+        "item_pqM7E6": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure la livraison?",
+            "content": "<p>Nous traitons ta commande en 1 à 2 jours. La livraison prend 5 à 7 jours. Bien sûr, tu auras un lien de suivi dès que ton colis est expédié !<\/p>"
+          }
+        },
+        "item_fmqJUF": {
+          "type": "item",
+          "settings": {
+            "title": "L'encre est-elle sans danger ?",
+            "content": "<p>Oui, nos tatouages temporaires sont à base d'herbes et respectent toutes les réglementations européennes et sont absolument sûrs pour toi !<\/p>"
+          }
+        },
+        "item_fYcQgt": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux me doucher avec?",
+            "content": "<p>Oui, nos tatouages temporaires sont 100 % résistants à l'eau, vous pouvez donc vous doucher ou vous baigner sans problème.<\/p>"
+          }
+        },
+        "item_DJ4BfT": {
+          "type": "item",
+          "settings": {
+            "title": "Quelles sont les conditions de retour ?",
+            "content": "<p>Si tu n'es pas satisfait, tu peux échanger les tatouages ou obtenir un remboursement dans un délai de 30 jours.<\/p>"
+          }
+        },
+        "item_UEgKDk": {
+          "type": "item",
+          "settings": {
+            "title": "Une question?",
+            "content": "<p>​Tu as d'autres questions ? Nous sommes là pour t'aider ! Écris-nous simplement un e-mail à contact@inkio.fr, et nous te répondrons dans les 24 heures.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_T4WrpU",
+        "item_pqM7E6",
+        "item_fmqJUF",
+        "item_fYcQgt",
+        "item_DJ4BfT",
+        "item_UEgKDk"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions Fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "173998905724905a15": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17399958338b7cfeb3": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1743131632e7f915e4": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1751143314836dbb3d": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_emNMcH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AQYXy4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zeoob.com_9suge301ex_photo_79abb668-fe10-409a-b100-1f34db81dd77.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_tK3YEb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zeoob.com_gra2xbiq3z_photo_af514ced-5bba-40b9-bf8b-f7c2ca1a073a.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_zhLLAN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zeoob.com_o0d0wnt51m_photo_3b744167-1d33-45aa-8679-c82d1138f750.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_eWqiLd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zeoob.com_njae6484f4_photo_87201b3e-aa1b-4c32-8342-bd5b39e4f71c.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_rh3Hea": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zeoob.com_j83hgk1eus_photo_33f5ff1f-d6b0-46dd-b943-42d430c8fc22.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AQYXy4",
+        "image_tK3YEb",
+        "image_zhLLAN",
+        "image_eWqiLd",
+        "image_rh3Hea"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "17519119283eda0b11": {
+      "type": "apps",
+      "blocks": {
+        "aftersell_by_rokt_pdp_upsells_CE6E3D": {
+          "type": "shopify:\/\/apps\/aftersell-by-rokt\/blocks\/pdp-upsells\/509ec35d-0632-4dfc-a105-fa799cd9d149",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "aftersell_by_rokt_pdp_upsells_CE6E3D"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_g3CUJA",
+    "image_with_text_overlay_T3zwhk",
+    "custom_liquid_ArHkfL",
+    "rich_text_UXAbwz",
+    "video_h3bBcJ",
+    "rich_text_dMTbkn",
+    "custom_liquid_i6BRBF",
+    "related-products",
+    "faq_zyyX3w",
+    "173998905724905a15",
+    "17399958338b7cfeb3",
+    "1743131632e7f915e4",
+    "1751143314836dbb3d",
+    "slideshow_emNMcH",
+    "17519119283eda0b11"
+  ]
+}
